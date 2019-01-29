@@ -7,7 +7,7 @@ library(data.table)
 
 ## directory 
 
-base <- "H:/Public/Justice Program/Reports and Pubs/Crim/Arnold Foundation Fees and Fines (Phase II)/Data/Cost Data/New Mexico/Caseloads2"
+base <- "H:/Public/Justice Program/Reports and Pubs/Crim/Arnold Foundation Fees and Fines (Phase II)/Data/Cost Data/New Mexico/Caseloads2/caseloads"
 setwd(base)
 
 ## obtain pdfs from directory 

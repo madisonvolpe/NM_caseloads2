@@ -1,0 +1,1527 @@
+"","Court","PendStart","New","Reopen","Closed","PendatEnd","Pending0.6","Pending6plus","PendingInact.BW","JuryTrials","NonJuryTrials","Convict","Acquit","PleaTrial","DismTrial","DismBrief","PleaBef","DismbyPros","PostJActiv","Other","court.type","Year"
+"1","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"First District Court",2015
+"2","Adult Motor Vehicle Offenses","2","0","1","0","3","1",1,1,0,0,0,0,0,0,0,0,0,0,"0","First District Court",2015
+"3","Extradition","12","12","0","6","18","1",16,1,0,0,0,0,0,0,0,0,4,0,"2","First District Court",2015
+"4","Felony Crimes Against Property","804","371","524","1000","697","213",239,245,1,0,0,0,0,1,59,322,280,529,"1","First District Court",2015
+"5","Felony Crimes Against Persons","544","353","310","580","625","221",249,155,7,0,3,2,2,0,43,186,171,286,"1","First District Court",2015
+"6","Felony Drug Offenses","446","288","217","464","487","141",170,176,2,0,0,0,2,0,50,153,157,204,"0","First District Court",2015
+"7","Felony DWI/DUI","214","142","133","242","249","78",97,74,2,0,1,0,0,1,4,116,85,110,"0","First District Court",2015
+"8","Felony Homicide","29","7","8","22","22","8",13,1,1,0,1,0,0,0,1,10,6,9,"0","First District Court",2015
+"9","Felony Miscellaneous","84","39","40","87","76","18",27,31,0,0,0,0,0,0,9,24,20,47,"0","First District Court",2015
+"10","Felony Public Safety Offenses","22","15","26","28","35","14",15,6,0,0,0,0,0,0,0,8,6,17,"0","First District Court",2015
+"11","Felony Sexual Offenses","61","17","9","25","62","12",32,18,0,0,0,0,0,0,0,10,10,10,"0","First District Court",2015
+"12","Felony Domestic Violence","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","First District Court",2015
+"13","Lower Court Appeal","8","0","0","0","8","0",8,0,0,0,0,0,0,0,0,0,0,0,"0","First District Court",2015
+"14","Felony Vehicular Homicide","1","4","1","2","4","3",1,0,0,0,0,0,0,0,1,1,1,0,"0","First District Court",2015
+"15","Lower Court Appeal ‐ Defendant Appellant","37","16","2","18","37","8",28,1,0,2,1,0,1,0,0,12,3,2,"0","First District Court",2015
+"16","Lower Court Appeal ‐ Plaintiff Appellant","9","4","0","6","7","2",5,0,0,1,0,0,0,1,2,1,2,0,"0","First District Court",2015
+"17","Lower Court DWI/DUI Appeals","4","0","0","0","4","0",4,0,0,0,0,0,0,0,0,0,0,0,"0","First District Court",2015
+"18","Lower Court DWI Appeal ‐ Defendant Appellant","9","16","0","11","14","8",6,0,0,2,1,0,0,1,1,7,1,0,"1","First District Court",2015
+"19","Lower Court DWI Appeal ‐ Plaintiff Appellant","3","3","1","4","3","2",1,0,0,1,1,0,0,0,0,1,1,1,"0","First District Court",2015
+"20","Misdemeanor DWI/DUI","2","0","1","1","2","1",1,0,0,0,0,0,0,0,0,0,1,0,"0","First District Court",2015
+"21","Petition for Review of Bond/Conditions of Release","0","2","0","1","1","0",1,0,0,0,0,0,0,0,0,0,1,0,"0","First District Court",2015
+"22","Total","2292","1289","1273","2497","2355","731",915,709,13,6,8,2,5,4,170,851,749,1215,"5","First District Court",2015
+"23","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"First District Court",2015
+"24","Juvenile Public Safety Offenses","2","9","13","22","2","1",1,0,0,0,0,0,0,0,0,8,10,12,"0","First District Court",2015
+"25","Juvenile Crimes Against Property","37","60","81","143","35","20",11,4,0,0,0,0,0,0,0,39,48,84,"0","First District Court",2015
+"26","Juvenile Crimes Against Persons","35","81","74","144","46","26",13,7,0,0,0,0,0,0,7,45,53,70,"0","First District Court",2015
+"27","Juvenile Delinquent Felony","5","5","3","6","7","2",1,4,0,0,0,0,0,0,0,1,3,2,"0","First District Court",2015
+"28","Juvenile Delinquent Non‐Felony","1","8","6","12","3","1",2,0,0,0,0,0,0,0,0,4,4,5,"0","First District Court",2015
+"29","Juvenile Drug Offenses","13","44","30","60","27","17",7,3,0,0,0,0,0,0,1,25,27,26,"0","First District Court",2015
+"30","Juvenile DWI Offenses","5","11","2","8","10","5",5,0,0,0,0,0,0,0,0,5,5,2,"0","First District Court",2015
+"31","Juvenile Homicide","2","0","0","0","2","0",2,0,0,0,0,0,0,0,0,0,0,0,"0","First District Court",2015
+"32","Juvenile Motor Vehicle Offenses","0","5","8","11","2","2",0,0,0,0,0,0,0,0,0,1,3,8,"0","First District Court",2015
+"33","Juvenile Sexual Offenses","6","2","3","5","6","2",2,2,0,0,0,0,0,0,0,2,1,2,"0","First District Court",2015
+"34","Youthful Offender Crimes Against Persons","3","1","0","2","2","1",1,0,0,0,0,0,0,0,0,1,2,0,"0","First District Court",2015
+"35","Youthful Offender Crimes Against Property","0","0","2","2","0","0",0,0,0,0,0,0,0,0,0,0,0,2,"0","First District Court",2015
+"36","Youthful Offender Sexual Offenses","2","0","0","0","2","0",2,0,0,0,0,0,0,0,0,0,0,0,"0","First District Court",2015
+"37","Total","111","226","222","415","144","77",47,20,0,0,0,0,0,0,8,131,156,213,"0","First District Court",2015
+"38","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Second District Court",2015
+"39","Domestic Violence Appeal ‐ Defendant Appellant","5","0","0","4","1","0",1,0,0,0,0,0,0,0,0,4,0,0,"0","Second District Court",2015
+"40","Extradition","54","69","1","67","57","16",6,35,0,0,0,0,0,0,0,0,67,0,"0","Second District Court",2015
+"41","Felony Crimes Against Property","3729","1515","1813","4387","2663","557",654,1452,40,0,11,8,8,13,623,1306,1710,1827,"0","Second District Court",2015
+"42","Felony Crimes Against Persons","2265","925","1139","2789","1546","435",565,546,43,0,12,13,11,7,390,851,1244,1154,"0","Second District Court",2015
+"43","Felony Drug Offenses","2747","1012","1196","3168","1787","304",402,1081,44,0,13,7,11,13,467,918,1414,1202,"0","Second District Court",2015
+"44","Felony DWI/DUI","472","155","109","417","318","38",135,145,8,1,3,2,2,2,7,263,245,113,"0","Second District Court",2015
+"45","Felony Homicide","60","47","15","46","76","24",40,12,6,0,4,1,1,0,0,20,23,15,"0","Second District Court",2015
+"46","Felony Miscellaneous","146","46","47","138","100","18",28,54,0,0,0,0,0,0,18,52,50,41,"0","Second District Court",2015
+"47","Felony Public Safety Offenses","353","299","200","564","285","106",78,101,4,0,2,1,0,1,79,238,225,188,"0","Second District Court",2015
+"48","Felony Sexual Offenses","423","107","101","286","350","76",189,85,25,0,6,6,4,9,38,77,134,94,"0","Second District Court",2015
+"49","Felony First Degree","37","0","22","21","38","8",23,7,2,0,1,0,1,0,0,2,1,17,"0","Second District Court",2015
+"50","Felony Domestic Violence","409","237","182","549","278","95",86,97,9,0,2,3,0,4,87,154,295,165,"0","Second District Court",2015
+"51","Lower Court Appeal","3","0","0","1","2","1",1,0,0,0,0,0,0,0,0,0,0,0,"0","Second District Court",2015
+"52","Felony Vehicular Homicide","5","1","3","3","6","1",3,2,1,0,1,0,0,0,0,1,1,1,"0","Second District Court",2015
+"53","Lower Court Appeal ‐ Defendant Appellant","38","10","0","29","19","4",15,0,0,3,0,0,2,0,4,19,3,0,"0","Second District Court",2015
+"54","Lower Court Appeal ‐ Plaintiff Appellant","1","1","0","2","0","0",0,0,0,0,0,0,0,0,1,0,1,0,"0","Second District Court",2015
+"55","Lower Court DWI/DUI Appeals","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Second District Court",2015
+"56","Lower Court DWI Appeal ‐ Defendant Appellant","91","40","0","89","42","17",25,0,0,0,0,0,0,0,5,82,0,0,"0","Second District Court",2015
+"57","Lower Court DWI Appeal ‐ Plaintiff Appellant","3","5","0","4","4","3",1,0,0,0,0,0,0,0,0,4,0,0,"0","Second District Court",2015
+"58","Misdemeanor (Dist.)","123","306","194","485","141","74",23,44,0,0,0,0,0,0,14,237,44,194,"0","Second District Court",2015
+"59","Misdemeanor DWI/DUI","7","23","7","26","11","7",2,2,0,0,0,0,0,0,0,19,4,5,"0","Second District Court",2015
+"60","Total","10972","4798","5029","13075","7725","1784",2278,3663,182,4,55,41,40,49,1733,4247,5461,5016,"0","Second District Court",2015
+"61","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Second District Court",2015
+"62","Juvenile Public Safety Offenses","123","111","28","195","65","34",24,7,0,0,0,0,0,0,72,52,68,38,"0","Second District Court",2015
+"63","Juvenile Crimes Against Property","239","382","161","551","231","110",58,63,0,4,0,0,1,3,88,181,267,151,"0","Second District Court",2015
+"64","Juvenile Crimes Against Persons","239","420","103","478","287","163",78,46,0,4,0,0,1,3,110,147,243,95,"0","Second District Court",2015
+"65","Juvenile Drug Offenses","77","113","27","157","60","30",20,10,0,1,0,0,0,1,36,42,80,31,"0","Second District Court",2015
+"66","Juvenile DWI Offenses","6","14","3","18","5","1",0,4,0,0,0,0,0,0,1,14,13,3,"0","Second District Court",2015
+"67","Juvenile Graffiti Offenses","2","2","2","4","2","2",0,0,0,0,0,0,0,0,0,0,2,2,"0","Second District Court",2015
+"68","Juvenile Motor Vehicle Offenses","7","16","0","13","10","5",2,3,0,0,0,0,0,0,1,7,9,3,"0","Second District Court",2015
+"69","Juvenile Sexual Offenses","21","34","6","49","13","8",3,2,0,0,0,0,0,0,4,28,30,9,"0","Second District Court",2015
+"70","Youthful Offender Crimes Against Persons","11","10","1","16","6","1",3,2,0,0,0,0,0,0,0,12,12,4,"0","Second District Court",2015
+"71","Youthful Offender Crimes Against Property","4","0","2","4","2","1",0,1,0,0,0,0,0,0,0,3,3,1,"0","Second District Court",2015
+"72","Youthful Offender Public Safety Offenses","1","2","1","3","1","0",0,1,0,0,0,0,0,0,0,2,2,1,"0","Second District Court",2015
+"73","Youthful Offender Homicide","1","0","0","0","1","0",0,1,0,0,0,0,0,0,0,0,0,0,"0","Second District Court",2015
+"74","Youthful Offender Sexual Offenses","4","2","0","3","3","2",0,1,0,0,0,0,0,0,2,1,1,0,"0","Second District Court",2015
+"75","Total","735","1106","334","1491","686","357",188,141,0,9,0,0,2,7,314,489,730,338,"0","Second District Court",2015
+"76","CRIMINAL","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Third District Court",2015
+"77","Adult Motor Vehicle Offenses","3","0","0","0","3","0",0,3,0,0,0,0,0,0,0,0,0,0,"0","Third District Court",2015
+"78","Domestic Violence Appeal","2","0","0","0","2","0",2,0,0,0,0,0,0,0,0,0,0,0,"0","Third District Court",2015
+"79","Extradition","9","19","0","24","5","1",4,0,0,0,0,0,0,0,2,1,5,0,"16","Third District Court",2015
+"80","Felony Crimes Against Property","542","312","301","615","550","182",164,204,10,0,3,2,3,2,30,204,167,287,"1","Third District Court",2015
+"81","Felony Crimes Against Persons","642","398","321","735","633","243",223,167,18,0,8,5,2,3,29,268,226,322,"0","Third District Court",2015
+"82","Felony Drug Offenses","469","245","258","491","485","171",124,190,5,0,5,0,0,0,18,159,159,257,"0","Third District Court",2015
+"83","Felony DWI/DUI","124","67","64","133","124","48",27,49,3,0,2,0,0,1,0,64,58,54,"0","Third District Court",2015
+"84","Felony Homicide","22","8","9","9","30","8",16,6,2,0,2,0,0,0,0,2,2,4,"0","Third District Court",2015
+"85","Felony Miscellaneous","65","43","17","62","63","23",17,23,1,0,1,0,0,0,4,29,23,16,"0","Third District Court",2015
+"86","Felony Public Safety Offenses","21","17","6","24","20","8",7,5,0,0,0,0,0,0,0,10,8,9,"0","Third District Court",2015
+"87","Felony Sexual Offenses","121","52","34","82","127","37",56,34,4,0,1,2,1,0,1,30,34,32,"0","Third District Court",2015
+"88","Felony First Degree","4","0","2","3","3","1",0,2,0,0,0,0,0,0,0,1,1,2,"0","Third District Court",2015
+"89","Felony Domestic Violence","28","12","12","32","20","10",6,4,1,0,1,0,0,0,1,16,18,10,"0","Third District Court",2015
+"90","Felony Vehicular Homicide","2","1","1","2","2","0",1,1,0,0,0,0,0,0,0,1,1,1,"0","Third District Court",2015
+"91","Lower Court Appeal","3","0","0","0","3","0",2,1,0,0,0,0,0,0,0,0,0,0,"0","Third District Court",2015
+"92","Lower Court Appeal ‐ Defendant Appellant","16","25","0","23","18","15",3,0,0,4,3,0,1,0,2,13,5,0,"0","Third District Court",2015
+"93","Lower Court DWI Appeal ‐ Defendant Appellant","12","9","1","11","11","6",5,0,0,2,1,0,0,1,0,7,4,1,"0","Third District Court",2015
+"94","Misdemeanor (Dist.)","6","8","0","6","8","6",1,1,0,0,0,0,0,0,2,2,3,1,"0","Third District Court",2015
+"95","Misdemeanor DWI/DUI","28","10","13","24","27","10",0,17,0,0,0,0,0,0,1,4,6,15,"0","Third District Court",2015
+"96","Total","2119","1226","1039","2276","2134","769",658,707,44,6,27,9,7,7,90,811,720,1011,"17","Third District Court",2015
+"97","JUVENILE","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Third District Court",2015
+"98","Juvenile Public Safety Offenses","6","18","3","20","7","5",2,0,0,0,0,0,0,0,1,7,9,4,"0","Third District Court",2015
+"99","Juvenile Crimes Against Property","58","72","42","116","54","38",3,13,0,0,0,0,0,0,5,41,36,48,"1","Third District Court",2015
+"100","Juvenile Crimes Against Persons","59","108","42","163","46","27",6,13,1,0,1,0,0,0,8,65,68,45,"0","Third District Court",2015
+"101","Juvenile Delinquent Felony","6","11","2","16","3","3",0,0,0,0,0,0,0,0,0,11,7,1,"1","Third District Court",2015
+"102","Juvenile Delinquent Non‐Felony","5","28","3","25","11","7",0,4,0,0,0,0,0,0,0,9,14,4,"0","Third District Court",2015
+"103","Juvenile Drug Offenses","31","47","20","77","21","17",2,2,0,0,0,0,0,0,2,24,33,24,"0","Third District Court",2015
+"104","Juvenile DWI Offenses","5","10","1","11","5","4",0,1,0,0,0,0,0,0,0,7,9,1,"0","Third District Court",2015
+"105","Juvenile Graffiti Offenses","0","1","0","0","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Third District Court",2015
+"106","Juvenile Homicide","0","1","0","1","0","0",0,0,0,0,0,0,0,0,0,0,0,0,"1","Third District Court",2015
+"107","Juvenile Motor Vehicle Offenses","0","7","0","4","3","3",0,0,0,0,0,0,0,0,0,0,4,0,"0","Third District Court",2015
+"108","Juvenile Sexual Offenses","19","14","4","24","13","8",1,4,0,0,0,0,0,0,1,12,14,3,"1","Third District Court",2015
+"109","Youthful Offender Crimes Against Persons","5","2","4","5","6","3",3,0,0,0,0,0,0,0,0,1,2,3,"0","Third District Court",2015
+"110","Youthful Offender Crimes Against Property","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,1,1,0,"0","Third District Court",2015
+"111","Youthful Offender Homicide","0","1","1","0","2","2",0,0,0,0,0,0,0,0,0,0,0,0,"0","Third District Court",2015
+"112","Youthful Offender Sexual Offenses","2","1","1","1","3","2",1,0,0,0,0,0,0,0,0,1,1,0,"0","Third District Court",2015
+"113","Total","197","321","123","464","175","120",18,37,1,0,1,0,0,0,17,179,198,133,"4","Third District Court",2015
+"114","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Fourth District Court",2015
+"115","Adult Motor Vehicle Offenses","0","2","0","1","1","1",0,0,0,0,0,0,0,0,1,0,0,0,"0","Fourth District Court",2015
+"116","Felony Crimes Against Property","58","74","37","104","65","47",9,9,1,0,1,0,0,0,18,26,46,43,"0","Fourth District Court",2015
+"117","Felony Crimes Against Persons","74","93","59","148","80","54",13,13,2,1,0,1,0,2,26,52,56,64,"0","Fourth District Court",2015
+"118","Felony Drug Offenses","68","74","55","116","82","48",17,17,1,0,1,0,0,0,30,23,42,54,"0","Fourth District Court",2015
+"119","Felony DWI/DUI","23","27","13","37","26","14",8,4,0,0,0,0,0,0,0,23,25,12,"0","Fourth District Court",2015
+"120","Felony Homicide","7","2","2","4","7","3",4,0,1,0,1,0,0,0,0,1,0,2,"0","Fourth District Court",2015
+"121","Felony Miscellaneous","6","3","1","6","4","2",1,1,0,0,0,0,0,0,0,3,4,0,"0","Fourth District Court",2015
+"122","Felony Public Safety Offenses","26","17","27","45","25","19",2,4,0,0,0,0,0,0,3,16,17,25,"0","Fourth District Court",2015
+"123","Felony Sexual Offenses","6","12","8","12","14","3",10,1,1,0,1,0,0,0,2,2,2,7,"0","Fourth District Court",2015
+"124","Felony First Degree","1","0","1","0","2","1",1,0,0,0,0,0,0,0,0,0,0,0,"0","Fourth District Court",2015
+"125","Felony Vehicular Homicide","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,0,0,1,"0","Fourth District Court",2015
+"126","Lower Court Appeal ‐ Defendant Appellant","4","2","0","3","3","2",1,0,0,0,0,0,0,0,2,1,0,0,"0","Fourth District Court",2015
+"127","Lower Court DWI Appeal ‐ Defendant Appellant","2","2","1","3","2","1",1,0,0,0,0,0,0,0,0,3,0,0,"0","Fourth District Court",2015
+"128","Total","276","308","204","480","311","195",67,49,6,1,4,1,0,2,82,150,192,208,"0","Fourth District Court",2015
+"129","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Fourth District Court",2015
+"130","Juvenile Public Safety Offenses","1","7","4","11","1","1",0,0,0,0,0,0,0,0,0,6,3,3,"0","Fourth District Court",2015
+"131","Juvenile Crimes Against Property","3","20","12","28","7","5",1,1,0,0,0,0,0,0,0,14,10,11,"0","Fourth District Court",2015
+"132","Juvenile Crimes Against Persons","7","14","9","23","6","5",1,0,0,0,0,0,0,0,0,10,3,11,"0","Fourth District Court",2015
+"133","Juvenile Delinquent Felony","0","1","1","1","0","0",0,0,0,0,0,0,0,0,0,1,0,0,"0","Fourth District Court",2015
+"134","Juvenile Drug Offenses","1","7","3","8","3","3",0,0,0,0,0,0,0,0,0,4,0,4,"0","Fourth District Court",2015
+"135","Juvenile DWI Offenses","0","2","0","1","1","1",0,0,0,0,0,0,0,0,0,1,1,0,"0","Fourth District Court",2015
+"136","Juvenile Motor Vehicle Offenses","0","4","0","4","0","0",0,0,0,0,0,0,0,0,0,3,1,0,"0","Fourth District Court",2015
+"137","Juvenile Sexual Offenses","1","1","1","3","0","0",0,0,0,0,0,0,0,0,0,2,2,1,"0","Fourth District Court",2015
+"138","Youthful Offender Crimes Against Persons","1","0","1","2","0","0",0,0,0,0,0,0,0,0,0,1,1,1,"0","Fourth District Court",2015
+"139","Total","14","56","31","81","18","15",2,1,0,0,0,0,0,0,0,42,21,31,"0","Fourth District Court",2015
+"140","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Fifth District Court",2015
+"141","Adult Motor Vehicle Offenses","13","3","9","16","9","2",4,3,1,1,2,0,0,0,0,3,1,10,"0","Fifth District Court",2015
+"142","Extradition","4","5","0","8","1","1",0,0,0,0,0,0,0,0,4,0,0,0,"3","Fifth District Court",2015
+"143","Felony Crimes Against Property","624","564","384","948","631","369",134,128,40,2,17,6,5,14,41,387,155,389,"0","Fifth District Court",2015
+"144","Felony Crimes Against Persons","392","372","227","575","418","239",117,62,32,2,18,9,5,2,26,224,137,224,"0","Fifth District Court",2015
+"145","Felony Drug Offenses","526","591","328","905","543","325",134,84,17,3,9,3,5,3,61,430,224,322,"0","Fifth District Court",2015
+"146","Felony DWI/DUI","71","65","22","80","78","32",27,19,6,2,6,2,0,0,3,45,23,21,"0","Fifth District Court",2015
+"147","Felony Homicide","41","12","7","29","31","8",23,0,6,0,3,3,0,0,1,10,5,11,"0","Fifth District Court",2015
+"148","Felony Miscellaneous","15","9","10","17","17","11",2,4,1,0,1,0,0,0,0,6,1,9,"0","Fifth District Court",2015
+"149","Felony Public Safety Offenses","98","108","42","155","94","60",19,15,9,2,5,2,3,1,4,87,34,39,"0","Fifth District Court",2015
+"150","Felony Sexual Offenses","81","67","24","89","85","36",43,6,13,1,5,6,2,0,4,37,25,22,"0","Fifth District Court",2015
+"151","Felony First Degree","1","0","2","2","1","1",0,0,0,0,0,0,0,0,0,0,0,2,"0","Fifth District Court",2015
+"152","Felony Domestic Violence","27","17","12","39","17","9",4,4,3,0,1,1,0,1,1,16,11,11,"0","Fifth District Court",2015
+"153","Felony Vehicular Homicide","2","1","1","3","1","0",1,0,2,0,2,0,0,0,0,0,0,1,"0","Fifth District Court",2015
+"154","Lower Court Appeal ‐ Defendant Appellant","40","69","1","70","40","33",7,0,1,4,2,1,1,0,7,49,5,2,"0","Fifth District Court",2015
+"155","Lower Court Appeal ‐ Plaintiff Appellant","1","1","0","1","1","1",0,0,0,0,0,0,0,0,1,0,0,0,"0","Fifth District Court",2015
+"156","Lower Court DWI Appeal ‐ Defendant Appellant","18","30","1","29","20","13",6,1,2,10,6,2,1,1,1,12,2,1,"0","Fifth District Court",2015
+"157","Lower Court DWI Appeal ‐ Plaintiff Appellant","2","2","0","2","2","0",1,1,0,0,0,0,0,0,1,1,0,0,"0","Fifth District Court",2015
+"158","Misdemeanor (Dist.)","17","20","6","19","24","15",4,5,0,2,1,0,1,0,0,7,8,3,"0","Fifth District Court",2015
+"159","Misdemeanor DWI/DUI","43","74","8","58","67","40",11,16,1,6,4,1,2,0,1,38,22,5,"0","Fifth District Court",2015
+"160","Total","2016","2010","1084","3045","2080","1195",537,348,134,35,82,36,25,22,156,1352,653,1072,"3","Fifth District Court",2015
+"161","JUVELINE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Fifth District Court",2015
+"162","Juvenile Public Safety Offenses","34","53","10","78","20","14",5,1,0,0,0,0,0,0,11,40,17,14,"0","Fifth District Court",2015
+"163","Juvenile Crimes Against Property","77","127","44","201","49","31",9,9,0,4,0,1,1,2,26,90,35,59,"0","Fifth District Court",2015
+"164","Juvenile Crimes Against Persons","60","98","21","139","40","29",7,4,0,1,1,0,0,0,23,69,22,28,"1","Fifth District Court",2015
+"165","Juvenile Delinquent Felony","16","16","4","29","7","5",2,0,0,0,0,0,0,0,2,20,1,7,"0","Fifth District Court",2015
+"166","Juvenile Delinquent Non‐Felony","33","111","25","124","45","33",5,7,0,2,0,0,0,2,3,87,13,21,"0","Fifth District Court",2015
+"167","Juvenile Drug Offenses","23","75","21","95","24","17",3,4,1,1,1,1,0,0,7,48,20,21,"0","Fifth District Court",2015
+"168","Juvenile DWI Offenses","4","3","0","6","1","0",1,0,0,0,0,0,0,0,0,6,1,0,"0","Fifth District Court",2015
+"169","Juvenile Truancy","11","33","0","36","8","8",0,0,0,10,0,0,7,3,0,13,13,0,"0","Fifth District Court",2015
+"170","Juvenile Homicide","1","1","0","2","0","0",0,0,0,0,0,0,0,0,0,0,0,0,"2","Fifth District Court",2015
+"171","Juvenile Motor Vehicle Offenses","10","15","0","17","8","5",3,0,1,0,1,0,0,0,7,7,0,1,"0","Fifth District Court",2015
+"172","Juvenile Sexual Offenses","8","12","2","16","7","4",3,0,1,0,1,0,0,0,0,6,6,2,"1","Fifth District Court",2015
+"173","Youthful Offender Crimes Against Persons","2","1","2","4","1","0",1,0,0,0,0,0,0,0,0,2,0,2,"0","Fifth District Court",2015
+"174","Youthful Offender Crimes Against Property","3","3","0","5","1","1",0,0,0,0,0,0,0,0,0,4,1,0,"0","Fifth District Court",2015
+"175","Youthful Offender Homicide","2","1","2","2","3","1",2,0,1,0,1,0,0,0,0,0,0,1,"0","Fifth District Court",2015
+"176","Youthful Offender Sexual Offenses","1","1","0","1","1","1",0,0,0,0,0,0,0,0,0,1,0,0,"0","Fifth District Court",2015
+"177","Total","285","550","131","755","215","149",41,25,4,18,5,2,8,7,79,393,129,156,"4","Fifth District Court",2015
+"178","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Sixth District Court",2015
+"179","Extradition","0","2","0","2","0","0",0,0,0,0,0,0,0,0,0,0,0,0,"2","Sixth District Court",2015
+"180","Felony Crimes Against Property","126","112","97","220","116","56",16,44,11,0,4,3,4,0,21,82,51,93,"0","Sixth District Court",2015
+"181","Felony Crimes Against Persons","193","164","114","297","176","92",45,39,15,0,2,6,4,3,9,122,61,124,"0","Sixth District Court",2015
+"182","Felony Drug Offenses","125","128","90","221","119","42",13,64,2,0,0,1,1,0,8,116,48,89,"0","Sixth District Court",2015
+"183","Felony DWI/DUI","25","19","10","33","20","8",3,9,2,1,0,0,3,0,1,22,16,6,"0","Sixth District Court",2015
+"184","Felony Homicide","4","3","2","5","4","2",2,0,0,0,0,0,0,0,0,4,2,1,"0","Sixth District Court",2015
+"185","Felony Miscellaneous","20","11","6","25","13","4",1,8,1,0,0,0,1,0,0,15,6,4,"0","Sixth District Court",2015
+"186","Felony Public Safety Offenses","19","32","10","41","20","12",5,3,2,0,1,1,0,0,4,19,19,10,"0","Sixth District Court",2015
+"187","Felony Sexual Offenses","17","16","8","19","22","13",8,1,3,0,1,1,0,1,1,10,2,4,"0","Sixth District Court",2015
+"188","Felony Domestic Violence","0","3","0","1","2","1",1,0,0,0,0,0,0,0,0,1,0,0,"0","Sixth District Court",2015
+"189","Lower Court Appeal","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,0,0,1,"0","Sixth District Court",2015
+"190","Lower Court Appeal ‐ Defendant Appellant","13","46","1","40","20","12",8,0,1,0,1,0,0,0,1,33,3,2,"0","Sixth District Court",2015
+"191","Lower Court Appeal ‐ Plaintiff Appellant","0","1","0","0","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Sixth District Court",2015
+"192","Lower Court DWI Appeal ‐ Defendant Appellant","1","8","0","4","5","5",0,0,0,0,0,0,0,0,1,3,0,0,"0","Sixth District Court",2015
+"193","Misdemeanor (Dist.)","0","0","1","1","0","0",0,0,0,0,0,0,0,0,0,0,0,1,"0","Sixth District Court",2015
+"194","Misdemeanor DWI/DUI","3","0","0","1","2","0",1,1,0,0,0,0,0,0,0,1,1,0,"0","Sixth District Court",2015
+"195","Total","547","545","339","911","520","248",103,169,37,1,9,12,13,4,46,428,209,335,"2","Sixth District Court",2015
+"196","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Sixth District Court",2015
+"197","Juvenile Public Safety Offenses","6","10","5","17","4","3",1,0,0,0,0,0,0,0,2,5,3,7,"0","Sixth District Court",2015
+"198","Juvenile Crimes Against Property","8","31","15","46","8","4",3,1,0,0,0,0,0,0,0,25,8,15,"0","Sixth District Court",2015
+"199","Juvenile Crimes Against Persons","16","38","10","53","12","9",2,1,1,3,0,0,2,2,0,27,10,14,"0","Sixth District Court",2015
+"200","Juvenile Delinquent Felony","0","1","0","1","0","0",0,0,0,0,0,0,0,0,0,1,0,0,"0","Sixth District Court",2015
+"201","Juvenile Delinquent Non‐Felony","1","2","5","8","0","0",0,0,0,0,0,0,0,0,0,1,1,6,"0","Sixth District Court",2015
+"202","Juvenile Drug Offenses","9","29","11","43","6","5",0,1,0,2,0,0,2,0,0,23,8,11,"0","Sixth District Court",2015
+"203","Juvenile DWI Offenses","0","6","0","4","2","2",0,0,0,0,0,0,0,0,0,3,1,0,"0","Sixth District Court",2015
+"204","Juvenile Homicide","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Sixth District Court",2015
+"205","Juvenile Motor Vehicle Offenses","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,0,1,0,"0","Sixth District Court",2015
+"206","Juvenile Sexual Offenses","0","4","0","2","2","2",0,0,0,0,0,0,0,0,0,1,0,0,"1","Sixth District Court",2015
+"207","Youthful Offender Crimes Against Persons","2","0","1","1","2","0",2,0,0,0,0,0,0,0,0,1,0,0,"0","Sixth District Court",2015
+"208","Youthful Offender Homicide","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Sixth District Court",2015
+"209","Youthful Offender Sexual Offenses","1","1","0","1","1","0",1,0,0,0,0,0,0,0,0,0,1,0,"0","Sixth District Court",2015
+"210","Total","46","122","47","177","39","25",11,3,1,5,0,0,4,2,2,87,33,53,"1","Sixth District Court",2015
+"211","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"","Seventh District Court",2015
+"212","Adult Motor Vehicle Offenses","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Seventh District Court",2015
+"213","Extradition","1","1","0","0","2","1",0,1,0,0,0,0,0,0,0,0,0,0,"0","Seventh District Court",2015
+"214","Felony Crimes Against Property","116","84","46","133","114","59",30,25,1,0,0,0,1,0,2,67,52,54,"0","Seventh District Court",2015
+"215","Felony Crimes Against Persons","104","86","33","117","105","62",32,11,2,0,1,1,0,0,2,56,49,37,"0","Seventh District Court",2015
+"216","Felony Drug Offenses","139","110","54","166","136","66",42,28,0,0,0,0,0,0,4,69,71,59,"0","Seventh District Court",2015
+"217","Felony DWI/DUI","20","6","2","12","16","4",5,7,1,0,1,0,0,0,1,6,2,3,"0","Seventh District Court",2015
+"218","Felony Homicide","1","4","3","3","5","2",2,1,0,0,0,0,0,0,0,1,1,2,"0","Seventh District Court",2015
+"219","Felony Miscellaneous","20","16","6","24","18","8",6,4,0,0,0,0,0,0,2,12,13,4,"0","Seventh District Court",2015
+"220","Felony Public Safety Offenses","12","21","3","16","20","12",3,5,0,0,0,0,0,0,2,8,7,3,"0","Seventh District Court",2015
+"221","Felony Sexual Offenses","22","17","7","22","24","10",11,3,1,0,0,1,0,0,1,11,11,8,"0","Seventh District Court",2015
+"222","Felony First Degree","1","0","2","2","1","1",0,0,0,0,0,0,0,0,0,0,0,2,"0","Seventh District Court",2015
+"223","Felony Domestic Violence","1","2","3","3","3","3",0,0,0,0,0,0,0,0,0,1,1,2,"0","Seventh District Court",2015
+"224","Felony Vehicular Homicide","2","0","0","1","1","0",1,0,0,0,0,0,0,0,0,1,1,0,"0","Seventh District Court",2015
+"225","Lower Court Appeal ‐ Defendant Appellant","10","9","2","16","5","2",2,1,0,1,1,0,0,0,2,11,0,2,"0","Seventh District Court",2015
+"226","Lower Court Appeal ‐ Plaintiff Appellant","0","3","0","2","1","1",0,0,0,0,0,0,0,0,1,1,0,0,"0","Seventh District Court",2015
+"227","Lower Court DWI Appeal ‐ Defendant Appellant","4","3","0","2","6","4",2,0,0,0,0,0,0,0,0,2,0,0,"0","Seventh District Court",2015
+"228","Lower Court DWI Appeal ‐ Plaintiff Appellant","0","1","0","1","0","0",0,0,0,0,0,0,0,0,0,1,0,0,"0","Seventh District Court",2015
+"229","Misdemeanor (Dist.)","11","1","6","16","2","1",1,0,0,0,0,0,0,0,0,2,3,11,"0","Seventh District Court",2015
+"230","Misdemeanor DWI/DUI","0","5","1","4","2","2",0,0,0,0,0,0,0,0,0,2,2,0,"0","Seventh District Court",2015
+"231","Total","465","369","168","540","462","238",138,86,5,1,3,2,1,0,17,251,213,187,"0","Seventh District Court",2015
+"232","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"","Seventh District Court",2015
+"233","Juvenile Public Safety Offenses","0","6","0","3","3","2",1,0,1,0,0,0,1,0,0,2,0,0,"0","Seventh District Court",2015
+"234","Juvenile Crimes Against Property","12","17","13","34","8","5",2,1,0,1,0,0,0,1,4,11,6,15,"0","Seventh District Court",2015
+"235","Juvenile Crimes Against Persons","12","23","12","38","9","8",1,0,0,0,0,0,0,0,5,14,11,12,"0","Seventh District Court",2015
+"236","Juvenile Delinquent Felony","2","4","1","6","1","0",1,0,0,0,0,0,0,0,1,1,1,3,"1","Seventh District Court",2015
+"237","Juvenile Delinquent Non‐Felony","1","6","2","6","3","2",0,1,0,0,0,0,0,0,0,2,2,2,"0","Seventh District Court",2015
+"238","Juvenile Drug Offenses","11","12","5","22","6","3",0,3,0,0,0,0,0,0,5,10,5,4,"0","Seventh District Court",2015
+"239","Juvenile DWI Offenses","0","3","0","3","0","0",0,0,0,0,0,0,0,0,0,3,1,0,"0","Seventh District Court",2015
+"240","Juvenile Extradition","0","1","0","1","0","0",0,0,0,0,0,0,0,0,0,0,0,0,"1","Seventh District Court",2015
+"241","Juvenile Motor Vehicle Offenses","1","4","3","8","1","1",0,0,0,0,0,0,0,0,0,2,3,4,"0","Seventh District Court",2015
+"242","Juvenile Sexual Offenses","3","2","1","5","1","0",1,0,0,0,0,0,0,0,0,4,0,1,"0","Seventh District Court",2015
+"243","Total","42","78","37","126","32","21",6,5,1,1,0,0,1,1,15,49,29,41,"2","Seventh District Court",2015
+"244","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Eighth District Court",2015
+"245","Adult Motor Vehicle Offenses","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Eighth District Court",2015
+"246","Extradition","1","0","0","1","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Eighth District Court",2015
+"247","Felony Crimes Against Property","141","110","67","181","145","64",29,52,2,0,0,0,2,0,14,57,53,88,"0","Eighth District Court",2015
+"248","Felony Crimes Against Persons","157","136","64","179","184","99",35,50,3,0,2,0,0,1,13,56,76,67,"0","Eighth District Court",2015
+"249","Felony Drug Offenses","134","138","44","142","178","72",60,46,1,0,0,1,0,0,11,60,60,47,"0","Eighth District Court",2015
+"250","Felony DWI/DUI","17","30","9","32","25","12",8,5,0,0,0,0,0,0,0,19,15,12,"0","Eighth District Court",2015
+"251","Felony Homicide","6","6","2","5","9","3",5,1,2,0,0,0,2,0,0,2,2,1,"0","Eighth District Court",2015
+"252","Felony Miscellaneous","20","12","6","18","20","8",4,8,0,0,0,0,0,0,0,7,5,7,"0","Eighth District Court",2015
+"253","Felony Public Safety Offenses","32","23","23","47","31","18",5,8,1,0,0,0,1,0,1,22,18,18,"0","Eighth District Court",2015
+"254","Felony Sexual Offenses","17","17","5","17","25","8",9,8,0,0,0,0,0,0,1,7,4,5,"0","Eighth District Court",2015
+"255","Felony First Degree","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Eighth District Court",2015
+"256","Felony Domestic Violence","1","2","0","1","2","2",0,0,0,0,0,0,0,0,0,1,1,0,"0","Eighth District Court",2015
+"257","Lower Court Appeal","12","0","0","4","11","5",6,0,0,0,0,0,0,0,3,0,0,0,"0","Eighth District Court",2015
+"258","Felony Vehicular Homicide","1","1","0","1","1","1",0,0,0,0,0,0,0,0,0,1,1,0,"0","Eighth District Court",2015
+"259","Lower Court Appeal ‐ Defendant Appellant","18","8","0","15","14","7",7,0,2,2,1,1,0,1,0,8,2,0,"0","Eighth District Court",2015
+"260","Lower Court Appeal ‐ Plaintiff Appellant","3","2","0","1","4","1",3,0,0,0,0,0,0,0,0,0,1,0,"0","Eighth District Court",2015
+"261","Lower Court DWI/DUI Appeals","2","0","0","0","2","0",2,0,0,0,0,0,0,0,0,0,0,0,"0","Eighth District Court",2015
+"262","Lower Court DWI Appeal ‐ Defendant Appellant","3","11","0","8","6","3",3,0,0,2,0,1,0,1,0,5,1,0,"0","Eighth District Court",2015
+"263","Lower Court DWI Appeal ‐ Plaintiff Appellant","1","2","0","1","2","2",0,0,0,0,0,0,0,0,0,1,0,0,"0","Eighth District Court",2015
+"264","Misdemeanor (Dist.)","6","5","2","5","8","2",4,2,0,0,0,0,0,0,0,2,3,0,"0","Eighth District Court",2015
+"265","Misdemeanor DWI/DUI","1","6","1","5","4","2",2,0,0,0,0,0,0,0,0,1,1,2,"0","Eighth District Court",2015
+"266","Petition for Review of Bond/Conditions of Release","0","1","0","0","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Eighth District Court",2015
+"267","Total","575","510","223","663","675","311",184,180,11,4,3,3,5,3,43,249,243,247,"0","Eighth District Court",2015
+"268","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Eighth District Court",2015
+"269","Juvenile Public Safety Offenses","8","9","4","13","8","4",4,0,0,0,0,0,0,0,0,3,5,6,"0","Eighth District Court",2015
+"270","Juvenile Crimes Against Property","33","17","11","45","15","1",11,3,0,0,0,0,0,0,1,20,16,15,"0","Eighth District Court",2015
+"271","Juvenile Crimes Against Persons","15","30","23","49","18","8",7,3,0,0,0,0,0,0,0,18,14,21,"0","Eighth District Court",2015
+"272","Juvenile Delinquent Felony","9","2","3","5","9","2",6,1,0,0,0,0,0,0,0,2,1,3,"0","Eighth District Court",2015
+"273","Juvenile Delinquent Non‐Felony","9","1","1","3","8","1",7,0,0,0,0,0,0,0,0,1,0,2,"0","Eighth District Court",2015
+"274","Juvenile Drug Offenses","9","16","3","16","11","5",5,1,0,0,0,0,0,0,1,8,4,3,"1","Eighth District Court",2015
+"275","Juvenile DWI Offenses","3","2","0","3","2","0",2,0,0,0,0,0,0,0,0,1,2,0,"0","Eighth District Court",2015
+"276","Juvenile Extradition","0","2","0","1","1","0",1,0,0,0,0,0,0,0,0,0,1,0,"0","Eighth District Court",2015
+"277","Juvenile Graffiti Offenses","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Eighth District Court",2015
+"278","Juvenile Motor Vehicle Offenses","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Eighth District Court",2015
+"279","Juvenile Sexual Offenses","2","2","3","5","2","0",1,1,0,0,0,0,0,0,0,1,1,3,"0","Eighth District Court",2015
+"280","Youthful Offender Crimes Against Persons","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,0,0,1,"0","Eighth District Court",2015
+"281","Youthful Offender Homicide","1","1","0","1","1","1",0,0,0,0,0,0,0,0,0,0,0,1,"0","Eighth District Court",2015
+"282","Total","92","82","48","142","77","22",46,9,0,0,0,0,0,0,2,54,44,55,"1","Eighth District Court",2015
+"283","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ninth District Court",2015
+"284","Adult Motor Vehicle Offenses","0","0","1","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Ninth District Court",2015
+"285","Extradition","22","18","0","19","21","6",14,1,0,0,0,0,0,0,8,0,7,0,"4","Ninth District Court",2015
+"286","Felony Crimes Against Property","340","155","116","348","285","87",122,76,4,0,2,1,0,1,12,144,66,141,"0","Ninth District Court",2015
+"287","Felony Crimes Against Persons","238","140","62","242","212","75",95,42,5,0,5,0,0,0,15,91,58,89,"0","Ninth District Court",2015
+"288","Felony Drug Offenses","402","184","104","387","324","111",135,78,18,0,15,3,0,0,25,161,100,111,"0","Ninth District Court",2015
+"289","Felony DWI/DUI","42","11","5","33","26","3",13,10,0,0,0,0,0,0,2,20,8,7,"0","Ninth District Court",2015
+"290","Felony Homicide","9","3","2","6","8","1",7,0,3,0,3,0,0,0,0,1,0,2,"0","Ninth District Court",2015
+"291","Felony Miscellaneous","131","58","24","117","103","32",56,15,2,0,2,0,0,0,2,45,47,30,"0","Ninth District Court",2015
+"292","Felony Public Safety Offenses","3","1","1","3","2","1",1,0,0,0,0,0,0,0,0,2,0,1,"0","Ninth District Court",2015
+"293","Felony Sexual Offenses","53","27","9","42","50","16",30,4,6,0,4,2,0,0,2,18,11,11,"0","Ninth District Court",2015
+"294","Felony First Degree","0","0","0","1","0","0",0,0,0,0,0,0,0,0,0,0,0,1,"0","Ninth District Court",2015
+"295","Lower Court Appeal","10","0","1","4","7","0",7,0,0,0,0,0,0,0,1,0,1,2,"0","Ninth District Court",2015
+"296","Felony Vehicular Homicide","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,1,0,0,"0","Ninth District Court",2015
+"297","Lower Court Appeal ‐ Defendant Appellant","19","30","0","29","20","6",14,0,1,10,10,0,0,1,6,10,1,0,"1","Ninth District Court",2015
+"298","Lower Court Appeal ‐ Plaintiff Appellant","0","1","0","1","0","0",0,0,0,0,0,0,0,0,0,0,1,0,"0","Ninth District Court",2015
+"299","Lower Court DWI/DUI Appeals","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Ninth District Court",2015
+"300","Lower Court DWI Appeal ‐ Defendant Appellant","5","3","1","6","3","1",2,0,0,1,1,0,0,0,1,3,0,1,"0","Ninth District Court",2015
+"301","Misdemeanor (Dist.)","58","11","7","49","30","7",12,11,0,1,1,0,0,0,0,11,22,16,"0","Ninth District Court",2015
+"302","Misdemeanor DWI/DUI","31","4","6","21","23","5",8,10,1,1,0,1,0,1,2,9,2,7,"0","Ninth District Court",2015
+"303","Petition for Review of Bond/Conditions of Release","0","2","0","0","2","2",0,0,0,0,0,0,0,0,0,0,0,0,"0","Ninth District Court",2015
+"304","Total","1365","648","339","1309","1118","353",518,247,40,13,43,7,0,3,76,516,324,419,"5","Ninth District Court",2015
+"305","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ninth District Court",2015
+"306","Juvenile Public Safety Offenses","2","1","4","6","1","1",0,0,0,0,0,0,0,0,1,0,1,4,"0","Ninth District Court",2015
+"307","Juvenile Crimes Against Property","33","49","48","109","20","12",6,2,0,0,0,0,0,0,14,34,15,46,"4","Ninth District Court",2015
+"308","Juvenile Crimes Against Persons","31","55","14","63","33","20",9,4,0,0,0,0,0,0,5,31,16,16,"0","Ninth District Court",2015
+"309","Juvenile Delinquent Felony","3","3","0","2","4","2",2,0,0,0,0,0,0,0,1,1,2,0,"0","Ninth District Court",2015
+"310","Juvenile Delinquent Non‐Felony","9","4","2","6","9","3",5,1,0,0,0,0,0,0,2,1,1,2,"0","Ninth District Court",2015
+"311","Juvenile Drug Offenses","17","22","10","31","18","11",6,1,0,0,0,0,0,0,1,10,11,11,"0","Ninth District Court",2015
+"312","Juvenile DWI Offenses","2","4","0","4","2","1",0,1,0,0,0,0,0,0,1,2,2,0,"0","Ninth District Court",2015
+"313","Juvenile Extradition","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Ninth District Court",2015
+"314","Juvenile Motor Vehicle Offenses","0","1","1","1","1","0",0,1,0,0,0,0,0,0,0,0,0,1,"0","Ninth District Court",2015
+"315","Juvenile Sexual Offenses","7","4","3","8","6","3",3,0,0,0,0,0,0,0,1,1,1,4,"1","Ninth District Court",2015
+"316","Youthful Offender Crimes Against Persons","1","0","1","1","1","0",0,1,0,0,0,0,0,0,0,0,0,1,"0","Ninth District Court",2015
+"317","Youthful Offender Crimes Against Property","2","4","0","2","5","3",2,0,0,0,0,0,0,0,0,2,0,0,"0","Ninth District Court",2015
+"318","Youthful Offender Sexual Offenses","3","0","0","1","2","0",2,0,0,0,0,0,0,0,0,0,1,0,"0","Ninth District Court",2015
+"319","Total","111","147","83","234","103","56",36,11,0,0,0,0,0,0,26,82,50,85,"5","Ninth District Court",2015
+"320","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Tenth District Court",2015
+"321","Extradition","0","1","0","1","0","0",0,0,0,0,0,0,0,0,0,0,0,0,"1","Tenth District Court",2015
+"322","Felony Crimes Against Property","30","33","11","40","34","11",14,9,1,0,1,0,0,0,5,13,20,15,"0","Tenth District Court",2015
+"323","Felony Crimes Against Persons","43","38","24","63","42","24",11,7,2,0,1,0,0,1,7,28,30,20,"0","Tenth District Court",2015
+"324","Felony Drug Offenses","55","34","25","73","41","16",8,17,2,0,2,0,0,0,12,25,23,31,"0","Tenth District Court",2015
+"325","Felony DWI/DUI","3","3","1","5","2","0",1,1,0,0,0,0,0,0,0,3,3,2,"0","Tenth District Court",2015
+"326","Felony Homicide","5","0","3","5","3","0",2,1,0,0,0,0,0,0,1,0,0,4,"0","Tenth District Court",2015
+"327","Felony Miscellaneous","43","33","17","60","33","14",9,10,0,2,0,0,1,1,12,22,25,17,"0","Tenth District Court",2015
+"328","Felony Sexual Offenses","2","5","1","3","5","1",4,0,0,0,0,0,0,0,0,2,1,1,"0","Tenth District Court",2015
+"329","Felony Domestic Violence","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,0,0,1,"0","Tenth District Court",2015
+"330","Felony Vehicular Homicide","2","0","0","1","1","0",1,0,0,0,0,0,0,0,0,1,1,0,"0","Tenth District Court",2015
+"331","Lower Court Appeal ‐ Defendant Appellant","4","10","1","7","8","7",1,0,0,0,0,0,0,0,2,5,0,0,"0","Tenth District Court",2015
+"332","Lower Court DWI Appeal ‐ Defendant Appellant","2","2","2","5","1","0",1,0,0,0,0,0,0,0,0,2,0,3,"0","Tenth District Court",2015
+"333","Misdemeanor (Dist.)","3","5","0","2","6","3",2,1,0,0,0,0,0,0,0,1,2,0,"0","Tenth District Court",2015
+"334","Misdemeanor DWI/DUI","6","0","0","6","0","0",0,0,0,0,0,0,0,0,0,0,6,0,"0","Tenth District Court",2015
+"335","Total","199","164","85","272","176","76",54,46,5,2,4,0,1,2,39,102,111,94,"1","Tenth District Court",2015
+"336","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Tenth District Court",2015
+"337","Juvenile Crimes Against Property","3","12","3","10","8","7",0,1,0,0,0,0,0,0,1,2,5,3,"0","Tenth District Court",2015
+"338","Juvenile Crimes Against Persons","2","7","2","8","3","3",0,0,0,0,0,0,0,0,0,6,5,0,"0","Tenth District Court",2015
+"339","Juvenile Delinquent Felony","4","5","1","8","2","0",2,0,0,0,0,0,0,0,0,5,3,2,"0","Tenth District Court",2015
+"340","Juvenile Delinquent Non‐Felony","0","8","1","5","4","2",2,0,0,0,0,0,0,0,0,1,3,1,"0","Tenth District Court",2015
+"341","Juvenile Drug Offenses","2","5","4","9","2","2",0,0,0,0,0,0,0,0,0,5,3,4,"0","Tenth District Court",2015
+"342","Juvenile DWI Offenses","1","1","1","2","1","1",0,0,0,0,0,0,0,0,0,1,1,1,"0","Tenth District Court",2015
+"343","Juvenile Extradition","0","2","0","2","0","0",0,0,0,0,0,0,0,0,0,0,0,0,"2","Tenth District Court",2015
+"344","Juvenile Public Safety Offenses","0","1","0","1","0","0",0,0,0,0,0,0,0,0,0,1,0,0,"0","Tenth District Court",2015
+"345","Juvenile Sexual Offenses","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,0,1,0,"0","Tenth District Court",2015
+"346","Youthful Offender Crimes Against Property","0","0","1","1","0","0",0,0,0,0,0,0,0,0,0,0,0,1,"0","Tenth District Court",2015
+"347","Youthful Offender Homicide","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,1,0,0,"0","Tenth District Court",2015
+"348","Total","14","41","13","48","20","15",4,1,0,0,0,0,0,0,1,22,21,12,"2","Tenth District Court",2015
+"349","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Eleventh District Court",2015
+"350","Adult Motor Vehicle Offenses","1","0","0","0","1","0",0,1,0,0,0,0,0,0,0,0,0,0,"0","Eleventh District Court",2015
+"351","Domestic Violence Appeal ‐ Defendant Appellant","1","1","0","2","0","0",0,0,0,1,1,0,0,0,0,1,0,0,"0","Eleventh District Court",2015
+"352","Extradition","7","19","0","17","9","5",2,2,0,0,0,0,0,0,1,0,1,0,"15","Eleventh District Court",2015
+"353","Felony Crimes Against Property","285","171","135","365","226","82",41,103,3,0,1,1,0,1,31,123,155,161,"0","Eleventh District Court",2015
+"354","Felony Crimes Against Persons","454","482","234","727","443","232",117,94,22,0,14,7,0,1,86,296,351,234,"0","Eleventh District Court",2015
+"355","Felony Drug Offenses","316","313","144","423","351","178",87,86,3,0,2,1,0,0,55,149,248,123,"0","Eleventh District Court",2015
+"356","Felony DWI/DUI","173","183","49","228","179","88",35,56,9,1,8,1,0,1,4,150,141,48,"0","Eleventh District Court",2015
+"357","Felony Homicide","16","6","3","13","12","7",4,1,3,0,2,1,0,0,0,5,6,4,"0","Eleventh District Court",2015
+"358","Felony Miscellaneous","54","41","28","70","52","23",14,15,0,0,0,0,0,0,3,18,22,38,"0","Eleventh District Court",2015
+"359","Felony Public Safety Offenses","59","79","42","118","61","31",19,11,0,0,0,0,0,0,8,58,61,41,"0","Eleventh District Court",2015
+"360","Felony Sexual Offenses","61","50","23","81","53","26",19,8,3,1,2,1,0,1,8,30,35,23,"0","Eleventh District Court",2015
+"361","Felony First Degree","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Eleventh District Court",2015
+"362","Felony Domestic Violence","5","15","4","18","6","3",2,1,0,0,0,0,0,0,1,10,13,2,"0","Eleventh District Court",2015
+"363","Lower Court Appeal","5","0","0","1","4","0",1,3,0,0,0,0,0,0,0,1,0,0,"0","Eleventh District Court",2015
+"364","Felony Vehicular Homicide","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,1,0,0,"0","Eleventh District Court",2015
+"365","Lower Court Appeal ‐ Defendant Appellant","39","78","1","76","42","32",9,1,2,14,13,1,0,1,2,52,5,0,"1","Eleventh District Court",2015
+"366","Lower Court Appeal ‐ Plaintiff Appellant","0","2","0","2","0","0",0,0,0,0,0,0,0,0,0,2,0,0,"0","Eleventh District Court",2015
+"367","Lower Court DWI/DUI Appeals","4","0","0","2","2","0",1,1,0,0,0,0,0,0,0,0,0,1,"1","Eleventh District Court",2015
+"368","Lower Court DWI Appeal ‐ Defendant Appellant","41","89","0","67","64","42",22,0,3,17,19,0,0,0,3,42,1,1,"0","Eleventh District Court",2015
+"369","Lower Court DWI Appeal ‐ Plaintiff Appellant","1","1","0","2","0","0",0,0,0,2,2,0,0,0,0,0,0,0,"0","Eleventh District Court",2015
+"370","Misdemeanor (Dist.)","24","33","1","37","21","15",3,3,0,0,0,0,0,0,1,18,22,0,"0","Eleventh District Court",2015
+"371","Misdemeanor DWI/DUI","3","3","0","5","1","1",0,0,0,1,1,0,0,0,1,1,3,0,"0","Eleventh District Court",2015
+"372","Petition for Review of Bond/Conditions of Release","2","9","0","9","2","1",1,0,0,0,0,0,0,0,5,1,2,0,"0","Eleventh District Court",2015
+"373","Total","1553","1575","664","2264","1530","766",378,386,48,37,65,13,0,5,209,958,1066,676,"17","Eleventh District Court",2015
+"374","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Eleventh District Court",2015
+"375","Juvenile Public Safety Offenses","7","10","1","10","8","5",2,1,0,0,0,0,0,0,0,3,8,0,"0","Eleventh District Court",2015
+"376","Juvenile Crimes Against Property","33","106","21","109","48","29",11,8,0,0,0,0,0,0,2,55,67,15,"0","Eleventh District Court",2015
+"377","Juvenile Crimes Against Persons","42","112","18","124","49","41",6,2,0,0,0,0,0,0,6,50,75,16,"0","Eleventh District Court",2015
+"378","Juvenile Delinquent Felony","11","3","1","12","3","1",2,0,0,0,0,0,0,0,0,5,9,1,"0","Eleventh District Court",2015
+"379","Juvenile Delinquent Non‐Felony","4","12","5","13","8","5",2,1,0,0,0,0,0,0,1,5,6,3,"0","Eleventh District Court",2015
+"380","Juvenile Drug Offenses","14","52","17","64","19","18",0,1,0,0,0,0,0,0,0,27,30,16,"0","Eleventh District Court",2015
+"381","Juvenile DWI Offenses","4","16","3","16","7","6",0,1,0,0,0,0,0,0,0,12,12,2,"0","Eleventh District Court",2015
+"382","Juvenile Graffiti Offenses","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,0,0,1,"0","Eleventh District Court",2015
+"383","Juvenile Homicide","0","2","0","2","0","0",0,0,0,0,0,0,0,0,0,0,2,0,"0","Eleventh District Court",2015
+"384","Juvenile Motor Vehicle Offenses","2","5","1","7","1","1",0,0,0,0,0,0,0,0,0,3,5,1,"0","Eleventh District Court",2015
+"385","Juvenile Sexual Offenses","6","7","1","8","5","4",1,0,0,0,0,0,0,0,0,3,4,2,"0","Eleventh District Court",2015
+"386","Youthful Offender Crimes Against Persons","2","0","0","2","0","0",0,0,0,0,0,0,0,0,0,2,2,0,"0","Eleventh District Court",2015
+"387","Youthful Offender Homicide","1","0","1","2","0","0",0,0,0,0,0,0,0,0,0,0,0,2,"0","Eleventh District Court",2015
+"388","Youthful Offender Sexual Offenses","1","1","0","1","1","0",0,1,0,0,0,0,0,0,0,0,1,0,"0","Eleventh District Court",2015
+"389","Total","128","326","69","371","149","110",24,15,0,0,0,0,0,0,9,165,221,59,"0","Eleventh District Court",2015
+"390","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Twelfth District Court",2015
+"391","Adult Motor Vehicle Offenses","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,1,0,0,"0","Twelfth District Court",2015
+"392","Extradition","3","8","0","6","5","1",3,1,0,0,0,0,0,0,0,0,2,0,"4","Twelfth District Court",2015
+"393","Felony Crimes Against Property","217","126","140","261","223","89",99,35,8,0,3,1,3,1,16,86,68,127,"1","Twelfth District Court",2015
+"394","Felony Crimes Against Persons","356","228","158","368","380","157",176,47,19,0,8,6,3,2,28,130,116,154,"0","Twelfth District Court",2015
+"395","Felony Drug Offenses","509","240","200","429","526","176",219,131,18,0,11,2,3,2,53,125,111,186,"1","Twelfth District Court",2015
+"396","Felony DWI/DUI","63","36","26","59","66","28",23,15,2,0,1,0,1,0,0,40,32,14,"0","Twelfth District Court",2015
+"397","Felony Homicide","11","4","7","11","11","2",8,1,2,0,2,0,0,0,0,2,2,7,"0","Twelfth District Court",2015
+"398","Felony Miscellaneous","190","107","87","180","212","75",98,39,11,1,7,3,1,1,20,53,59,74,"1","Twelfth District Court",2015
+"399","Felony Public Safety Offenses","9","2","3","6","8","1",4,3,0,0,0,0,0,0,0,1,3,2,"0","Twelfth District Court",2015
+"400","Felony Sexual Offenses","38","27","17","38","46","18",24,4,3,0,0,1,1,1,1,16,11,15,"0","Twelfth District Court",2015
+"401","Felony First Degree","0","0","1","1","0","0",0,0,0,0,0,0,0,0,0,0,0,1,"0","Twelfth District Court",2015
+"402","Felony Domestic Violence","8","1","2","4","7","1",3,3,0,0,0,0,0,0,0,3,1,1,"0","Twelfth District Court",2015
+"403","Lower Court Appeal","11","0","1","6","6","0",5,1,0,0,0,0,0,0,3,1,0,2,"0","Twelfth District Court",2015
+"404","Felony Vehicular Homicide","2","0","0","0","2","0",1,1,0,0,0,0,0,0,0,0,0,0,"0","Twelfth District Court",2015
+"405","Lower Court Appeal ‐ Defendant Appellant","13","21","1","18","17","8",9,0,0,1,1,0,0,0,6,9,3,0,"1","Twelfth District Court",2015
+"406","Lower Court Appeal ‐ Plaintiff Appellant","0","5","1","2","4","4",0,0,0,0,0,0,0,0,1,1,0,0,"0","Twelfth District Court",2015
+"407","Lower Court DWI/DUI Appeals","2","0","0","2","0","0",0,0,0,0,0,0,0,0,0,1,1,0,"0","Twelfth District Court",2015
+"408","Lower Court DWI Appeal ‐ Defendant Appellant","3","5","0","4","4","4",0,0,0,1,0,0,1,0,1,1,0,0,"0","Twelfth District Court",2015
+"409","Misdemeanor (Dist.)","43","38","4","49","38","17",19,2,3,0,1,1,1,0,0,23,17,8,"0","Twelfth District Court",2015
+"410","Misdemeanor DWI/DUI","5","1","3","3","6","1",4,1,0,0,0,0,0,0,0,2,1,1,"0","Twelfth District Court",2015
+"411","Total","1484","849","651","1448","1561","582",695,284,66,3,34,14,14,7,129,495,427,592,"8","Twelfth District Court",2015
+"412","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Twelfth District Court",2015
+"413","Juvenile Public Safety Offenses","5","2","9","15","1","0",1,0,0,0,0,0,0,0,0,4,1,10,"0","Twelfth District Court",2015
+"414","Juvenile Crimes Against Property","39","35","25","80","19","10",7,2,0,0,0,0,0,0,8,32,8,29,"0","Twelfth District Court",2015
+"415","Juvenile Crimes Against Persons","21","38","15","52","24","18",3,3,0,1,1,0,0,0,2,26,9,18,"0","Twelfth District Court",2015
+"416","Juvenile Delinquent Felony","12","16","11","28","11","4",6,1,1,0,1,0,0,0,1,10,3,13,"0","Twelfth District Court",2015
+"417","Juvenile Delinquent Non‐Felony","11","27","12","46","4","1",2,1,0,0,0,0,0,0,1,27,3,14,"0","Twelfth District Court",2015
+"418","Juvenile Drug Offenses","12","25","10","36","11","6",2,3,0,0,0,0,0,0,4,19,2,12,"0","Twelfth District Court",2015
+"419","Juvenile DWI Offenses","3","1","2","4","3","3",0,0,0,0,0,0,0,0,0,0,1,3,"0","Twelfth District Court",2015
+"420","Juvenile Motor Vehicle Offenses","2","0","0","1","1","0",1,0,0,0,0,0,0,0,0,0,0,1,"0","Twelfth District Court",2015
+"421","Juvenile Sexual Offenses","2","2","0","2","2","1",1,0,0,0,0,0,0,0,1,0,0,1,"0","Twelfth District Court",2015
+"422","Youthful Offender Crimes Against Persons","1","0","1","1","1","1",0,0,1,0,1,0,0,0,0,0,0,0,"0","Twelfth District Court",2015
+"423","Youthful Offender Crimes Against Property","1","2","0","0","3","2",1,0,0,0,0,0,0,0,0,0,0,0,"0","Twelfth District Court",2015
+"424","Youthful Offender Homicide","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,0,1,0,"0","Twelfth District Court",2015
+"425","Youthful Offender Miscellaneous","1","1","0","1","1","0",1,0,0,0,0,0,0,0,0,1,0,0,"0","Twelfth District Court",2015
+"426","Youthful Offender Sexual Offenses","1","2","0","1","2","1",1,0,0,0,0,0,0,0,0,1,0,0,"0","Twelfth District Court",2015
+"427","Total","112","151","85","268","83","47",26,10,2,1,3,0,0,0,17,120,28,101,"0","Twelfth District Court",2015
+"428","CRIMINAL","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"","Thirteenth District Court",2015
+"429","Domestic Violence Appeal ‐ Defendant Appellant","1","1","0","2","0","0",0,0,0,0,0,0,0,0,1,0,1,0,"0","Thirteenth District Court",2015
+"430","Extradition","43","36","0","34","45","7",38,0,0,0,0,0,0,0,0,0,17,0,"4","Thirteenth District Court",2015
+"431","Felony Crimes Against Property","835","333","198","573","793","227",319,247,8,1,2,3,1,2,58,203,226,208,"0","Thirteenth District Court",2015
+"432","Felony Crimes Against Persons","1009","459","191","685","977","290",442,245,15,3,7,7,1,2,67,225,296,215,"0","Thirteenth District Court",2015
+"433","Felony Drug Offenses","515","303","165","428","555","203",207,145,2,0,2,0,0,0,56,123,164,172,"0","Thirteenth District Court",2015
+"434","Felony DWI/DUI","154","69","41","121","146","48",42,56,0,1,1,0,0,0,14,53,50,45,"0","Thirteenth District Court",2015
+"435","Felony Homicide","32","6","6","19","25","5",18,2,1,0,1,0,0,0,0,8,9,8,"0","Thirteenth District Court",2015
+"436","Felony Miscellaneous","80","39","15","57","77","17",41,19,2,0,1,0,0,1,6,19,18,22,"0","Thirteenth District Court",2015
+"437","Felony Public Safety Offenses","117","65","11","81","112","32",57,23,0,1,0,0,0,1,11,35,45,15,"0","Thirteenth District Court",2015
+"438","Felony Sexual Offenses","73","24","18","50","64","16",41,7,4,0,1,2,0,0,4,14,15,19,"0","Thirteenth District Court",2015
+"439","Felony Domestic Violence","0","0","1","1","0","0",0,0,0,0,0,0,0,0,0,0,0,1,"0","Thirteenth District Court",2015
+"440","Felony Vehicular Homicide","4","0","0","0","4","0",3,1,0,0,0,0,0,0,0,0,0,0,"0","Thirteenth District Court",2015
+"441","Lower Court Appeal","24","0","0","2","22","0",22,0,0,0,0,0,0,0,0,0,0,2,"0","Thirteenth District Court",2015
+"442","Lower Court Appeal ‐ Defendant Appellant","43","37","1","40","41","14",27,0,0,5,3,1,0,1,8,24,2,1,"0","Thirteenth District Court",2015
+"443","Lower Court Appeal ‐ Plaintiff Appellant","6","4","0","8","2","2",0,0,0,0,0,0,0,0,2,5,1,0,"0","Thirteenth District Court",2015
+"444","Lower Court DWI/DUI Appeals","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,1,0,0,"0","Thirteenth District Court",2015
+"445","Lower Court DWI Appeal ‐ Defendant Appellant","60","19","4","64","20","9",11,0,0,8,6,0,0,1,9,40,4,4,"0","Thirteenth District Court",2015
+"446","Lower Court DWI Appeal ‐ Plaintiff Appellant","1","1","0","1","1","0",1,0,0,0,0,0,0,0,1,0,0,0,"0","Thirteenth District Court",2015
+"447","Misdemeanor (Dist.)","2","4","0","1","5","3",2,0,0,0,0,0,0,0,0,0,1,0,"0","Thirteenth District Court",2015
+"448","Misdemeanor DWI/DUI","1","9","0","3","7","6",1,0,0,0,0,0,0,0,0,1,3,0,"0","Thirteenth District Court",2015
+"449","Petition for Review of Bond/Conditions of Release","1","1","0","1","1","0",1,0,0,0,0,0,0,0,1,0,0,0,"0","Thirteenth District Court",2015
+"450","Total","3002","1410","651","2172","2897","879",1273,745,32,19,24,13,2,8,238,751,852,712,"4","Thirteenth District Court",2015
+"451","JUVENILE","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"","Thirteenth District Court",2015
+"452","Juvenile Public Safety Offenses","15","21","10","29","17","12",4,1,0,0,0,0,0,0,6,6,10,8,"0","Thirteenth District Court",2015
+"453","Juvenile Crimes Against Property","71","32","16","78","40","16",16,8,0,0,0,0,0,0,13,16,27,25,"0","Thirteenth District Court",2015
+"454","Juvenile Crimes Against Persons","94","71","36","131","68","33",28,7,0,0,0,0,0,0,22,37,44,41,"0","Thirteenth District Court",2015
+"455","Juvenile Delinquent Felony","3","2","0","4","1","1",0,0,0,0,0,0,0,0,0,1,0,2,"0","Thirteenth District Court",2015
+"456","Juvenile Delinquent Non‐Felony","2","1","2","4","1","0",1,0,0,0,0,0,0,0,0,0,1,3,"0","Thirteenth District Court",2015
+"457","Juvenile Drug Offenses","52","52","18","77","45","31",12,2,0,0,0,0,0,0,17,28,20,19,"0","Thirteenth District Court",2015
+"458","Juvenile DWI Offenses","8","13","5","16","10","6",4,0,0,0,0,0,0,0,0,8,5,7,"0","Thirteenth District Court",2015
+"459","Juvenile Graffiti Offenses","3","0","1","3","1","0",0,1,0,0,0,0,0,0,1,1,0,1,"0","Thirteenth District Court",2015
+"460","Juvenile Homicide","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Thirteenth District Court",2015
+"461","Juvenile Motor Vehicle Offenses","5","2","0","6","1","1",0,0,0,1,1,0,0,0,1,2,2,1,"0","Thirteenth District Court",2015
+"462","Juvenile Sexual Offenses","7","9","0","3","13","5",7,1,0,0,0,0,0,0,0,3,2,0,"0","Thirteenth District Court",2015
+"463","Youthful Offender Crimes Against Persons","4","0","0","1","3","0",3,0,0,0,0,0,0,0,0,1,1,0,"0","Thirteenth District Court",2015
+"464","Youthful Offender Crimes Against Property","3","0","0","2","1","0",1,0,0,0,0,0,0,0,0,2,2,0,"0","Thirteenth District Court",2015
+"465","Youthful Offender Public Safety Offenses","0","1","0","1","0","0",0,0,0,0,0,0,0,0,0,1,1,0,"0","Thirteenth District Court",2015
+"466","Youthful Offender Homicide","2","0","0","1","1","0",1,0,0,0,0,0,0,0,0,1,1,0,"0","Thirteenth District Court",2015
+"467","Youthful Offender Sexual Offenses","1","3","0","1","3","2",1,0,0,0,0,0,0,0,0,0,0,1,"0","Thirteenth District Court",2015
+"468","Total","271","207","88","357","206","107",79,20,0,1,1,0,0,0,60,107,116,108,"0","Thirteenth District Court",2015
+"469","CRIMINAL","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Statewide District Court",2015
+"470","Adult Motor Vehicle Offenses","22","5","11","18","20","4",8,8,1,1,2,0,0,0,1,4,1,10,"0","Statewide District Court",2015
+"471","Domestic Violence Appeal","2","0","0","0","2","0",2,0,0,0,0,0,0,0,0,0,0,0,"0","Statewide District Court",2015
+"472","Domestic Violence Appeal ‐ Defendant Appellant","7","2","0","8","1","0",1,0,0,1,1,0,0,0,1,5,1,0,"0","Statewide District Court",2015
+"473","Extradition","156","190","1","185","164","40",83,41,0,0,0,0,0,0,15,1,103,0,"51","Statewide District Court",2015
+"474","Felony Crimes Against Property","7847","3960","3869","9175","6542","2043",1870,2629,130,3,45,25,27,35,930,3020,3049,3962,"3","Statewide District Court",2015
+"475","Felony Crimes Against Persons","6471","3874","2936","7505","5821","2223",2120,1478,185,6,81,57,28,24,741,2585,2871,2990,"1","Statewide District Court",2015
+"476","Felony Drug Offenses","6451","3660","2880","7413","5614","1853",1618,2143,115,3,60,18,22,18,850,2511,2821,2857,"1","Statewide District Court",2015
+"477","Felony DWI/DUI","1401","813","484","1432","1275","401",424,450,33,6,23,5,6,5,36,824,703,447,"0","Statewide District Court",2015
+"478","Felony Homicide","243","108","69","177","243","73",144,26,27,0,19,5,3,0,3,66,58,70,"0","Statewide District Court",2015
+"479","Felony Miscellaneous","874","457","304","861","788","253",304,231,18,3,12,3,3,3,76,305,293,309,"1","Statewide District Court",2015
+"480","Felony Public Safety Offenses","771","679","394","1128","713","314",215,184,16,3,8,4,4,3,112,504,443,368,"0","Statewide District Court",2015
+"481","Felony Sexual Offenses","975","438","264","766","927","272",476,179,63,2,21,22,8,12,63,264,295,251,"0","Statewide District Court",2015
+"482","Felony First Degree","46","0","30","30","47","12",26,9,2,0,1,0,1,0,0,3,2,25,"0","Statewide District Court",2015
+"483","Felony Domestic Violence","481","289","216","649","336","124",103,109,13,0,4,4,0,5,90,202,340,193,"0","Statewide District Court",2015
+"484","Felony Vehicular Homicide","24","8","6","16","22","5",12,5,3,0,3,0,0,0,1,8,6,4,"0","Statewide District Court",2015
+"485","Lower Court Appeal","77","0","2","19","63","6",52,5,0,0,0,0,0,0,7,2,1,7,"0","Statewide District Court",2015
+"486","Lower Court Appeal ‐ Defendant Appellant","294","361","10","384","284","150",131,3,7,46,36,4,5,4,42,246,32,9,"3","Statewide District Court",2015
+"487","Lower Court Appeal ‐ Plaintiff Appellant","20","24","1","25","20","12",8,0,0,1,0,0,0,1,8,10,6,0,"0","Statewide District Court",2015
+"488","Lower Court DWI/DUI Appeals","15","0","0","5","10","0",9,1,0,0,0,0,0,0,0,2,1,1,"1","Statewide District Court",2015
+"489","Lower Court DWI Appeal ‐ Defendant Appellant","251","237","10","303","198","113",84,1,5,43,34,3,2,5,22,209,13,11,"1","Statewide District Court",2015
+"490","Lower Court DWI Appeal ‐ Plaintiff Appellant","11","15","1","15","12","7",4,1,0,3,3,0,0,0,2,8,1,1,"0","Statewide District Court",2015
+"491","Misdemeanor (Dist.)","293","431","221","670","283","143",71,69,3,3,3,1,2,0,17,303,125,234,"0","Statewide District Court",2015
+"492","Misdemeanor DWI/DUI","130","135","40","157","152","75",30,47,2,8,5,2,2,1,5,78,52,35,"0","Statewide District Court",2015
+"493","Petition for Review of Bond/Conditions of Release","3","15","0","11","7","4",3,0,0,0,0,0,0,0,6,1,3,0,"0","Statewide District Court",2015
+"494","Total","26865","15701","11749","30952","23544","8127",7798,7619,623,132,361,153,113,116,3028,11161,11220,11784,"62","Statewide District Court",2015
+"495","JUVENILE","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Statewide District Court",2015
+"496","Juvenile Public Safety Offenses","209","258","91","420","137","82",45,10,1,0,0,0,1,0,93,137,135,106,"0","Statewide District Court",2015
+"497","Juvenile Crimes Against Property","646","960","492","1550","542","288",138,116,0,9,0,1,2,6,162,560,548,516,"5","Statewide District Court",2015
+"498","Juvenile Crimes Against Persons","633","1095","379","1465","641","390",161,90,2,9,3,0,3,5,188,545,573,387,"1","Statewide District Court",2015
+"499","Juvenile Delinquent Felony","71","69","27","118","48","20",22,6,1,0,1,0,0,0,5,59,30,34,"2","Statewide District Court",2015
+"500","Juvenile Delinquent Non‐Felony","76","208","64","252","96","55",26,15,0,2,0,0,0,2,7,138,48,63,"0","Statewide District Court",2015
+"501","Juvenile Drug Offenses","271","499","179","695","253","165",57,31,1,4,1,1,2,1,74,273,243,186,"1","Statewide District Court",2015
+"502","Juvenile DWI Offenses","41","86","17","96","49","30",12,7,0,0,0,0,0,0,2,63,54,19,"0","Statewide District Court",2015
+"503","Juvenile Extradition","1","5","0","4","2","0",2,0,0,0,0,0,0,0,0,0,1,0,"3","Statewide District Court",2015
+"504","Juvenile Graffiti Offenses","7","3","3","8","5","3",1,1,0,0,0,0,0,0,1,1,2,4,"0","Statewide District Court",2015
+"505","Juvenile Truancy","11","33","0","36","8","8",0,0,0,10,0,0,7,3,0,13,13,0,"0","Statewide District Court",2015
+"506","Juvenile Homicide","5","5","0","5","5","1",4,0,0,0,0,0,0,0,0,0,2,0,"3","Statewide District Court",2015
+"507","Juvenile Motor Vehicle Offenses","29","59","13","73","29","18",7,4,1,1,2,0,0,0,9,25,28,20,"0","Statewide District Court",2015
+"508","Juvenile Sexual Offenses","83","93","24","131","70","37",23,10,1,0,1,0,0,0,7,63,62,28,"4","Statewide District Court",2015
+"509","Youthful Offender Crimes Against Persons","33","15","12","37","23","6",14,3,1,0,1,0,0,0,0,21,20,13,"0","Statewide District Court",2015
+"510","Youthful Offender Crimes Against Property","14","9","5","17","12","7",4,1,0,0,0,0,0,0,0,12,7,4,"0","Statewide District Court",2015
+"511","Youthful Offender Public Safety Offenses","1","3","1","4","1","0",0,1,0,0,0,0,0,0,0,3,3,1,"0","Statewide District Court",2015
+"512","Youthful Offender Homicide","10","3","4","8","9","4",4,1,1,0,1,0,0,0,0,2,2,4,"0","Statewide District Court",2015
+"513","Youthful Offender Miscellaneous","1","1","0","1","1","0",1,0,0,0,0,0,0,0,0,1,0,0,"0","Statewide District Court",2015
+"514","Youthful Offender Sexual Offenses","16","11","1","10","18","8",8,2,0,0,0,0,0,0,2,4,5,1,"0","Statewide District Court",2015
+"515","Total","2158","3415","1312","4930","1949","1122",529,298,9,35,10,2,15,17,550,1920,1776,1386,"19","Statewide District Court",2015
+"516","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"First District Court",2016
+"517","Adult Motor Vehicle Offenses","3","0","0","1","2","0",1,1,0,0,0,0,0,0,0,0,0,1,"0","First District Court",2016
+"518","Extradition","16","5","0","3","18","2",16,0,0,0,0,0,0,0,0,0,2,0,"1","First District Court",2016
+"519","Felony Crimes Against Property","678","263","457","754","645","196",218,231,5,0,2,2,1,0,67,191,139,459,"0","First District Court",2016
+"520","Felony Crimes Against Persons","616","308","280","616","589","184",238,167,19,0,7,9,1,2,42,224,152,279,"2","First District Court",2016
+"521","Felony Drug Offenses","481","287","247","455","561","181",181,199,3,0,1,1,0,1,37,140,93,233,"0","First District Court",2016
+"522","Felony DWI/DUI","241","78","148","247","218","61",103,54,2,0,0,2,0,0,2,101,52,135,"0","First District Court",2016
+"523","Felony Homicide","21","4","9","14","20","5",14,1,2,0,1,1,0,0,0,3,1,9,"0","First District Court",2016
+"524","Felony Miscellaneous","71","20","31","62","60","14",23,23,0,0,0,0,0,0,2,22,15,31,"0","First District Court",2016
+"525","Felony Public Safety Offenses","33","24","19","39","37","14",14,9,0,0,0,0,0,0,1,9,6,25,"0","First District Court",2016
+"526","Felony Sexual Offenses","58","23","11","31","60","15",23,22,4,0,2,1,1,0,1,10,10,10,"0","First District Court",2016
+"527","Felony Domestic Violence","1","4","0","3","2","0",2,0,0,0,0,0,0,0,0,1,0,0,"1","First District Court",2016
+"528","Lower Court Appeal","8","0","0","1","7","0",7,0,0,0,0,0,0,0,0,1,0,0,"0","First District Court",2016
+"529","Felony Vehicular Homicide","4","1","2","2","5","0",4,1,0,0,0,0,0,0,0,1,0,1,"0","First District Court",2016
+"530","Lower Court Appeal ‐ Defendant Appellant","37","20","2","26","33","11",21,1,0,3,3,0,0,0,8,10,2,2,"0","First District Court",2016
+"531","Lower Court Appeal ‐ Plaintiff Appellant","7","6","0","7","6","4",2,0,0,0,0,0,0,0,4,0,3,0,"0","First District Court",2016
+"532","Lower Court DWI/DUI Appeals","4","0","0","1","3","0",3,0,0,1,1,0,0,0,0,0,0,0,"0","First District Court",2016
+"533","Lower Court DWI Appeal ‐ Defendant Appellant","13","18","2","12","21","10",11,0,0,2,2,0,0,0,2,6,2,0,"0","First District Court",2016
+"534","Lower Court DWI Appeal ‐ Plaintiff Appellant","3","0","0","2","1","0",1,0,0,0,0,0,0,0,0,1,1,0,"0","First District Court",2016
+"535","Misdemeanor (Dist.)","0","1","0","0","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","First District Court",2016
+"536","Misdemeanor DWI/DUI","2","0","2","2","2","1",1,0,0,0,0,0,0,0,0,0,0,2,"0","First District Court",2016
+"537","Petition for Review of Bond/Conditions of Release","1","3","0","1","3","1",2,0,0,0,0,0,0,0,0,0,1,0,"0","First District Court",2016
+"538","Total","2298","1065","1210","2279","2294","700",885,709,35,6,19,16,3,3,166,720,479,1187,"4","First District Court",2016
+"539","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"First District Court",2016
+"540","Juvenile Public Safety Offenses","2","6","6","13","1","0",1,0,0,0,0,0,0,0,0,5,3,7,"0","First District Court",2016
+"541","Juvenile Crimes Against Property","35","51","56","107","37","19",12,6,0,0,0,0,0,0,1,43,22,57,"1","First District Court",2016
+"542","Juvenile Crimes Against Persons","46","70","64","136","46","23",12,11,0,0,0,0,0,0,3,46,32,68,"0","First District Court",2016
+"543","Juvenile Delinquent Felony","7","4","3","6","8","1",3,4,0,0,0,0,0,0,0,3,0,3,"0","First District Court",2016
+"544","Juvenile Delinquent Non‐Felony","3","7","9","14","6","3",3,0,0,0,0,0,0,0,0,6,1,8,"0","First District Court",2016
+"545","Juvenile Drug Offenses","27","36","33","68","30","15",9,6,0,0,0,0,0,0,0,26,22,30,"0","First District Court",2016
+"546","Juvenile DWI Offenses","10","8","4","18","5","1",4,0,0,0,0,0,0,0,0,14,10,4,"0","First District Court",2016
+"547","Juvenile Homicide","2","0","0","0","2","0",2,0,0,0,0,0,0,0,0,0,0,0,"0","First District Court",2016
+"548","Juvenile Motor Vehicle Offenses","2","4","2","5","3","2",1,0,0,0,0,0,0,0,0,3,2,2,"0","First District Court",2016
+"549","Juvenile Sexual Offenses","6","7","2","4","11","5",3,3,0,0,0,0,0,0,0,1,0,3,"0","First District Court",2016
+"550","Youthful Offender Crimes Against Persons","2","0","0","0","2","0",2,0,0,0,0,0,0,0,0,0,0,0,"0","First District Court",2016
+"551","Youthful Offender Crimes Against Property","0","0","1","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","First District Court",2016
+"552","Youthful Offender Sexual Offenses","3","0","0","2","1","0",1,0,2,0,2,0,0,0,0,0,0,0,"0","First District Court",2016
+"553","Total","145","193","180","373","153","69",54,30,2,0,2,0,0,0,4,147,92,182,"1","First District Court",2016
+"554","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Second District Court",2016
+"555","Domestic Violence Appeal ‐ Defendant Appellant","1","2","0","1","2","1",1,0,0,0,0,0,0,0,0,1,0,0,"0","Second District Court",2016
+"556","Domestic Violence Appeal ‐ Plaintiff Appellant","0","5","0","2","5","5",0,0,0,0,0,0,0,0,0,2,0,0,"0","Second District Court",2016
+"557","Extradition","57","61","0","50","67","12",12,43,0,0,0,0,0,0,1,0,47,0,"2","Second District Court",2016
+"558","Felony Crimes Against Property","2653","1057","1468","2940","2234","562",327,1345,53,1,28,12,4,10,297,635,617,1585,"0","Second District Court",2016
+"559","Felony Crimes Against Persons","1519","1030","931","2109","1366","559",279,528,78,2,34,25,8,12,244,518,553,950,"0","Second District Court",2016
+"560","Felony Drug Offenses","1773","710","1103","2107","1485","257",214,1014,29,2,16,2,6,7,206,400,466,1162,"0","Second District Court",2016
+"561","Felony DWI/DUI","320","122","82","243","282","60",84,138,6,0,4,0,1,1,6,115,83,83,"0","Second District Court",2016
+"562","Felony Homicide","77","60","16","60","92","35",46,11,10,1,7,4,0,0,5,23,12,15,"0","Second District Court",2016
+"563","Felony Miscellaneous","227","81","38","176","165","45",59,61,3,0,1,1,0,0,11,28,30,35,"0","Second District Court",2016
+"564","Felony Public Safety Offenses","285","245","202","466","265","122",42,101,6,1,4,2,1,0,47,155,104,212,"0","Second District Court",2016
+"565","Felony Sexual Offenses","343","84","102","297","228","56",78,94,44,1,17,22,2,3,31,68,81,106,"1","Second District Court",2016
+"566","Felony First Degree","36","0","16","26","26","4",16,6,2,0,2,0,0,0,1,1,0,22,"0","Second District Court",2016
+"567","Felony Domestic Violence","276","36","140","344","109","23",26,60,12,0,2,7,2,1,49,55,90,171,"0","Second District Court",2016
+"568","Lower Court Appeal","1","0","0","0","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Second District Court",2016
+"569","Felony Vehicular Homicide","5","1","2","3","5","1",2,2,1,0,1,0,0,0,0,0,0,2,"0","Second District Court",2016
+"570","Lower Court Appeal ‐ Defendant Appellant","21","13","0","12","22","7",15,0,1,3,0,2,0,2,2,3,1,0,"0","Second District Court",2016
+"571","Lower Court Appeal ‐ Plaintiff Appellant","0","2","0","1","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Second District Court",2016
+"572","Lower Court DWI/DUI Appeals","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Second District Court",2016
+"573","Lower Court DWI Appeal ‐ Defendant Appellant","40","36","1","39","38","17",21,0,0,0,0,0,0,0,1,19,0,0,"0","Second District Court",2016
+"574","Lower Court DWI Appeal ‐ Plaintiff Appellant","4","4","0","4","4","3",1,0,0,0,0,0,0,0,0,1,1,0,"0","Second District Court",2016
+"575","Misdemeanor (Dist.)","134","403","241","658","119","54",25,40,2,2,3,1,0,0,23,339,56,240,"0","Second District Court",2016
+"576","Misdemeanor DWI/DUI","10","49","9","48","20","7",11,2,0,0,0,0,0,0,0,37,4,10,"0","Second District Court",2016
+"577","Total","7783","4001","4351","9586","6537","1832",1260,3445,247,13,119,78,24,36,924,2400,2145,4593,"3","Second District Court",2016
+"578","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Second District Court",2016
+"579","Juvenile Public Safety Offenses","67","120","36","149","74","48",15,11,0,1,0,0,0,1,45,36,48,32,"0","Second District Court",2016
+"580","Juvenile Crimes Against Property","231","307","128","482","182","101",36,45,0,2,0,0,1,1,93,179,159,133,"0","Second District Court",2016
+"581","Juvenile Crimes Against Persons","284","409","100","520","273","148",82,43,1,3,0,0,1,3,145,145,194,96,"0","Second District Court",2016
+"582","Juvenile Delinquent Felony","0","1","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Second District Court",2016
+"583","Juvenile Delinquent Non‐Felony","0","2","1","2","1","0",0,1,0,0,0,0,0,0,0,1,2,0,"0","Second District Court",2016
+"584","Juvenile Drug Offenses","60","81","19","113","47","25",11,11,0,1,0,0,1,0,31,34,41,17,"0","Second District Court",2016
+"585","Juvenile DWI Offenses","5","9","8","14","8","6",0,2,0,0,0,0,0,0,0,7,8,5,"0","Second District Court",2016
+"586","Juvenile Graffiti Offenses","2","2","3","6","1","0",0,1,0,0,0,0,0,0,0,2,2,3,"0","Second District Court",2016
+"587","Juvenile Motor Vehicle Offenses","10","44","3","41","16","10",4,2,0,0,0,0,0,0,4,24,21,3,"0","Second District Court",2016
+"588","Juvenile Sexual Offenses","12","15","0","22","5","3",2,0,0,0,0,0,0,0,5,11,10,0,"0","Second District Court",2016
+"589","Youthful Offender Crimes Against Persons","6","19","5","13","17","12",2,3,0,0,0,0,0,0,0,10,8,2,"0","Second District Court",2016
+"590","Youthful Offender Crimes Against Property","2","8","0","2","8","7",0,1,0,0,0,0,0,0,0,1,1,1,"0","Second District Court",2016
+"591","Youthful Offender Public Safety Offenses","1","4","0","0","5","3",0,2,0,0,0,0,0,0,0,0,0,0,"0","Second District Court",2016
+"592","Youthful Offender Homicide","1","2","0","0","3","0",2,1,0,0,0,0,0,0,0,0,0,0,"0","Second District Court",2016
+"593","Youthful Offender Vehicular Homicide","0","1","0","0","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Second District Court",2016
+"594","Youthful Offender Sexual Offenses","3","4","0","2","5","1",1,3,0,0,0,0,0,0,0,2,0,0,"0","Second District Court",2016
+"595","Total","684","1028","303","1366","647","365",156,126,1,7,0,0,3,5,323,452,494,292,"0","Second District Court",2016
+"596","CRIMINAL","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Third District Court",2016
+"597","Adult Motor Vehicle Offenses","3","0","0","0","3","0",0,3,0,0,0,0,0,0,0,0,0,0,"0","Third District Court",2016
+"598","Domestic Violence Appeal","2","0","0","2","0","0",0,0,0,0,0,0,0,0,0,1,0,0,"0","Third District Court",2016
+"599","Extradition","4","20","0","16","8","4",4,0,0,0,0,0,0,0,0,0,8,0,"7","Third District Court",2016
+"600","Felony Crimes Against Property","536","274","256","575","487","184",123,180,9,0,6,3,0,0,13,231,140,247,"0","Third District Court",2016
+"601","Felony Crimes Against Persons","626","393","344","726","627","265",190,172,15,0,9,3,2,1,20,262,183,340,"0","Third District Court",2016
+"602","Felony Drug Offenses","480","423","275","572","598","263",148,187,7,0,7,0,0,0,3,238,159,268,"1","Third District Court",2016
+"603","Felony DWI/DUI","121","42","38","111","89","25",19,45,3,0,2,0,0,1,0,50,35,50,"0","Third District Court",2016
+"604","Felony Homicide","29","8","8","19","26","7",13,6,1,0,0,1,0,0,0,6,6,9,"0","Third District Court",2016
+"605","Felony Miscellaneous","61","61","18","58","81","35",21,25,0,0,0,0,0,0,3,26,17,18,"0","Third District Court",2016
+"606","Felony Public Safety Offenses","20","13","7","26","14","7",4,3,0,0,0,0,0,0,1,14,4,9,"0","Third District Court",2016
+"607","Felony Sexual Offenses","126","46","43","91","124","35",51,38,3,0,2,0,1,0,2,27,28,41,"1","Third District Court",2016
+"608","Felony First Degree","3","0","0","1","2","0",1,1,0,0,0,0,0,0,0,0,0,1,"0","Third District Court",2016
+"609","Felony Domestic Violence","19","17","11","22","25","15",4,6,0,0,0,0,0,0,0,10,7,8,"0","Third District Court",2016
+"610","Felony Vehicular Homicide","2","0","2","3","1","0",0,1,0,0,0,0,0,0,0,1,1,2,"0","Third District Court",2016
+"611","Lower Court Appeal","3","0","0","2","1","0",0,1,0,1,1,0,0,0,0,1,0,0,"0","Third District Court",2016
+"612","Lower Court Appeal ‐ Defendant Appellant","18","27","2","31","16","12",4,0,2,3,4,0,0,1,5,11,7,1,"0","Third District Court",2016
+"613","Lower Court Appeal ‐ Plaintiff Appellant","0","1","0","0","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Third District Court",2016
+"614","Lower Court DWI Appeal ‐ Defendant Appellant","11","6","1","11","7","5",2,0,3,0,3,0,0,0,0,5,3,1,"0","Third District Court",2016
+"615","Misdemeanor (Dist.)","8","5","1","10","4","1",2,1,1,0,0,1,0,0,1,2,7,0,"0","Third District Court",2016
+"616","Misdemeanor DWI/DUI","27","7","3","13","24","8",2,14,1,0,0,1,0,0,0,1,6,6,"0","Third District Court",2016
+"617","Total","2099","1343","1009","2289","2138","867",588,683,45,4,34,9,3,3,48,886,611,1001,"9","Third District Court",2016
+"618","JUVENILE","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Third District Court",2016
+"619","Juvenile Public Safety Offenses","7","10","3","17","3","3",0,0,0,0,0,0,0,0,2,6,8,3,"0","Third District Court",2016
+"620","Juvenile Crimes Against Property","56","79","30","121","44","34",3,7,0,0,0,0,0,0,4,51,43,37,"0","Third District Court",2016
+"621","Juvenile Crimes Against Persons","46","119","41","128","68","55",1,12,1,0,1,0,0,0,4,44,44,41,"1","Third District Court",2016
+"622","Juvenile Delinquent Felony","2","4","1","5","2","2",0,0,0,0,0,0,0,0,0,0,3,2,"0","Third District Court",2016
+"623","Juvenile Delinquent Non‐Felony","11","6","5","17","5","1",1,3,0,0,0,0,0,0,1,6,8,4,"0","Third District Court",2016
+"624","Juvenile Drug Offenses","21","26","18","48","17","12",1,4,0,0,0,0,0,0,2,8,23,16,"0","Third District Court",2016
+"625","Juvenile DWI Offenses","5","9","1","12","3","3",0,0,0,0,0,0,0,0,0,8,5,0,"0","Third District Court",2016
+"626","Juvenile Graffiti Offenses","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,0,1,0,"0","Third District Court",2016
+"627","Juvenile Homicide","0","1","0","1","0","0",0,0,0,0,0,0,0,0,0,0,0,0,"1","Third District Court",2016
+"628","Juvenile Motor Vehicle Offenses","3","4","0","6","1","1",0,0,0,0,0,0,0,0,0,0,6,0,"0","Third District Court",2016
+"629","Juvenile Sexual Offenses","12","16","5","16","17","10",2,5,0,0,0,0,0,0,0,5,5,6,"2","Third District Court",2016
+"630","Youthful Offender Crimes Against Persons","6","1","1","6","2","1",1,0,0,0,0,0,0,0,0,2,3,3,"0","Third District Court",2016
+"631","Youthful Offender Homicide","2","1","1","2","2","0",2,0,0,0,0,0,0,0,0,0,0,2,"0","Third District Court",2016
+"632","Youthful Offender Sexual Offenses","3","0","1","2","2","1",1,0,0,0,0,0,0,0,0,1,1,1,"0","Third District Court",2016
+"633","Total","175","276","107","382","166","123",12,31,1,0,1,0,0,0,13,131,150,115,"4","Third District Court",2016
+"634","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Fourth District Court",2016
+"635","Adult Motor Vehicle Offenses","1","1","0","2","0","0",0,0,0,0,0,0,0,0,0,1,2,0,"0","Fourth District Court",2016
+"636","Extradition","0","2","0","0","2","1",1,0,0,0,0,0,0,0,0,0,0,0,"0","Fourth District Court",2016
+"637","Felony Crimes Against Property","64","64","53","120","61","39",5,17,0,0,0,0,0,0,20,37,50,49,"0","Fourth District Court",2016
+"638","Felony Crimes Against Persons","78","131","66","180","95","58",20,17,1,0,0,1,0,0,41,58,78,65,"0","Fourth District Court",2016
+"639","Felony Drug Offenses","78","86","52","125","90","47",12,31,2,0,1,0,1,0,21,40,55,52,"0","Fourth District Court",2016
+"640","Felony DWI/DUI","26","31","5","38","23","13",9,1,1,0,0,1,0,0,0,26,22,10,"0","Fourth District Court",2016
+"641","Felony Homicide","7","5","3","8","7","4",3,0,1,0,1,0,0,0,0,3,1,4,"0","Fourth District Court",2016
+"642","Felony Miscellaneous","4","22","3","15","14","12",1,1,0,0,0,0,0,0,4,5,11,2,"0","Fourth District Court",2016
+"643","Felony Public Safety Offenses","25","15","14","42","12","5",4,3,0,0,0,0,0,0,4,8,13,24,"0","Fourth District Court",2016
+"644","Felony Sexual Offenses","14","22","10","25","21","8",12,1,0,0,0,0,0,0,4,10,8,8,"0","Fourth District Court",2016
+"645","Felony First Degree","2","0","0","2","0","0",0,0,0,0,0,0,0,0,0,0,0,2,"0","Fourth District Court",2016
+"646","Lower Court Appeal ‐ Defendant Appellant","3","6","1","4","6","3",3,0,0,0,0,0,0,0,0,2,0,2,"0","Fourth District Court",2016
+"647","Lower Court DWI Appeal ‐ Defendant Appellant","2","3","1","5","1","1",0,0,1,0,1,0,0,0,0,2,0,2,"0","Fourth District Court",2016
+"648","Total","304","388","208","566","332","191",70,71,6,0,3,2,1,0,94,192,240,220,"0","Fourth District Court",2016
+"649","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Fourth District Court",2016
+"650","Juvenile Public Safety Offenses","1","1","0","1","1","0",0,1,0,0,0,0,0,0,0,0,0,1,"0","Fourth District Court",2016
+"651","Juvenile Crimes Against Property","7","12","3","14","8","4",3,1,1,0,1,0,0,0,0,4,5,5,"0","Fourth District Court",2016
+"652","Juvenile Crimes Against Persons","7","13","12","27","5","4",1,0,0,0,0,0,0,0,1,10,6,13,"0","Fourth District Court",2016
+"653","Juvenile Delinquent Felony","1","0","1","2","0","0",0,0,0,0,0,0,0,0,0,0,0,2,"0","Fourth District Court",2016
+"654","Juvenile Delinquent Non‐Felony","0","1","0","1","0","0",0,0,0,0,0,0,0,0,0,1,0,0,"0","Fourth District Court",2016
+"655","Juvenile Drug Offenses","3","4","4","11","0","0",0,0,0,0,0,0,0,0,0,5,2,4,"0","Fourth District Court",2016
+"656","Juvenile DWI Offenses","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,0,1,0,"0","Fourth District Court",2016
+"657","Juvenile Motor Vehicle Offenses","0","1","1","2","0","0",0,0,0,0,0,0,0,0,0,1,1,1,"0","Fourth District Court",2016
+"658","Juvenile Sexual Offenses","0","3","1","4","0","0",0,0,0,0,0,0,0,0,0,3,0,1,"0","Fourth District Court",2016
+"659","Youthful Offender Homicide","0","1","0","1","0","0",0,0,0,0,0,0,0,0,0,1,1,0,"0","Fourth District Court",2016
+"660","Total","20","36","22","64","14","8",4,2,1,0,1,0,0,0,1,25,16,27,"0","Fourth District Court",2016
+"661","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Fifth District Court",2016
+"662","Adult Motor Vehicle Offenses","9","2","3","12","2","0",1,1,1,0,0,1,0,0,0,3,2,6,"0","Fifth District Court",2016
+"663","Extradition","1","6","0","5","2","1",0,1,0,0,0,0,0,0,0,0,1,0,"3","Fifth District Court",2016
+"664","Felony Crimes Against Property","624","610","451","1042","641","361",149,131,27,3,11,5,9,5,34,445,163,427,"0","Fifth District Court",2016
+"665","Felony Crimes Against Persons","415","352","251","601","417","227",124,66,25,5,14,7,6,3,17,227,130,241,"0","Fifth District Court",2016
+"666","Felony Drug Offenses","537","734","434","956","744","425",207,112,19,4,10,0,6,7,73,438,173,347,"0","Fifth District Court",2016
+"667","Felony DWI/DUI","78","80","15","86","88","40",30,18,5,1,3,2,1,0,0,56,21,15,"0","Fifth District Court",2016
+"668","Felony Homicide","31","19","11","18","43","7",34,2,3,0,2,1,0,0,0,3,2,10,"0","Fifth District Court",2016
+"669","Felony Miscellaneous","17","5","9","21","10","4",3,3,0,0,0,0,0,0,0,5,4,12,"0","Fifth District Court",2016
+"670","Felony Public Safety Offenses","92","130","65","165","123","72",30,21,7,1,4,3,1,0,4,79,30,55,"0","Fifth District Court",2016
+"671","Felony Sexual Offenses","83","66","28","78","99","43",48,8,14,2,6,7,1,1,3,29,14,22,"0","Fifth District Court",2016
+"672","Felony First Degree","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Fifth District Court",2016
+"673","Felony Domestic Violence","17","15","17","39","10","6",3,1,1,0,1,0,0,0,0,12,6,20,"0","Fifth District Court",2016
+"674","Felony Vehicular Homicide","1","2","3","3","3","1",2,0,0,0,0,0,0,0,0,1,1,2,"0","Fifth District Court",2016
+"675","Lower Court Appeal ‐ Defendant Appellant","40","68","4","67","45","32",12,1,1,13,9,2,0,2,0,36,8,2,"0","Fifth District Court",2016
+"676","Lower Court Appeal ‐ Plaintiff Appellant","1","2","0","1","2","1",1,0,0,0,0,0,0,0,0,1,0,0,"0","Fifth District Court",2016
+"677","Lower Court DWI Appeal ‐ Defendant Appellant","20","28","1","21","28","11",16,1,2,4,4,1,0,0,1,6,5,1,"0","Fifth District Court",2016
+"678","Lower Court DWI Appeal ‐ Plaintiff Appellant","2","0","0","1","1","0",0,1,0,1,1,0,0,0,0,0,0,0,"0","Fifth District Court",2016
+"679","Misdemeanor (Dist.)","23","53","4","44","36","20",9,7,2,0,1,0,0,1,3,12,21,5,"0","Fifth District Court",2016
+"680","Misdemeanor DWI/DUI","67","112","8","97","89","43",24,22,5,19,8,3,9,4,2,46,27,8,"0","Fifth District Court",2016
+"681","Total","2059","2284","1304","3257","2384","1294",694,396,112,53,74,32,33,23,137,1399,608,1173,"3","Fifth District Court",2016
+"682","JUVELINE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Fifth District Court",2016
+"683","Juvenile Public Safety Offenses","19","54","22","79","18","13",4,1,0,0,0,0,0,0,1,38,19,24,"0","Fifth District Court",2016
+"684","Juvenile Crimes Against Property","45","98","51","154","40","18",15,7,0,4,1,0,3,0,5,78,15,53,"1","Fifth District Court",2016
+"685","Juvenile Crimes Against Persons","39","110","36","148","38","28",8,2,2,3,1,1,3,0,3,83,25,34,"2","Fifth District Court",2016
+"686","Juvenile Delinquent Felony","7","7","2","12","5","3",2,0,0,0,0,0,0,0,0,6,2,4,"0","Fifth District Court",2016
+"687","Juvenile Delinquent Non‐Felony","45","44","25","85","29","16",9,4,1,1,1,0,0,1,0,46,11,28,"0","Fifth District Court",2016
+"688","Juvenile Drug Offenses","24","50","27","82","19","11",6,2,0,1,0,0,1,0,4,40,11,27,"0","Fifth District Court",2016
+"689","Juvenile DWI Offenses","1","7","0","6","2","2",0,0,0,1,0,1,0,0,0,3,3,0,"0","Fifth District Court",2016
+"690","Juvenile Truancy","8","12","0","13","7","7",0,0,0,2,0,0,0,2,1,3,7,0,"0","Fifth District Court",2016
+"691","Juvenile Homicide","0","1","0","0","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Fifth District Court",2016
+"692","Juvenile Motor Vehicle Offenses","8","8","5","18","3","2",1,0,0,0,0,0,0,0,2,9,2,5,"0","Fifth District Court",2016
+"693","Juvenile Sexual Offenses","7","7","1","7","8","5",3,0,0,0,0,0,0,0,1,4,0,1,"0","Fifth District Court",2016
+"694","Youthful Offender Crimes Against Persons","1","2","2","4","1","0",1,0,0,0,0,0,0,0,0,2,0,2,"0","Fifth District Court",2016
+"695","Youthful Offender Crimes Against Property","1","2","0","1","2","1",1,0,0,0,0,0,0,0,0,1,1,0,"0","Fifth District Court",2016
+"696","Youthful Offender Homicide","3","0","0","2","1","0",1,0,0,0,0,0,0,0,0,0,0,2,"0","Fifth District Court",2016
+"697","Youthful Offender Public Safety Offenses","0","0","1","0","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Fifth District Court",2016
+"698","Youthful Offender Sexual Offenses","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Fifth District Court",2016
+"699","Total","209","402","172","611","176","108",52,16,3,12,3,2,7,3,17,313,96,180,"3","Fifth District Court",2016
+"700","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Sixth District Court",2016
+"701","Extradition","0","2","0","1","1","1",0,0,0,0,0,0,0,0,0,0,1,0,"0","Sixth District Court",2016
+"702","Felony Crimes Against Property","115","77","118","203","109","45",19,45,8,0,3,3,1,1,9,62,33,112,"0","Sixth District Court",2016
+"703","Felony Crimes Against Persons","167","156","146","297","174","99",41,34,14,0,7,5,1,1,23,97,49,138,"3","Sixth District Court",2016
+"704","Felony Drug Offenses","120","208","105","264","169","90",23,56,0,0,0,0,0,0,26,127,57,98,"2","Sixth District Court",2016
+"705","Felony DWI/DUI","21","26","6","30","23","11",3,9,0,0,0,0,0,0,0,23,14,7,"0","Sixth District Court",2016
+"706","Felony Homicide","4","5","1","4","6","0",6,0,1,0,0,0,1,0,0,2,1,0,"0","Sixth District Court",2016
+"707","Felony Miscellaneous","11","21","10","24","22","12",2,8,0,0,0,0,0,0,0,13,1,10,"0","Sixth District Court",2016
+"708","Felony Public Safety Offenses","20","30","12","36","28","19",5,4,2,0,1,0,1,0,3,18,9,8,"0","Sixth District Court",2016
+"709","Felony Sexual Offenses","22","7","6","23","13","3",9,1,0,0,0,0,0,0,1,12,2,9,"0","Sixth District Court",2016
+"710","Felony Domestic Violence","2","2","1","4","1","1",0,0,0,0,0,0,0,0,0,2,1,1,"0","Sixth District Court",2016
+"711","Lower Court Appeal ‐ Defendant Appellant","18","41","1","44","17","11",6,0,0,0,0,0,0,0,2,36,5,1,"0","Sixth District Court",2016
+"712","Lower Court Appeal ‐ Plaintiff Appellant","1","1","0","0","2","0",2,0,0,0,0,0,0,0,0,0,0,0,"0","Sixth District Court",2016
+"713","Lower Court DWI Appeal ‐ Defendant Appellant","5","8","0","7","6","4",2,0,0,0,0,0,0,0,0,6,2,0,"0","Sixth District Court",2016
+"714","Misdemeanor (Dist.)","0","8","3","5","6","6",0,0,0,0,0,0,0,0,0,3,2,0,"0","Sixth District Court",2016
+"715","Misdemeanor DWI/DUI","2","0","0","1","1","0",0,1,0,0,0,0,0,0,0,0,1,0,"0","Sixth District Court",2016
+"716","Total","508","592","409","943","578","302",118,158,25,0,11,8,4,2,64,401,178,384,"5","Sixth District Court",2016
+"717","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Sixth District Court",2016
+"718","Juvenile Public Safety Offenses","4","6","0","9","1","1",0,0,0,0,0,0,0,0,2,6,2,0,"0","Sixth District Court",2016
+"719","Juvenile Crimes Against Property","4","24","9","34","3","2",0,1,0,1,0,0,1,0,1,18,5,9,"0","Sixth District Court",2016
+"720","Juvenile Crimes Against Persons","9","50","13","57","17","12",3,2,0,1,1,0,0,0,2,32,19,11,"0","Sixth District Court",2016
+"721","Juvenile Delinquent Felony","0","3","0","3","0","0",0,0,0,0,0,0,0,0,1,2,0,0,"0","Sixth District Court",2016
+"722","Juvenile Delinquent Non‐Felony","0","6","3","7","2","2",0,0,0,0,0,0,0,0,0,4,2,2,"0","Sixth District Court",2016
+"723","Juvenile Drug Offenses","5","30","12","41","5","3",0,2,0,0,0,0,0,0,2,24,4,13,"0","Sixth District Court",2016
+"724","Juvenile DWI Offenses","2","3","0","5","0","0",0,0,0,0,0,0,0,0,0,5,3,0,"0","Sixth District Court",2016
+"725","Juvenile Homicide","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Sixth District Court",2016
+"726","Juvenile Sexual Offenses","2","0","2","3","1","0",1,0,0,0,0,0,0,0,1,0,0,2,"0","Sixth District Court",2016
+"727","Youthful Offender Crimes Against Persons","2","0","2","2","2","0",1,1,0,0,0,0,0,0,0,0,0,2,"0","Sixth District Court",2016
+"728","Youthful Offender Homicide","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Sixth District Court",2016
+"729","Youthful Offender Sexual Offenses","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Sixth District Court",2016
+"730","Total","31","122","41","161","34","20",8,6,0,2,1,0,1,0,9,91,35,39,"0","Sixth District Court",2016
+"731","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"","Seventh District Court",2016
+"732","Adult Motor Vehicle Offenses","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,0,0,1,"0","Seventh District Court",2016
+"733","Domestic Violence Appeal ‐ Defendant Appellant","0","1","0","0","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Seventh District Court",2016
+"734","Extradition","2","6","0","6","2","0",1,1,0,0,0,0,0,0,0,0,4,0,"2","Seventh District Court",2016
+"735","Felony Crimes Against Property","109","72","40","104","115","53",38,24,0,0,0,0,0,0,2,55,41,32,"0","Seventh District Court",2016
+"736","Felony Crimes Against Persons","103","111","38","127","123","62",47,14,3,0,1,2,0,0,4,58,45,37,"0","Seventh District Court",2016
+"737","Felony Drug Offenses","137","148","59","188","154","84",44,26,0,0,0,0,0,0,9,81,74,60,"0","Seventh District Court",2016
+"738","Felony DWI/DUI","16","11","7","15","19","7",7,5,0,0,0,0,0,0,0,11,4,4,"0","Seventh District Court",2016
+"739","Felony Homicide","5","2","0","2","5","1",3,1,0,0,0,0,0,0,0,1,1,1,"0","Seventh District Court",2016
+"740","Felony Miscellaneous","18","12","10","21","19","9",6,4,0,0,0,0,0,0,1,5,6,10,"0","Seventh District Court",2016
+"741","Felony Public Safety Offenses","19","18","2","18","21","11",5,5,0,0,0,0,0,0,0,12,11,3,"0","Seventh District Court",2016
+"742","Felony Sexual Offenses","24","14","10","30","18","7",10,1,2,0,1,1,0,0,1,15,12,9,"0","Seventh District Court",2016
+"743","Felony First Degree","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,0,0,1,"0","Seventh District Court",2016
+"744","Felony Domestic Violence","3","2","0","2","3","2",1,0,0,0,0,0,0,0,0,1,0,1,"0","Seventh District Court",2016
+"745","Felony Vehicular Homicide","1","6","0","2","5","3",2,0,1,0,0,0,0,1,0,0,0,1,"0","Seventh District Court",2016
+"746","Lower Court Appeal ‐ Defendant Appellant","5","9","1","8","7","4",2,1,1,2,2,1,0,0,2,0,2,1,"0","Seventh District Court",2016
+"747","Lower Court Appeal ‐ Plaintiff Appellant","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,0,1,0,"0","Seventh District Court",2016
+"748","Lower Court DWI Appeal ‐ Defendant Appellant","5","4","1","6","5","3",2,0,1,2,1,1,1,0,0,2,0,1,"0","Seventh District Court",2016
+"749","Lower Court DWI Appeal ‐ Plaintiff Appellant","0","1","0","0","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Seventh District Court",2016
+"750","Misdemeanor (Dist.)","2","1","3","4","2","2",0,0,0,0,0,0,0,0,1,0,2,1,"0","Seventh District Court",2016
+"751","Misdemeanor DWI/DUI","2","2","0","1","3","2",1,0,1,0,0,1,0,0,0,0,0,0,"0","Seventh District Court",2016
+"752","Total","454","420","171","537","503","252",169,82,9,4,5,6,1,1,20,241,203,163,"2","Seventh District Court",2016
+"753","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"","Seventh District Court",2016
+"754","Juvenile Public Safety Offenses","3","1","0","3","1","1",0,0,0,0,0,0,0,0,2,1,1,0,"0","Seventh District Court",2016
+"755","Juvenile Crimes Against Property","8","21","3","19","13","10",1,2,0,0,0,0,0,0,2,8,8,3,"0","Seventh District Court",2016
+"756","Juvenile Crimes Against Persons","9","14","3","23","3","2",1,0,0,0,0,0,0,0,6,9,6,5,"0","Seventh District Court",2016
+"757","Juvenile Delinquent Felony","1","3","0","2","2","1",1,0,0,0,0,0,0,0,0,1,2,0,"0","Seventh District Court",2016
+"758","Juvenile Delinquent Non‐Felony","3","1","3","7","1","1",0,0,0,0,0,0,0,0,0,3,0,4,"0","Seventh District Court",2016
+"759","Juvenile Drug Offenses","6","8","4","14","4","2",1,1,0,0,0,0,0,0,1,3,3,7,"0","Seventh District Court",2016
+"760","Juvenile DWI Offenses","0","1","0","1","0","0",0,0,0,0,0,0,0,0,0,0,1,0,"0","Seventh District Court",2016
+"761","Juvenile Motor Vehicle Offenses","0","0","1","1","0","0",0,0,0,0,0,0,0,0,0,0,0,1,"0","Seventh District Court",2016
+"762","Juvenile Sexual Offenses","1","3","0","2","2","2",0,0,0,0,0,0,0,0,0,0,1,1,"0","Seventh District Court",2016
+"763","Youthful Offender Crimes Against Persons","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,1,1,0,"0","Seventh District Court",2016
+"764","Youthful Offender Homicide","0","1","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Seventh District Court",2016
+"765","Youthful Offender Sexual Offenses","0","1","0","0","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Seventh District Court",2016
+"766","Total","32","54","14","73","28","20",5,3,0,0,0,0,0,0,11,26,23,21,"0","Seventh District Court",2016
+"767","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Eighth District Court",2016
+"768","Adult Motor Vehicle Offenses","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,0,1,0,"0","Eighth District Court",2016
+"769","Felony Crimes Against Property","131","80","66","171","113","51",20,42,2,0,0,2,0,0,14,56,50,76,"0","Eighth District Court",2016
+"770","Felony Crimes Against Persons","160","129","57","183","171","84",50,37,2,0,1,1,0,0,24,64,54,62,"0","Eighth District Court",2016
+"771","Felony Drug Offenses","156","125","53","187","157","71",46,40,2,0,0,0,1,1,19,73,73,51,"0","Eighth District Court",2016
+"772","Felony DWI/DUI","24","28","10","32","30","14",12,4,0,1,1,0,0,0,0,20,10,8,"0","Eighth District Court",2016
+"773","Felony Homicide","8","2","1","5","6","1",5,0,3,0,3,0,0,0,0,1,1,1,"0","Eighth District Court",2016
+"774","Felony Miscellaneous","18","10","4","11","21","9",7,5,1,0,0,0,1,0,0,4,3,4,"0","Eighth District Court",2016
+"775","Felony Public Safety Offenses","28","19","9","35","22","10",9,3,0,0,0,0,0,0,1,19,8,13,"0","Eighth District Court",2016
+"776","Felony Sexual Offenses","23","6","3","9","24","5",12,7,0,0,0,0,0,0,0,4,1,4,"0","Eighth District Court",2016
+"777","Felony First Degree","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,0,1,0,"0","Eighth District Court",2016
+"778","Felony Domestic Violence","2","6","1","6","3","2",1,0,0,0,0,0,0,0,0,3,2,2,"0","Eighth District Court",2016
+"779","Lower Court Appeal","8","0","0","5","3","1",2,0,0,0,0,0,0,0,2,1,2,0,"0","Eighth District Court",2016
+"780","Felony Vehicular Homicide","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,1,1,0,"0","Eighth District Court",2016
+"781","Lower Court Appeal ‐ Defendant Appellant","9","5","3","10","7","3",4,0,0,2,2,0,0,0,1,4,0,1,"0","Eighth District Court",2016
+"782","Lower Court Appeal ‐ Plaintiff Appellant","4","1","0","4","1","0",1,0,0,0,0,0,0,0,0,0,4,0,"0","Eighth District Court",2016
+"783","Lower Court DWI/DUI Appeals","3","0","0","3","0","0",0,0,0,0,0,0,0,0,1,1,0,0,"0","Eighth District Court",2016
+"784","Lower Court DWI Appeal ‐ Defendant Appellant","6","5","1","8","4","2",2,0,1,2,2,0,0,1,1,3,0,1,"0","Eighth District Court",2016
+"785","Lower Court DWI Appeal ‐ Plaintiff Appellant","2","0","0","2","0","0",0,0,0,1,1,0,0,0,0,0,0,0,"0","Eighth District Court",2016
+"786","Misdemeanor (Dist.)","5","8","2","10","5","1",3,1,0,0,0,0,0,0,0,3,5,3,"0","Eighth District Court",2016
+"787","Misdemeanor DWI/DUI","4","4","0","6","2","2",0,0,0,0,0,0,0,0,0,5,4,0,"0","Eighth District Court",2016
+"788","Petition for Review of Bond/Conditions of Release","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,1,0,0,"0","Eighth District Court",2016
+"789","Total","595","428","210","691","569","256",174,139,11,6,10,3,2,2,63,263,220,226,"0","Eighth District Court",2016
+"790","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Eighth District Court",2016
+"791","Juvenile Public Safety Offenses","5","0","1","6","2","0",2,0,0,0,0,0,0,0,0,1,1,3,"0","Eighth District Court",2016
+"792","Juvenile Crimes Against Property","10","21","10","26","15","8",6,1,0,0,0,0,0,0,2,9,4,11,"0","Eighth District Court",2016
+"793","Juvenile Crimes Against Persons","17","34","7","39","19","13",6,0,0,0,0,0,0,0,1,12,19,8,"0","Eighth District Court",2016
+"794","Juvenile Delinquent Felony","6","1","1","5","4","0",3,1,0,0,0,0,0,0,1,1,2,1,"0","Eighth District Court",2016
+"795","Juvenile Delinquent Non‐Felony","6","9","1","10","6","1",5,0,0,0,0,0,0,0,1,5,3,1,"0","Eighth District Court",2016
+"796","Juvenile Drug Offenses","10","17","9","29","7","3",3,1,0,0,0,0,0,0,1,11,8,11,"0","Eighth District Court",2016
+"797","Juvenile DWI Offenses","2","2","0","1","3","1",2,0,0,0,0,0,0,0,0,1,0,0,"0","Eighth District Court",2016
+"798","Juvenile Extradition","1","1","0","1","1","0",1,0,0,0,0,0,0,0,0,0,1,0,"0","Eighth District Court",2016
+"799","Juvenile Graffiti Offenses","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Eighth District Court",2016
+"800","Juvenile Homicide","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,1,0,0,"0","Eighth District Court",2016
+"801","Juvenile Sexual Offenses","2","2","1","2","3","1",1,1,0,0,0,0,0,0,0,1,0,1,"0","Eighth District Court",2016
+"802","Youthful Offender Homicide","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,1,0,0,"0","Eighth District Court",2016
+"803","Youthful Offender Sexual Offenses","0","1","0","0","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Eighth District Court",2016
+"804","Total","62","88","30","121","62","28",30,4,0,0,0,0,0,0,6,43,38,36,"0","Eighth District Court",2016
+"805","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ninth District Court",2016
+"806","Adult Motor Vehicle Offenses","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,0,0,1,"0","Ninth District Court",2016
+"807","Extradition","20","19","0","19","20","7",13,0,0,0,0,0,0,0,6,0,13,0,"0","Ninth District Court",2016
+"808","Felony Crimes Against Property","285","223","131","343","306","141",93,72,8,0,3,2,3,0,16,129,79,126,"0","Ninth District Court",2016
+"809","Felony Crimes Against Persons","209","230","68","259","256","120",91,45,9,0,8,1,0,0,14,125,56,67,"0","Ninth District Court",2016
+"810","Felony Drug Offenses","324","326","138","383","413","234",85,94,11,0,9,1,0,1,25,172,71,120,"0","Ninth District Court",2016
+"811","Felony DWI/DUI","26","14","6","19","27","6",9,12,0,0,0,0,0,0,1,12,3,4,"0","Ninth District Court",2016
+"812","Felony Homicide","8","4","1","4","10","0",10,0,0,0,0,0,0,0,0,1,0,3,"0","Ninth District Court",2016
+"813","Felony Miscellaneous","100","59","26","107","78","34",28,16,3,1,4,0,0,0,5,44,36,26,"0","Ninth District Court",2016
+"814","Felony Public Safety Offenses","2","4","1","5","3","3",0,0,0,0,0,0,0,0,0,2,1,2,"0","Ninth District Court",2016
+"815","Felony Sexual Offenses","50","34","14","45","54","21",28,5,7,0,3,3,0,1,4,13,9,15,"0","Ninth District Court",2016
+"816","Felony First Degree","0","0","1","1","0","0",0,0,0,0,0,0,0,0,0,0,0,1,"0","Ninth District Court",2016
+"817","Lower Court Appeal","7","0","0","1","6","0",6,0,0,0,0,0,0,0,1,0,0,0,"0","Ninth District Court",2016
+"818","Lower Court Appeal ‐ Defendant Appellant","19","18","1","18","20","8",11,1,1,5,3,0,0,2,5,1,6,0,"1","Ninth District Court",2016
+"819","Lower Court DWI/DUI Appeals","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,1,0,0,"0","Ninth District Court",2016
+"820","Lower Court DWI Appeal ‐ Defendant Appellant","3","6","0","7","2","1",1,0,1,2,2,1,0,0,1,3,0,0,"0","Ninth District Court",2016
+"821","Misdemeanor (Dist.)","30","4","4","24","15","4",5,6,1,1,0,1,0,1,1,4,5,12,"0","Ninth District Court",2016
+"822","Misdemeanor DWI/DUI","23","8","3","12","22","3",7,12,0,0,0,0,0,0,0,5,3,4,"0","Ninth District Court",2016
+"823","Petition for Review of Bond/Conditions of Release","2","1","0","0","3","0",3,0,0,0,0,0,0,0,0,0,0,0,"0","Ninth District Court",2016
+"824","Total","1110","950","394","1249","1235","582",390,263,41,9,32,9,3,5,79,512,282,381,"1","Ninth District Court",2016
+"825","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ninth District Court",2016
+"826","Juvenile Public Safety Offenses","1","6","1","4","4","3",1,0,0,0,0,0,0,0,0,4,0,0,"0","Ninth District Court",2016
+"827","Juvenile Crimes Against Property","21","44","26","59","30","15",13,2,0,0,0,0,0,0,5,18,8,27,"2","Ninth District Court",2016
+"828","Juvenile Crimes Against Persons","35","47","15","64","33","18",9,6,1,0,1,0,0,0,7,25,18,14,"0","Ninth District Court",2016
+"829","Juvenile Delinquent Felony","4","2","0","3","3","2",1,0,0,0,0,0,0,0,1,0,1,0,"0","Ninth District Court",2016
+"830","Juvenile Delinquent Non‐Felony","7","11","2","14","6","2",3,1,0,1,0,0,0,1,1,3,5,4,"0","Ninth District Court",2016
+"831","Juvenile Drug Offenses","18","15","9","28","14","10",2,2,0,0,0,0,0,0,3,11,6,10,"0","Ninth District Court",2016
+"832","Juvenile DWI Offenses","2","2","0","4","0","0",0,0,0,0,0,0,0,0,0,2,2,0,"0","Ninth District Court",2016
+"833","Juvenile Extradition","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Ninth District Court",2016
+"834","Juvenile Motor Vehicle Offenses","1","1","0","2","0","0",0,0,0,0,0,0,0,0,0,0,2,0,"0","Ninth District Court",2016
+"835","Juvenile Sexual Offenses","4","6","0","7","3","0",3,0,0,0,0,0,0,0,0,5,1,0,"2","Ninth District Court",2016
+"836","Youthful Offender Crimes Against Persons","1","0","0","0","1","0",0,1,0,0,0,0,0,0,0,0,0,0,"0","Ninth District Court",2016
+"837","Youthful Offender Crimes Against Property","4","4","0","4","4","1",2,1,0,0,0,0,0,0,1,3,0,0,"0","Ninth District Court",2016
+"838","Youthful Offender Sexual Offenses","2","1","0","0","3","1",2,0,0,0,0,0,0,0,0,0,0,0,"0","Ninth District Court",2016
+"839","Total","101","139","53","189","102","52",37,13,1,1,1,0,0,1,18,71,43,55,"4","Ninth District Court",2016
+"840","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Tenth District Court",2016
+"841","Extradition","0","1","0","1","0","0",0,0,0,0,0,0,0,0,0,0,0,0,"1","Tenth District Court",2016
+"842","Felony Crimes Against Property","33","17","17","38","31","14",13,4,1,0,1,0,0,0,4,16,10,14,"0","Tenth District Court",2016
+"843","Felony Crimes Against Persons","42","41","23","59","47","22",16,9,2,0,1,1,0,0,5,23,18,24,"0","Tenth District Court",2016
+"844","Felony Drug Offenses","41","46","24","52","59","35",8,16,0,0,0,0,0,0,9,15,25,20,"0","Tenth District Court",2016
+"845","Felony DWI/DUI","2","3","4","5","4","2",1,1,0,0,0,0,0,0,0,2,2,3,"0","Tenth District Court",2016
+"846","Felony Homicide","3","0","0","0","3","0",2,1,0,0,0,0,0,0,0,0,0,0,"0","Tenth District Court",2016
+"847","Felony Miscellaneous","33","31","14","41","37","18",6,13,1,0,0,1,0,0,3,18,9,16,"0","Tenth District Court",2016
+"848","Felony Sexual Offenses","5","1","1","4","2","1",1,0,0,0,0,0,0,0,0,2,4,0,"0","Tenth District Court",2016
+"849","Felony Vehicular Homicide","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Tenth District Court",2016
+"850","Lower Court Appeal ‐ Defendant Appellant","8","8","0","5","11","2",9,0,0,0,0,0,0,0,0,5,0,0,"0","Tenth District Court",2016
+"851","Lower Court DWI Appeal ‐ Defendant Appellant","1","0","1","2","0","0",0,0,0,0,0,0,0,0,0,1,0,1,"0","Tenth District Court",2016
+"852","Misdemeanor (Dist.)","6","2","2","6","4","0",3,1,0,0,0,0,0,0,2,2,3,1,"0","Tenth District Court",2016
+"853","Total","175","150","86","213","199","94",60,45,4,0,2,2,0,0,23,84,71,79,"1","Tenth District Court",2016
+"854","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Tenth District Court",2016
+"855","Juvenile Crimes Against Property","8","1","7","14","3","2",1,0,0,0,0,0,0,0,2,5,4,7,"0","Tenth District Court",2016
+"856","Juvenile Crimes Against Persons","3","8","2","9","4","4",0,0,0,0,0,0,0,0,0,3,5,3,"0","Tenth District Court",2016
+"857","Juvenile Delinquent Felony","2","3","0","3","2","2",0,0,0,0,0,0,0,0,0,0,3,0,"0","Tenth District Court",2016
+"858","Juvenile Delinquent Non‐Felony","4","6","4","9","5","2",3,0,1,1,0,0,2,0,1,3,0,3,"0","Tenth District Court",2016
+"859","Juvenile Drug Offenses","1","5","1","4","3","2",1,0,0,0,0,0,0,0,0,2,1,1,"0","Tenth District Court",2016
+"860","Juvenile DWI Offenses","1","0","1","2","0","0",0,0,0,0,0,0,0,0,0,1,0,1,"0","Tenth District Court",2016
+"861","Juvenile Motor Vehicle Offenses","0","1","1","1","1","0",1,0,0,0,0,0,0,0,0,1,0,0,"0","Tenth District Court",2016
+"862","Juvenile Sexual Offenses","0","1","0","1","0","0",0,0,0,0,0,0,0,0,0,1,0,0,"0","Tenth District Court",2016
+"863","Total","19","25","16","43","18","12",6,0,1,1,0,0,2,0,3,16,13,15,"0","Tenth District Court",2016
+"864","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Eleventh District Court",2016
+"865","Adult Motor Vehicle Offenses","1","0","0","0","1","0",0,1,0,0,0,0,0,0,0,0,0,0,"0","Eleventh District Court",2016
+"866","Extradition","8","30","0","28","10","5",3,2,0,0,0,0,0,0,0,0,10,0,"18","Eleventh District Court",2016
+"867","Felony Crimes Against Property","222","205","135","276","285","130",42,113,7,0,2,3,1,1,22,84,78,130,"0","Eleventh District Court",2016
+"868","Felony Crimes Against Persons","442","488","276","689","518","262",139,117,15,0,11,2,1,1,42,281,232,263,"0","Eleventh District Court",2016
+"869","Felony Drug Offenses","349","324","205","531","348","176",83,89,3,0,1,1,1,0,41,183,223,190,"0","Eleventh District Court",2016
+"870","Felony DWI/DUI","176","192","51","209","205","104",40,61,1,0,1,0,0,0,3,148,82,47,"0","Eleventh District Court",2016
+"871","Felony Homicide","12","8","6","13","12","5",6,1,5,0,5,0,0,0,0,4,2,4,"0","Eleventh District Court",2016
+"872","Felony Miscellaneous","52","74","31","79","78","37",22,19,1,0,1,0,0,0,8,26,30,28,"0","Eleventh District Court",2016
+"873","Felony Public Safety Offenses","62","89","28","94","84","52",18,14,2,0,1,1,0,0,7,41,34,29,"0","Eleventh District Court",2016
+"874","Felony Sexual Offenses","51","50","20","51","69","26",36,7,5,1,3,3,0,0,1,21,11,17,"0","Eleventh District Court",2016
+"875","Felony First Degree","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Eleventh District Court",2016
+"876","Felony Domestic Violence","6","27","9","17","24","20",2,2,0,0,0,0,0,0,1,5,4,8,"0","Eleventh District Court",2016
+"877","Lower Court Appeal","4","0","0","0","4","0",1,3,0,0,0,0,0,0,0,0,0,0,"0","Eleventh District Court",2016
+"878","Felony Vehicular Homicide","0","1","1","1","1","1",0,0,0,0,0,0,0,0,0,0,0,1,"0","Eleventh District Court",2016
+"879","Lower Court Appeal ‐ Defendant Appellant","42","47","0","59","29","20",9,0,0,12,12,0,0,0,2,40,4,1,"0","Eleventh District Court",2016
+"880","Lower Court DWI/DUI Appeals","2","0","0","1","1","0",1,0,0,1,1,0,0,0,0,0,0,0,"0","Eleventh District Court",2016
+"881","Lower Court DWI Appeal ‐ Defendant Appellant","62","48","0","72","38","24",14,0,1,26,26,0,0,1,1,43,4,0,"0","Eleventh District Court",2016
+"882","Lower Court DWI Appeal ‐ Plaintiff Appellant","0","3","0","1","2","1",1,0,0,1,1,0,0,0,0,0,0,0,"0","Eleventh District Court",2016
+"883","Misdemeanor (Dist.)","21","44","1","38","28","21",3,4,0,7,2,0,5,0,0,12,18,1,"0","Eleventh District Court",2016
+"884","Misdemeanor DWI/DUI","1","6","1","6","2","2",0,0,0,0,0,0,0,0,0,1,4,1,"0","Eleventh District Court",2016
+"885","Petition for Review of Bond/Conditions of Release","1","3","0","2","2","0",2,0,0,0,0,0,0,0,2,0,0,0,"0","Eleventh District Court",2016
+"886","Total","1515","1639","764","2167","1742","886",423,433,40,48,67,10,8,3,130,889,736,720,"18","Eleventh District Court",2016
+"887","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Eleventh District Court",2016
+"888","Juvenile Public Safety Offenses","8","11","6","21","4","2",1,1,0,0,0,0,0,0,1,11,9,5,"0","Eleventh District Court",2016
+"889","Juvenile Crimes Against Property","52","79","27","112","46","35",4,7,0,0,0,0,0,0,3,57,52,27,"0","Eleventh District Court",2016
+"890","Juvenile Crimes Against Persons","48","89","28","127","39","27",8,4,1,1,0,1,0,1,6,57,53,27,"0","Eleventh District Court",2016
+"891","Juvenile Delinquent Felony","3","5","3","7","4","1",3,0,0,0,0,0,0,0,0,2,3,4,"0","Eleventh District Court",2016
+"892","Juvenile Delinquent Non‐Felony","7","7","1","8","7","5",2,0,0,0,0,0,0,0,0,2,5,3,"0","Eleventh District Court",2016
+"893","Juvenile Drug Offenses","19","49","9","58","19","13",4,2,0,0,0,0,0,0,0,25,33,10,"0","Eleventh District Court",2016
+"894","Juvenile DWI Offenses","7","13","3","15","8","7",1,0,0,0,0,0,0,0,0,9,8,4,"0","Eleventh District Court",2016
+"895","Juvenile Motor Vehicle Offenses","1","6","1","7","1","1",0,0,0,0,0,0,0,0,0,5,6,1,"0","Eleventh District Court",2016
+"896","Juvenile Sexual Offenses","6","14","2","18","4","1",3,0,0,0,0,0,0,0,1,7,10,3,"0","Eleventh District Court",2016
+"897","Youthful Offender Crimes Against Persons","0","2","1","1","2","1",1,0,0,0,0,0,0,0,0,0,0,1,"0","Eleventh District Court",2016
+"898","Youthful Offender Homicide","0","0","1","1","0","0",0,0,0,0,0,0,0,0,0,0,0,1,"0","Eleventh District Court",2016
+"899","Youthful Offender Sexual Offenses","1","4","2","1","6","3",2,1,0,0,0,0,0,0,0,0,0,1,"0","Eleventh District Court",2016
+"900","Total","152","279","84","376","140","96",29,15,1,1,0,1,0,1,11,175,179,87,"0","Eleventh District Court",2016
+"901","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Twelfth District Court",2016
+"902","Extradition","4","4","0","2","7","4",2,1,0,0,0,0,0,0,0,0,0,0,"1","Twelfth District Court",2016
+"903","Felony Crimes Against Property","221","121","132","228","247","114",91,42,5,1,1,0,4,1,13,68,52,122,"0","Twelfth District Court",2016
+"904","Felony Crimes Against Persons","374","178","171","374","349","133",160,56,23,1,16,4,3,1,8,146,121,151,"1","Twelfth District Court",2016
+"905","Felony Drug Offenses","519","249","253","445","577","214",207,156,18,0,10,4,4,0,35,160,96,198,"0","Twelfth District Court",2016
+"906","Felony DWI/DUI","66","39","22","54","73","22",32,19,5,2,4,1,2,0,0,19,14,23,"0","Twelfth District Court",2016
+"907","Felony Homicide","11","1","6","8","10","2",8,0,0,0,0,0,0,0,0,1,1,6,"0","Twelfth District Court",2016
+"908","Felony Miscellaneous","207","99","76","192","191","65",85,41,4,0,3,0,0,0,8,76,63,84,"0","Twelfth District Court",2016
+"909","Felony Public Safety Offenses","8","10","4","7","15","10",2,3,0,0,0,0,0,0,0,2,1,5,"0","Twelfth District Court",2016
+"910","Felony Sexual Offenses","44","26","18","34","54","16",34,4,3,2,3,0,2,0,1,12,6,13,"0","Twelfth District Court",2016
+"911","Felony First Degree","0","0","1","0","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Twelfth District Court",2016
+"912","Felony Domestic Violence","7","3","2","3","9","1",2,6,0,0,0,0,0,0,0,2,2,1,"0","Twelfth District Court",2016
+"913","Lower Court Appeal","5","0","1","2","4","1",2,1,1,0,1,0,0,0,0,0,0,0,"0","Twelfth District Court",2016
+"914","Felony Vehicular Homicide","2","0","0","0","2","0",1,1,0,0,0,0,0,0,0,0,0,0,"0","Twelfth District Court",2016
+"915","Lower Court Appeal ‐ Defendant Appellant","18","14","1","13","20","4",15,1,0,3,2,0,1,0,1,5,4,0,"0","Twelfth District Court",2016
+"916","Lower Court Appeal ‐ Plaintiff Appellant","4","1","0","4","1","1",0,0,0,0,0,0,0,0,0,1,0,1,"0","Twelfth District Court",2016
+"917","Lower Court DWI Appeal ‐ Defendant Appellant","4","1","0","2","3","1",2,0,0,1,1,0,0,0,0,0,1,0,"0","Twelfth District Court",2016
+"918","Misdemeanor (Dist.)","37","30","7","35","39","18",14,7,4,1,1,3,1,0,2,15,10,4,"0","Twelfth District Court",2016
+"919","Misdemeanor DWI/DUI","6","0","0","2","4","0",3,1,1,0,0,0,1,0,0,1,1,0,"0","Twelfth District Court",2016
+"920","Total","1537","776","694","1405","1606","607",660,339,64,11,42,12,18,2,68,508,372,608,"2","Twelfth District Court",2016
+"921","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Twelfth District Court",2016
+"922","Juvenile Public Safety Offenses","1","4","6","9","2","0",1,1,0,0,0,0,0,0,0,3,1,5,"0","Twelfth District Court",2016
+"923","Juvenile Crimes Against Property","19","25","29","52","21","17",2,2,0,1,0,0,1,0,1,16,6,29,"0","Twelfth District Court",2016
+"924","Juvenile Crimes Against Persons","21","39","20","47","33","20",6,7,0,0,0,0,0,0,1,24,9,14,"0","Twelfth District Court",2016
+"925","Juvenile Delinquent Felony","9","7","11","14","13","7",5,1,0,0,0,0,0,0,2,5,1,7,"0","Twelfth District Court",2016
+"926","Juvenile Delinquent Non‐Felony","4","16","11","19","12","8",4,0,0,0,0,0,0,0,1,9,1,9,"0","Twelfth District Court",2016
+"927","Juvenile Drug Offenses","9","20","18","39","8","7",1,0,0,0,0,0,0,0,0,17,4,19,"0","Twelfth District Court",2016
+"928","Juvenile DWI Offenses","2","6","1","7","3","3",0,0,0,0,0,0,0,0,0,5,1,1,"0","Twelfth District Court",2016
+"929","Juvenile Extradition","0","1","0","1","0","0",0,0,0,0,0,0,0,0,0,0,0,0,"1","Twelfth District Court",2016
+"930","Juvenile Graffiti Offenses","0","0","1","0","1","0",0,1,0,0,0,0,0,0,0,0,0,0,"0","Twelfth District Court",2016
+"931","Juvenile Motor Vehicle Offenses","1","4","0","2","3","3",0,0,0,0,0,0,0,0,1,0,0,0,"0","Twelfth District Court",2016
+"932","Juvenile Sexual Offenses","2","4","0","3","3","1",2,0,0,0,0,0,0,0,1,2,0,0,"0","Twelfth District Court",2016
+"933","Youthful Offender Crimes Against Persons","1","0","0","0","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Twelfth District Court",2016
+"934","Youthful Offender Crimes Against Property","3","1","1","3","2","1",1,0,1,0,1,0,0,0,0,2,1,0,"0","Twelfth District Court",2016
+"935","Youthful Offender Sexual Offenses","2","3","0","2","3","2",1,0,0,0,0,0,0,0,0,2,1,0,"0","Twelfth District Court",2016
+"936","Total","74","130","98","198","105","70",23,12,1,1,1,0,1,0,7,85,25,84,"1","Twelfth District Court",2016
+"937","CRIMINAL","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"","Thirteenth District Court",2016
+"938","Extradition","14","60","0","51","23","12",10,1,0,0,0,0,0,0,2,1,41,0,"3","Thirteenth District Court",2016
+"939","Felony Crimes Against Property","761","379","252","654","738","222",239,277,4,4,2,0,2,3,55,237,199,249,"0","Thirteenth District Court",2016
+"940","Felony Crimes Against Persons","945","437","209","736","851","229",371,251,17,5,11,3,5,3,71,269,248,222,"0","Thirteenth District Court",2016
+"941","Felony Drug Offenses","539","388","151","487","584","208",174,202,5,1,4,0,1,1,52,189,166,144,"0","Thirteenth District Court",2016
+"942","Felony DWI/DUI","146","96","33","135","140","41",45,54,4,2,2,2,1,1,5,82,34,29,"0","Thirteenth District Court",2016
+"943","Felony Homicide","23","7","7","13","24","4",18,2,2,0,2,0,0,0,0,3,4,6,"0","Thirteenth District Court",2016
+"944","Felony Miscellaneous","71","34","20","52","73","27",24,22,0,1,0,0,1,0,6,21,17,13,"0","Thirteenth District Court",2016
+"945","Felony Public Safety Offenses","111","71","24","99","106","35",45,26,1,1,1,0,0,1,17,42,37,16,"0","Thirteenth District Court",2016
+"946","Felony Sexual Offenses","64","31","10","45","60","10",42,8,5,0,1,3,0,1,6,15,12,14,"0","Thirteenth District Court",2016
+"947","Felony Vehicular Homicide","3","1","1","2","3","1",1,1,0,0,0,0,0,0,0,2,2,0,"0","Thirteenth District Court",2016
+"948","Lower Court Appeal","14","0","0","0","14","0",13,1,0,0,0,0,0,0,0,0,0,0,"0","Thirteenth District Court",2016
+"949","Lower Court Appeal ‐ Defendant Appellant","39","66","1","47","59","26",33,0,0,17,14,0,0,3,6,15,5,2,"0","Thirteenth District Court",2016
+"950","Lower Court Appeal ‐ Plaintiff Appellant","2","4","0","2","4","3",1,0,0,0,0,0,0,0,2,0,0,0,"0","Thirteenth District Court",2016
+"951","Lower Court DWI Appeal ‐ Defendant Appellant","19","35","0","30","24","13",11,0,0,14,12,0,0,2,7,8,1,0,"0","Thirteenth District Court",2016
+"952","Lower Court DWI Appeal ‐ Plaintiff Appellant","1","4","0","2","3","2",1,0,0,0,0,0,0,0,0,1,0,0,"0","Thirteenth District Court",2016
+"953","Misdemeanor (Dist.)","5","7","1","6","7","7",0,0,0,0,0,0,0,0,1,3,3,0,"0","Thirteenth District Court",2016
+"954","Misdemeanor DWI/DUI","7","7","0","5","10","6",4,0,0,0,0,0,0,0,1,3,1,0,"0","Thirteenth District Court",2016
+"955","Petition for Review of Bond/Conditions of Release","0","2","0","1","1","1",0,0,0,0,0,0,0,0,1,0,0,0,"0","Thirteenth District Court",2016
+"956","Total","2764","1629","709","2367","2724","847",1032,845,38,45,49,8,10,15,232,891,770,695,"3","Thirteenth District Court",2016
+"957","JUVENILE","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"","Thirteenth District Court",2016
+"958","Juvenile Public Safety Offenses","17","7","2","19","8","4",2,2,0,0,0,0,0,0,6,2,8,3,"0","Thirteenth District Court",2016
+"959","Juvenile Crimes Against Property","39","72","25","86","50","25",16,9,0,0,0,0,0,0,14,37,23,24,"0","Thirteenth District Court",2016
+"960","Juvenile Crimes Against Persons","68","102","33","135","69","39",17,13,0,0,0,0,0,0,16,48,53,32,"0","Thirteenth District Court",2016
+"961","Juvenile Delinquent Felony","1","6","5","9","3","2",0,1,0,0,0,0,0,0,0,3,4,4,"0","Thirteenth District Court",2016
+"962","Juvenile Delinquent Non‐Felony","1","7","1","4","5","1",2,2,0,0,0,0,0,0,0,3,1,1,"0","Thirteenth District Court",2016
+"963","Juvenile Drug Offenses","40","74","25","97","43","25",10,8,0,0,0,0,0,0,22,35,23,22,"0","Thirteenth District Court",2016
+"964","Juvenile DWI Offenses","9","9","4","19","3","1",1,1,0,0,0,0,0,0,6,8,4,4,"0","Thirteenth District Court",2016
+"965","Juvenile Graffiti Offenses","1","0","0","0","1","0",0,1,0,0,0,0,0,0,0,0,0,0,"0","Thirteenth District Court",2016
+"966","Juvenile Homicide","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,0,1,0,"0","Thirteenth District Court",2016
+"967","Juvenile Motor Vehicle Offenses","1","3","1","3","2","2",0,0,0,0,0,0,0,0,0,0,2,1,"0","Thirteenth District Court",2016
+"968","Juvenile Sexual Offenses","13","5","2","11","9","3",5,1,0,0,0,0,0,0,4,4,1,2,"0","Thirteenth District Court",2016
+"969","Youthful Offender Crimes Against Persons","2","1","0","2","1","0",1,0,0,0,0,0,0,0,1,1,0,0,"0","Thirteenth District Court",2016
+"970","Youthful Offender Crimes Against Property","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Thirteenth District Court",2016
+"971","Youthful Offender Public Safety Offenses","0","0","2","2","0","0",0,0,0,0,0,0,0,0,0,0,0,2,"0","Thirteenth District Court",2016
+"972","Youthful Offender Homicide","1","2","1","2","2","1",1,0,0,0,0,0,0,0,0,0,2,0,"0","Thirteenth District Court",2016
+"973","Youthful Offender Sexual Offenses","3","1","1","3","2","1",1,0,0,0,0,0,0,0,1,1,1,1,"0","Thirteenth District Court",2016
+"974","Total","198","289","102","393","199","104",57,38,0,0,0,0,0,0,70,142,123,96,"0","Thirteenth District Court",2016
+"975","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"","Statewide District Court",2016
+"976","Adult Motor Vehicle Offenses","20","3","3","18","8","0",2,6,1,0,0,1,0,0,0,4,5,9,"0","Statewide District Court",2016
+"977","Domestic Violence Appeal","2","0","0","2","0","0",0,0,0,0,0,0,0,0,0,1,0,0,"0","Statewide District Court",2016
+"978","Domestic Violence Appeal ‐ Defendant Appellant","1","3","0","1","3","2",1,0,0,0,0,0,0,0,0,1,0,0,"0","Statewide District Court",2016
+"979","Domestic Violence Appeal ‐ Plaintiff Appellant","0","5","0","2","5","5",0,0,0,0,0,0,0,0,0,2,0,0,"0","Statewide District Court",2016
+"980","Extradition","126","216","0","182","160","49",62,49,0,0,0,0,0,0,9,1,127,0,"38","Statewide District Court",2016
+"981","Felony Crimes Against Property","6432","3442","3576","7448","6012","2112",1377,2523,129,9,59,32,25,21,566,2246,1651,3628,"0","Statewide District Court",2016
+"982","Felony Crimes Against Persons","5696","3984","2860","6956","5583","2304",1766,1513,223,13,120,64,27,24,555,2352,1919,2839,"6","Statewide District Court",2016
+"983","Felony Drug Offenses","5534","4054","3099","6752","5939","2285",1432,2222,99,7,59,9,20,18,556,2256,1731,2943,"3","Statewide District Court",2016
+"984","Felony DWI/DUI","1263","762","427","1224","1221","406",394,421,27,6,17,8,5,3,17,665,376,418,"0","Statewide District Court",2016
+"985","Felony Homicide","239","125","69","168","264","71",168,25,28,1,21,7,1,0,5,51,32,68,"0","Statewide District Court",2016
+"986","Felony Miscellaneous","890","529","290","859","849","321",287,241,13,2,9,2,2,0,51,293,242,289,"0","Statewide District Court",2016
+"987","Felony Public Safety Offenses","705","668","387","1032","730","360",178,192,18,3,11,6,3,1,85,401,258,401,"0","Statewide District Court",2016
+"988","Felony Sexual Offenses","907","410","276","763","826","246",384,196,87,6,38,40,7,6,55,238,198,268,"2","Statewide District Court",2016
+"989","Felony First Degree","45","0","18","32","31","5",19,7,2,0,2,0,0,0,1,1,1,27,"0","Statewide District Court",2016
+"990","Felony Domestic Violence","333","112","181","440","186","70",41,75,13,0,3,7,2,1,50,91,112,212,"1","Statewide District Court",2016
+"991","Felony Vehicular Homicide","20","12","11","17","26","7",13,6,2,0,1,0,0,1,0,6,5,9,"0","Statewide District Court",2016
+"992","Lower Court Appeal","50","0","1","11","40","3",31,6,1,1,2,0,0,0,3,3,2,0,"0","Statewide District Court",2016
+"993","Lower Court Appeal ‐ Defendant Appellant","277","342","17","344","292","143",144,5,6,63,51,5,1,10,34,168,44,13,"1","Statewide District Court",2016
+"994","Lower Court Appeal ‐ Plaintiff Appellant","20","18","0","20","18","11",7,0,0,0,0,0,0,0,6,2,8,1,"0","Statewide District Court",2016
+"995","Lower Court DWI/DUI Appeals","11","0","0","6","5","0",5,0,0,2,2,0,0,0,1,2,0,0,"0","Statewide District Court",2016
+"996","Lower Court DWI Appeal ‐ Defendant Appellant","191","198","9","222","177","92",84,1,10,53,54,3,1,4,14,104,18,7,"0","Statewide District Court",2016
+"997","Lower Court DWI Appeal ‐ Plaintiff Appellant","12","12","0","12","12","7",4,1,0,3,3,0,0,0,0,3,2,0,"0","Statewide District Court",2016
+"998","Misdemeanor (Dist.)","271","566","269","840","266","135",64,67,10,11,7,6,6,2,34,395,132,267,"0","Statewide District Court",2016
+"999","Misdemeanor DWI/DUI","151","195","26","193","179","74",53,52,8,19,8,5,10,4,3,99,51,31,"0","Statewide District Court",2016
+"1000","Petition for Review of Bond/Conditions of Release","5","9","0","5","9","2",7,0,0,0,0,0,0,0,3,1,1,0,"0","Statewide District Court",2016
+"1001","Total","23201","15665","11519","27549","22841","8710",6523,7608,677,199,467,195,110,95,2048,9386,6915,11430,"51","Statewide District Court",2016
+"1002","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"","Statewide District Court",2016
+"1003","Juvenile Public Safety Offenses","135","226","83","330","119","75",27,17,0,1,0,0,0,1,59,113,100,83,"0","Statewide District Court",2016
+"1004","Juvenile Crimes Against Property","535","834","404","1280","492","290",112,90,1,8,2,0,6,1,133,523,354,422,"4","Statewide District Court",2016
+"1005","Juvenile Crimes Against Persons","632","1104","374","1460","647","393",154,100,6,8,4,2,4,4,195,538,483,366,"3","Statewide District Court",2016
+"1006","Juvenile Delinquent Felony","43","46","27","71","47","21",19,7,0,0,0,0,0,0,5,23,21,27,"0","Statewide District Court",2016
+"1007","Juvenile Delinquent Non‐Felony","91","123","66","197","85","42",32,11,2,3,1,0,2,2,5,92,39,67,"0","Statewide District Court",2016
+"1008","Juvenile Drug Offenses","243","415","188","632","216","128",49,39,0,2,0,0,2,0,66,241,181,187,"0","Statewide District Court",2016
+"1009","Juvenile DWI Offenses","47","69","22","105","35","24",8,3,0,1,0,1,0,0,6,63,46,19,"0","Statewide District Court",2016
+"1010","Juvenile Extradition","2","2","0","2","2","0",2,0,0,0,0,0,0,0,0,0,1,0,"1","Statewide District Court",2016
+"1011","Juvenile Graffiti Offenses","5","2","4","7","4","0",1,3,0,0,0,0,0,0,0,2,3,3,"0","Statewide District Court",2016
+"1012","Juvenile Truancy","8","12","0","13","7","7",0,0,0,2,0,0,0,2,1,3,7,0,"0","Statewide District Court",2016
+"1013","Juvenile Homicide","5","2","0","3","4","1",3,0,0,0,0,0,0,0,0,1,1,0,"1","Statewide District Court",2016
+"1014","Juvenile Motor Vehicle Offenses","27","76","15","88","30","21",7,2,0,0,0,0,0,0,7,43,42,14,"0","Statewide District Court",2016
+"1015","Juvenile Sexual Offenses","67","83","16","100","66","31",25,10,0,0,0,0,0,0,13,44,28,20,"4","Statewide District Court",2016
+"1016","Youthful Offender Crimes Against Persons","22","25","11","29","29","15",9,5,0,0,0,0,0,0,1,16,12,10,"0","Statewide District Court",2016
+"1017","Youthful Offender Crimes Against Property","11","15","2","10","18","10",6,2,1,0,1,0,0,0,1,7,3,1,"0","Statewide District Court",2016
+"1018","Youthful Offender Public Safety Offenses","1","4","3","2","6","4",0,2,0,0,0,0,0,0,0,0,0,2,"0","Statewide District Court",2016
+"1019","Youthful Offender Homicide","9","7","3","9","10","1",8,1,0,0,0,0,0,0,0,2,3,5,"0","Statewide District Court",2016
+"1020","Youthful Offender Sexual Offenses","19","15","4","12","26","11",11,4,2,0,2,0,0,0,1,6,3,3,"0","Statewide District Court",2016
+"1021","Youthful Offender Vehicular Homicide","0","1","0","0","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Statewide District Court",2016
+"1022","Total","1902","3061","1222","4350","1844","1075",473,296,12,25,10,3,14,10,493,1717,1327,1229,"13","Statewide District Court",2016
+"1023","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"First District Court",2017
+"1024","Adult Motor Vehicle Offenses","2","0","0","0","2","0",1,1,0,0,0,0,0,0,0,0,0,0,"0","First District Court",2017
+"1025","Extradition","18","4","0","1","21","3",18,0,0,0,0,0,0,0,0,0,1,0,"0","First District Court",2017
+"1026","Felony Crimes Against Property","647","369","412","653","793","286",256,251,7,0,2,5,0,0,40,178,41,389,"0","First District Court",2017
+"1027","Felony Crimes Against Persons","586","379","279","544","713","252",287,174,9,0,4,2,2,1,48,185,37,263,"1","First District Court",2017
+"1028","Felony Drug Offenses","559","372","274","571","633","220",189,224,5,0,4,0,0,1,49,224,46,251,"0","First District Court",2017
+"1029","Felony DWI/DUI","217","80","100","185","215","64",92,59,5,0,5,0,0,0,4,62,11,101,"1","First District Court",2017
+"1030","Felony Homicide","20","13","10","13","29","10",18,1,1,0,1,0,0,0,2,0,0,10,"0","First District Court",2017
+"1031","Felony Miscellaneous","60","21","25","46","59","16",19,24,0,0,0,0,0,0,2,16,2,26,"0","First District Court",2017
+"1032","Felony Public Safety Offenses","37","40","24","46","54","20",20,14,0,0,0,0,0,0,2,18,5,21,"0","First District Court",2017
+"1033","Felony Sexual Offenses","60","38","15","32","80","20",38,22,1,0,1,0,0,0,5,10,5,11,"0","First District Court",2017
+"1034","Felony Domestic Violence","1","0","1","0","2","1",1,0,0,0,0,0,0,0,0,0,0,0,"0","First District Court",2017
+"1035","Lower Court Appeal","7","0","0","0","7","0",7,0,0,0,0,0,0,0,0,0,0,0,"0","First District Court",2017
+"1036","Felony Vehicular Homicide","5","4","0","3","6","1",4,1,0,0,0,0,0,0,0,2,0,1,"0","First District Court",2017
+"1037","Lower Court Appeal ‐ Defendant Appellant","33","13","1","19","27","5",21,1,0,3,2,1,0,0,2,8,2,2,"0","First District Court",2017
+"1038","Lower Court Appeal ‐ Plaintiff Appellant","6","1","0","3","4","0",3,1,0,0,0,0,0,0,1,1,1,0,"0","First District Court",2017
+"1039","Lower Court DWI/DUI Appeals","3","0","0","0","3","0",3,0,0,0,0,0,0,0,0,0,0,0,"0","First District Court",2017
+"1040","Lower Court DWI Appeal ‐ Defendant Appellant","21","17","2","22","18","10",8,0,4,2,6,0,0,0,2,10,2,2,"0","First District Court",2017
+"1041","Lower Court DWI Appeal ‐ Plaintiff Appellant","1","2","0","2","1","0",1,0,0,0,0,0,0,0,0,1,1,0,"0","First District Court",2017
+"1042","Misdemeanor (Dist.)","1","2","0","1","2","1",1,0,0,0,0,0,0,0,0,1,0,0,"0","First District Court",2017
+"1043","Misdemeanor DWI/DUI","2","2","0","1","3","0",3,0,0,0,0,0,0,0,0,0,1,0,"0","First District Court",2017
+"1044","Petition for Review of Bond/Conditions of Release","3","19","1","7","15","12",3,0,0,0,0,0,0,0,0,0,0,0,"6","First District Court",2017
+"1045","Total","2289","1376","1144","2149","2687","921",993,773,32,5,25,8,2,2,157,716,155,1077,"8","First District Court",2017
+"1046","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"First District Court",2017
+"1047","Juvenile Public Safety Offenses","1","6","3","6","4","2",1,1,0,0,0,0,0,0,0,4,2,0,"0","First District Court",2017
+"1048","Juvenile Crimes Against Property","34","41","50","86","39","12",15,12,0,0,0,0,0,0,2,35,9,40,"0","First District Court",2017
+"1049","Juvenile Crimes Against Persons","44","82","65","140","51","23",15,13,0,0,0,0,0,0,8,58,16,56,"0","First District Court",2017
+"1050","Juvenile Delinquent Felony","8","3","1","6","6","0",2,4,0,0,0,0,0,0,0,4,1,1,"0","First District Court",2017
+"1051","Juvenile Delinquent Non‐Felony","5","4","9","12","6","1",2,3,0,0,0,0,0,0,1,3,1,7,"0","First District Court",2017
+"1052","Juvenile Drug Offenses","27","34","26","59","28","12",10,6,0,0,0,0,0,0,3,24,8,24,"0","First District Court",2017
+"1053","Juvenile DWI Offenses","4","9","5","8","10","6",3,1,0,0,0,0,0,0,0,4,0,4,"0","First District Court",2017
+"1054","Juvenile Graffiti Offenses","0","1","0","1","0","0",0,0,0,0,0,0,0,0,0,0,1,0,"0","First District Court",2017
+"1055","Juvenile Homicide","2","0","0","0","2","0",2,0,0,0,0,0,0,0,0,0,0,0,"0","First District Court",2017
+"1056","Juvenile Motor Vehicle Offenses","3","4","2","5","4","2",1,1,0,0,0,0,0,0,0,2,1,1,"0","First District Court",2017
+"1057","Juvenile Sexual Offenses","11","6","1","11","7","2",3,2,1,0,1,0,0,0,2,3,3,1,"0","First District Court",2017
+"1058","Youthful Offender Crimes Against Persons","2","0","2","2","2","1",1,0,0,0,0,0,0,0,0,1,0,1,"0","First District Court",2017
+"1059","Youthful Offender Crimes Against Property","1","1","0","1","1","0",1,0,0,0,0,0,0,0,1,0,0,0,"0","First District Court",2017
+"1060","Total","142","191","164","337","160","61",56,43,1,0,1,0,0,0,17,138,42,135,"0","First District Court",2017
+"1061","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Second District Court",2017
+"1062","Domestic Violence Appeal ‐ Defendant Appellant","3","0","0","2","1","0",1,0,0,0,0,0,0,0,0,1,0,0,"0","Second District Court",2017
+"1063","Domestic Violence Appeal ‐ Plaintiff Appellant","3","0","0","3","0","0",0,0,0,0,0,0,0,0,0,3,0,0,"0","Second District Court",2017
+"1064","Extradition","67","74","0","74","67","12",12,43,0,0,0,0,0,0,0,0,73,0,"0","Second District Court",2017
+"1065","Felony Crimes Against Property","2238","1282","1309","2758","2069","566",329,1174,18,3,5,2,4,10,183,741,505,1307,"0","Second District Court",2017
+"1066","Felony Crimes Against Persons","1369","1122","772","1995","1273","473",267,533,54,1,21,19,6,8,252,545,375,782,"0","Second District Court",2017
+"1067","Felony Drug Offenses","1478","950","831","1930","1333","341",145,847,20,1,10,3,5,3,139,385,520,860,"0","Second District Court",2017
+"1068","Felony DWI/DUI","278","156","39","175","298","66",90,142,1,0,1,0,0,0,13,90,29,43,"0","Second District Court",2017
+"1069","Felony Homicide","92","69","20","74","108","54",43,11,10,1,7,2,2,0,4,39,5,17,"0","Second District Court",2017
+"1070","Felony Miscellaneous","208","73","28","229","81","15",20,46,4,1,3,0,1,1,18,39,34,25,"0","Second District Court",2017
+"1071","Felony Public Safety Offenses","266","339","187","473","320","131",57,132,9,0,5,1,2,1,53,164,59,190,"0","Second District Court",2017
+"1072","Felony Sexual Offenses","232","108","79","209","210","60",63,87,19,1,10,8,0,2,17,44,40,91,"0","Second District Court",2017
+"1073","Felony First Degree","26","0","17","22","20","3",12,5,0,0,0,0,0,0,0,0,0,22,"0","Second District Court",2017
+"1074","Felony Domestic Violence","107","166","91","223","140","51",18,71,2,0,0,0,0,2,38,46,44,95,"0","Second District Court",2017
+"1075","Lower Court Appeal","1","0","0","0","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Second District Court",2017
+"1076","Felony Vehicular Homicide","5","18","2","6","19","8",9,2,0,0,0,0,0,0,0,3,0,3,"0","Second District Court",2017
+"1077","Lower Court Appeal ‐ Defendant Appellant","21","17","0","26","12","2",10,0,0,5,4,0,1,0,6,7,4,0,"1","Second District Court",2017
+"1078","Lower Court Appeal ‐ Plaintiff Appellant","1","0","0","1","0","0",0,0,0,0,0,0,0,0,1,0,0,0,"0","Second District Court",2017
+"1079","Lower Court DWI/DUI Appeals","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Second District Court",2017
+"1080","Lower Court DWI Appeal ‐ Defendant Appellant","38","20","1","37","22","13",9,0,0,0,0,0,0,0,1,15,0,1,"0","Second District Court",2017
+"1081","Lower Court DWI Appeal ‐ Plaintiff Appellant","4","3","0","5","2","2",0,0,0,0,0,0,0,0,2,1,0,0,"0","Second District Court",2017
+"1082","Misdemeanor (Dist.)","117","244","197","483","77","18",17,42,1,0,1,0,0,0,38,189,44,211,"0","Second District Court",2017
+"1083","Misdemeanor DWI/DUI","20","39","18","62","16","8",5,3,0,0,0,0,0,0,1,41,4,17,"0","Second District Court",2017
+"1084","Petition for Review of Bond/Conditions of Release","0","181","1","52","125","124",1,0,0,0,0,0,0,0,0,0,1,1,"49","Second District Court",2017
+"1085","Total","6575","4861","3592","8839","6195","1948",1109,3138,138,13,67,35,21,27,766,2353,1737,3665,"50","Second District Court",2017
+"1086","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Second District Court",2017
+"1087","Juvenile Public Safety Offenses","74","78","18","117","53","25",21,7,0,4,0,0,2,2,33,43,17,22,"0","Second District Court",2017
+"1088","Juvenile Crimes Against Property","184","291","98","398","171","89",48,34,2,2,1,0,2,1,68,171,63,112,"0","Second District Court",2017
+"1089","Juvenile Crimes Against Persons","273","378","77","479","250","137",81,32,0,9,1,0,6,2,147,180,69,92,"0","Second District Court",2017
+"1090","Juvenile Delinquent Felony","0","0","1","0","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Second District Court",2017
+"1091","Juvenile Delinquent Non‐Felony","1","4","1","4","2","2",0,0,0,0,0,0,0,0,1,1,0,2,"0","Second District Court",2017
+"1092","Juvenile Drug Offenses","47","48","10","76","29","16",3,10,0,2,0,0,1,1,26,26,10,14,"0","Second District Court",2017
+"1093","Juvenile DWI Offenses","8","11","2","15","6","3",1,2,0,0,0,0,0,0,0,10,1,4,"0","Second District Court",2017
+"1094","Juvenile Graffiti Offenses","1","1","0","2","0","0",0,0,0,0,0,0,0,0,0,1,0,1,"0","Second District Court",2017
+"1095","Juvenile Motor Vehicle Offenses","16","17","16","35","14","7",4,3,0,0,0,0,0,0,6,13,5,13,"0","Second District Court",2017
+"1096","Juvenile Sexual Offenses","5","13","2","16","4","3",0,1,0,0,0,0,0,0,3,9,2,2,"0","Second District Court",2017
+"1097","Youthful Offender Crimes Against Persons","17","35","10","32","30","18",8,4,0,1,0,0,1,0,0,23,8,8,"0","Second District Court",2017
+"1098","Youthful Offender Crimes Against Property","8","10","4","11","11","6",4,1,0,0,0,0,0,0,1,7,2,2,"0","Second District Court",2017
+"1099","Youthful Offender Public Safety Offenses","5","6","2","8","5","2",1,2,0,0,0,0,0,0,0,6,2,2,"0","Second District Court",2017
+"1100","Youthful Offender Homicide","3","0","0","1","2","0",1,1,0,0,0,0,0,0,0,1,0,0,"0","Second District Court",2017
+"1101","Youthful Offender Vehicular Homicide","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Second District Court",2017
+"1102","Total","643","892","241","1194","579","309",173,97,2,18,2,0,12,6,285,491,179,274,"0","Second District Court",2017
+"1103","CRIMINAL","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Third District Court",2017
+"1104","Adult Motor Vehicle Offenses","3","0","0","0","3","0",0,3,0,0,0,0,0,0,0,0,0,0,"0","Third District Court",2017
+"1105","Extradition","8","26","0","20","14","7",7,0,0,0,0,0,0,0,0,0,11,0,"9","Third District Court",2017
+"1106","Felony Crimes Against Property","492","253","262","555","451","183",69,199,8,1,3,2,3,1,15,220,48,265,"1","Third District Court",2017
+"1107","Felony Crimes Against Persons","634","400","299","723","615","251",164,200,18,0,5,6,4,3,11,298,78,322,"3","Third District Court",2017
+"1108","Felony Drug Offenses","601","429","272","694","611","213",174,224,6,0,6,0,0,0,12,373,47,264,"0","Third District Court",2017
+"1109","Felony DWI/DUI","91","65","34","73","116","39",25,52,5,0,4,1,0,0,1,37,6,24,"0","Third District Court",2017
+"1110","Felony Homicide","26","11","8","19","26","4",16,6,0,0,0,0,0,0,0,7,1,11,"0","Third District Court",2017
+"1111","Felony Miscellaneous","82","70","23","72","104","47",23,34,0,0,0,0,0,0,3,41,13,15,"0","Third District Court",2017
+"1112","Felony Public Safety Offenses","14","11","6","14","17","6",7,4,0,0,0,0,0,0,0,7,2,6,"0","Third District Court",2017
+"1113","Felony Sexual Offenses","124","51","48","90","133","43",52,38,8,0,2,5,0,1,1,22,19,42,"0","Third District Court",2017
+"1114","Felony First Degree","2","0","1","0","3","1",1,1,0,0,0,0,0,0,0,0,0,0,"0","Third District Court",2017
+"1115","Felony Domestic Violence","25","27","13","42","23","12",7,4,0,0,0,0,0,0,0,19,8,15,"0","Third District Court",2017
+"1116","Felony Vehicular Homicide","1","2","0","1","2","1",0,1,0,0,0,0,0,0,0,1,0,0,"0","Third District Court",2017
+"1117","Lower Court Appeal","1","0","0","0","1","0",0,1,0,0,0,0,0,0,0,0,0,0,"0","Third District Court",2017
+"1118","Lower Court Appeal ‐ Defendant Appellant","17","16","1","16","17","5",12,0,0,6,5,1,0,0,1,8,0,1,"0","Third District Court",2017
+"1119","Lower Court Appeal ‐ Plaintiff Appellant","1","1","0","1","1","0",1,0,0,0,0,0,0,0,0,0,1,0,"0","Third District Court",2017
+"1120","Lower Court DWI Appeal ‐ Defendant Appellant","7","8","1","10","6","3",3,0,1,4,4,0,1,0,1,3,1,0,"0","Third District Court",2017
+"1121","Misdemeanor (Dist.)","4","36","1","30","11","2",1,8,0,0,0,0,0,0,1,20,8,1,"0","Third District Court",2017
+"1122","Misdemeanor DWI/DUI","24","3","1","12","16","2",0,14,0,1,1,0,0,0,0,3,6,2,"0","Third District Court",2017
+"1123","Total","2157","1409","970","2372","2170","819",562,789,46,12,30,15,8,5,46,1059,249,968,"13","Third District Court",2017
+"1124","JUVENILE","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Third District Court",2017
+"1125","Juvenile Public Safety Offenses","3","32","1","23","13","12",0,1,0,0,0,0,0,0,1,12,8,2,"0","Third District Court",2017
+"1126","Juvenile Crimes Against Property","43","93","42","118","59","44",3,12,0,0,0,0,0,0,3,37,43,36,"0","Third District Court",2017
+"1127","Juvenile Crimes Against Persons","73","150","48","205","65","53",3,9,0,0,0,0,0,0,2,72,83,49,"0","Third District Court",2017
+"1128","Juvenile Delinquent Felony","2","9","1","4","7","7",0,0,0,0,0,0,0,0,0,2,2,0,"0","Third District Court",2017
+"1129","Juvenile Delinquent Non‐Felony","4","23","3","19","11","9",0,2,0,0,0,0,0,0,0,4,12,3,"0","Third District Court",2017
+"1130","Juvenile Drug Offenses","18","69","15","61","40","37",0,3,0,0,0,0,0,0,0,23,18,20,"0","Third District Court",2017
+"1131","Juvenile DWI Offenses","3","11","2","15","1","1",0,0,0,0,0,0,0,0,0,8,4,3,"0","Third District Court",2017
+"1132","Juvenile Motor Vehicle Offenses","1","8","0","8","1","1",0,0,0,0,0,0,0,0,0,0,8,0,"0","Third District Court",2017
+"1133","Juvenile Sexual Offenses","16","19","3","23","15","10",2,3,0,0,0,0,0,0,2,7,10,3,"1","Third District Court",2017
+"1134","Youthful Offender Crimes Against Persons","3","0","0","2","1","0",1,0,0,0,0,0,0,0,0,0,0,2,"0","Third District Court",2017
+"1135","Youthful Offender Crimes Against Property","0","0","1","1","0","0",0,0,0,0,0,0,0,0,0,0,0,1,"0","Third District Court",2017
+"1136","Youthful Offender Homicide","2","0","0","1","1","0",1,0,1,0,0,1,0,0,0,0,0,0,"0","Third District Court",2017
+"1137","Youthful Offender Sexual Offenses","2","2","0","4","0","0",0,0,1,0,0,1,0,0,0,2,1,1,"0","Third District Court",2017
+"1138","Total","170","416","116","484","214","174",10,30,2,0,0,2,0,0,8,167,189,120,"1","Third District Court",2017
+"1139","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Fourth District Court",2017
+"1140","Extradition","2","0","0","1","1","0",0,1,0,0,0,0,0,0,0,0,1,0,"0","Fourth District Court",2017
+"1141","Felony Crimes Against Property","60","82","64","136","71","40",11,20,2,0,1,0,0,1,13,54,32,61,"0","Fourth District Court",2017
+"1142","Felony Crimes Against Persons","94","140","68","183","121","68",35,18,4,0,4,0,0,0,15,88,45,60,"1","Fourth District Court",2017
+"1143","Felony Drug Offenses","90","116","54","142","120","61",25,34,1,0,0,1,0,0,15,76,43,41,"1","Fourth District Court",2017
+"1144","Felony DWI/DUI","23","27","12","34","29","17",8,4,0,0,0,0,0,0,0,20,10,10,"1","Fourth District Court",2017
+"1145","Felony Homicide","8","5","7","9","11","10",1,0,0,0,0,0,0,0,0,4,1,5,"0","Fourth District Court",2017
+"1146","Felony Miscellaneous","14","35","12","31","30","23",2,5,1,0,0,0,0,1,8,7,12,8,"0","Fourth District Court",2017
+"1147","Felony Public Safety Offenses","11","44","9","31","32","16",8,8,1,0,1,0,0,0,3,18,9,7,"0","Fourth District Court",2017
+"1148","Felony Sexual Offenses","21","10","5","23","13","4",9,0,2,0,1,0,0,1,1,13,9,5,"0","Fourth District Court",2017
+"1149","Felony Domestic Violence","0","8","1","5","4","2",2,0,0,0,0,0,0,0,2,3,2,0,"0","Fourth District Court",2017
+"1150","Felony Vehicular Homicide","0","1","0","0","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Fourth District Court",2017
+"1151","Lower Court Appeal ‐ Defendant Appellant","6","4","2","6","6","3",3,0,0,1,1,0,0,0,1,2,0,2,"0","Fourth District Court",2017
+"1152","Lower Court Appeal ‐ Plaintiff Appellant","0","1","0","0","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Fourth District Court",2017
+"1153","Lower Court DWI Appeal ‐ Defendant Appellant","1","3","0","2","2","1",1,0,0,1,1,0,0,0,0,1,0,0,"0","Fourth District Court",2017
+"1154","Total","330","476","234","603","442","247",105,90,11,2,9,1,0,3,58,286,164,199,"3","Fourth District Court",2017
+"1155","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Fourth District Court",2017
+"1156","Juvenile Public Safety Offenses","1","8","3","7","5","5",0,0,0,0,0,0,0,0,0,3,1,3,"0","Fourth District Court",2017
+"1157","Juvenile Crimes Against Property","8","10","4","20","2","2",0,0,0,0,0,0,0,0,2,8,5,3,"2","Fourth District Court",2017
+"1158","Juvenile Crimes Against Persons","5","9","1","14","1","0",1,0,0,1,0,0,1,0,0,8,2,3,"0","Fourth District Court",2017
+"1159","Juvenile Delinquent Felony","0","4","1","2","3","2",0,1,0,0,0,0,0,0,0,2,0,0,"0","Fourth District Court",2017
+"1160","Juvenile Delinquent Non‐Felony","0","1","0","0","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Fourth District Court",2017
+"1161","Juvenile Drug Offenses","0","3","2","4","1","1",0,0,0,0,0,0,0,0,0,2,0,2,"0","Fourth District Court",2017
+"1162","Juvenile DWI Offenses","0","4","0","3","1","1",0,0,0,0,0,0,0,0,0,3,1,0,"0","Fourth District Court",2017
+"1163","Juvenile Motor Vehicle Offenses","0","1","0","0","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Fourth District Court",2017
+"1164","Juvenile Sexual Offenses","0","1","0","1","0","0",0,0,0,0,0,0,0,0,0,1,0,0,"0","Fourth District Court",2017
+"1165","Total","14","41","11","51","15","13",1,1,0,1,0,0,1,0,2,27,9,11,"2","Fourth District Court",2017
+"1166","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Fifth District Court",2017
+"1167","Adult Motor Vehicle Offenses","2","2","4","5","3","2",0,1,0,0,0,0,0,0,0,2,0,3,"0","Fifth District Court",2017
+"1168","Contempt","0","1","0","0","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Fifth District Court",2017
+"1169","Extradition","2","3","0","4","1","0",1,0,0,0,0,0,0,0,0,0,1,0,"1","Fifth District Court",2017
+"1170","Felony Crimes Against Property","642","667","484","1070","727","480",136,111,23,2,6,5,7,7,48,383,135,483,"0","Fifth District Court",2017
+"1171","Felony Crimes Against Persons","418","337","234","607","381","217",111,53,32,1,14,8,7,4,19,206,92,258,"0","Fifth District Court",2017
+"1172","Felony Drug Offenses","748","694","579","1273","737","427",186,124,28,5,11,5,13,4,59,544,91,548,"0","Fifth District Court",2017
+"1173","Felony DWI/DUI","87","46","37","95","75","30",20,25,6,2,5,0,3,0,2,46,14,32,"0","Fifth District Court",2017
+"1174","Felony Homicide","43","22","13","35","42","16",25,1,6,0,2,4,0,0,0,9,2,18,"0","Fifth District Court",2017
+"1175","Felony Miscellaneous","10","7","0","10","7","3",2,2,0,0,0,0,0,0,1,5,2,2,"0","Fifth District Court",2017
+"1176","Felony Public Safety Offenses","123","167","75","212","154","95",46,13,8,1,7,1,0,1,1,101,26,76,"0","Fifth District Court",2017
+"1177","Felony Sexual Offenses","99","46","37","98","84","30",38,16,12,3,6,7,1,1,2,30,17,36,"0","Fifth District Court",2017
+"1178","Felony First Degree","1","0","1","0","2","1",1,0,0,0,0,0,0,0,0,0,0,0,"0","Fifth District Court",2017
+"1179","Felony Domestic Violence","11","12","16","26","15","12",2,1,1,0,0,0,0,1,1,6,2,17,"0","Fifth District Court",2017
+"1180","Felony Vehicular Homicide","3","0","0","1","2","0",2,0,0,0,0,0,0,0,0,0,0,1,"0","Fifth District Court",2017
+"1181","Lower Court Appeal ‐ Defendant Appellant","45","58","2","62","42","30",12,0,2,11,8,2,0,0,4,31,7,4,"1","Fifth District Court",2017
+"1182","Lower Court Appeal ‐ Plaintiff Appellant","2","0","0","2","0","0",0,0,1,0,1,0,0,0,0,1,0,0,"0","Fifth District Court",2017
+"1183","Lower Court DWI Appeal ‐ Defendant Appellant","28","12","2","26","16","9",5,2,4,4,4,2,0,0,2,9,3,0,"0","Fifth District Court",2017
+"1184","Lower Court DWI Appeal ‐ Plaintiff Appellant","1","1","0","0","2","1",0,1,0,0,0,0,0,0,0,0,0,0,"0","Fifth District Court",2017
+"1185","Misdemeanor (Dist.)","36","30","11","41","35","13",14,8,5,2,3,2,1,1,0,11,14,9,"0","Fifth District Court",2017
+"1186","Misdemeanor DWI/DUI","90","82","27","119","81","37",25,19,4,17,10,3,6,2,0,66,12,19,"0","Fifth District Court",2017
+"1187","Petition for Review of Bond/Conditions of Release","0","3","0","3","0","0",0,0,0,0,0,0,0,0,0,1,0,0,"0","Fifth District Court",2017
+"1188","Total","2391","2190","1522","3689","2407","1404",626,377,132,48,77,39,38,21,139,1451,418,1506,"2","Fifth District Court",2017
+"1189","JUVELINE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Fifth District Court",2017
+"1190","Juvenile Public Safety Offenses","16","32","18","55","11","7",2,2,1,6,2,2,3,0,3,26,4,15,"0","Fifth District Court",2017
+"1191","Juvenile Crimes Against Property","38","118","64","171","48","39",3,6,0,14,1,0,12,1,6,61,29,61,"1","Fifth District Court",2017
+"1192","Juvenile Crimes Against Persons","37","101","23","123","38","26",7,5,3,6,0,1,4,4,7,51,25,26,"5","Fifth District Court",2017
+"1193","Juvenile Delinquent Felony","4","16","2","13","8","7",1,0,0,0,0,0,0,0,0,9,3,1,"0","Fifth District Court",2017
+"1194","Juvenile Delinquent Non‐Felony","29","25","16","58","12","7",1,4,0,0,0,0,0,0,2,23,12,21,"0","Fifth District Court",2017
+"1195","Juvenile Drug Offenses","18","47","32","84","13","10",0,3,0,7,0,0,6,1,2,26,17,32,"0","Fifth District Court",2017
+"1196","Juvenile DWI Offenses","2","6","0","5","3","2",1,0,0,0,0,0,0,0,0,5,1,0,"0","Fifth District Court",2017
+"1197","Juvenile Graffiti Offenses","0","1","0","0","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Fifth District Court",2017
+"1198","Juvenile Truancy","7","27","0","30","4","4",0,0,0,7,2,0,4,1,0,12,11,0,"0","Fifth District Court",2017
+"1199","Juvenile Homicide","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,1,0,0,"0","Fifth District Court",2017
+"1200","Juvenile Motor Vehicle Offenses","3","10","4","14","3","3",0,0,0,0,0,0,0,0,1,7,2,4,"0","Fifth District Court",2017
+"1201","Juvenile Sexual Offenses","7","18","3","17","11","8",3,0,0,6,0,0,6,0,1,8,1,1,"0","Fifth District Court",2017
+"1202","Youthful Offender Crimes Against Persons","1","5","1","3","4","3",1,0,0,0,0,0,0,0,0,2,1,1,"0","Fifth District Court",2017
+"1203","Youthful Offender Crimes Against Property","2","1","0","2","1","1",0,0,0,0,0,0,0,0,0,2,0,0,"0","Fifth District Court",2017
+"1204","Youthful Offender Homicide","1","0","0","1","0","0",0,0,1,0,0,1,0,0,0,0,0,0,"0","Fifth District Court",2017
+"1205","Youthful Offender Public Safety Offenses","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,0,0,1,"0","Fifth District Court",2017
+"1206","Youthful Offender Sexual Offenses","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,1,0,0,"0","Fifth District Court",2017
+"1207","Total","168","407","163","579","157","118",19,20,5,46,5,4,35,7,22,234,106,163,"6","Fifth District Court",2017
+"1208","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Sixth District Court",2017
+"1209","Extradition","1","2","0","2","1","0",0,1,0,0,0,0,0,0,1,0,1,0,"0","Sixth District Court",2017
+"1210","Felony Crimes Against Property","106","107","112","221","103","45",16,42,7,0,1,2,3,1,16,63,15,125,"3","Sixth District Court",2017
+"1211","Felony Crimes Against Persons","172","147","119","277","160","83",44,33,14,0,4,4,5,1,16,86,37,131,"11","Sixth District Court",2017
+"1212","Felony Drug Offenses","168","199","145","316","194","110",29,55,4,0,1,1,2,0,36,113,36,144,"3","Sixth District Court",2017
+"1213","Felony DWI/DUI","23","21","15","37","24","12",5,7,2,1,1,0,2,0,0,18,9,14,"0","Sixth District Court",2017
+"1214","Felony Homicide","6","2","0","2","6","2",4,0,1,0,0,1,0,0,0,1,0,0,"0","Sixth District Court",2017
+"1215","Felony Miscellaneous","18","16","15","25","24","10",6,8,0,0,0,0,0,0,1,11,4,11,"0","Sixth District Court",2017
+"1216","Felony Public Safety Offenses","26","22","14","41","21","14",5,2,0,0,0,0,0,0,1,17,10,18,"2","Sixth District Court",2017
+"1217","Felony Sexual Offenses","10","6","7","15","8","3",5,0,1,0,1,0,0,0,0,3,3,9,"0","Sixth District Court",2017
+"1218","Felony Domestic Violence","1","1","0","2","0","0",0,0,0,0,0,0,0,0,0,1,1,0,"0","Sixth District Court",2017
+"1219","Lower Court Appeal ‐ Defendant Appellant","16","42","3","40","21","19",2,0,0,0,0,0,0,0,1,32,4,2,"1","Sixth District Court",2017
+"1220","Lower Court Appeal ‐ Plaintiff Appellant","2","0","1","3","0","0",0,0,0,0,0,0,0,0,0,2,0,1,"0","Sixth District Court",2017
+"1221","Lower Court DWI Appeal ‐ Defendant Appellant","6","4","0","7","3","1",2,0,0,0,0,0,0,0,0,7,0,0,"0","Sixth District Court",2017
+"1222","Misdemeanor (Dist.)","6","0","0","6","0","0",0,0,0,0,0,0,0,0,0,3,0,3,"0","Sixth District Court",2017
+"1223","Misdemeanor DWI/DUI","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Sixth District Court",2017
+"1224","Total","562","569","431","994","566","299",119,148,29,1,8,8,12,2,72,357,120,458,"20","Sixth District Court",2017
+"1225","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Sixth District Court",2017
+"1226","Juvenile Public Safety Offenses","1","9","3","9","4","4",0,0,0,0,0,0,0,0,0,3,3,3,"0","Sixth District Court",2017
+"1227","Juvenile Crimes Against Property","3","26","14","36","7","6",0,1,0,1,0,0,1,0,2,16,2,15,"0","Sixth District Court",2017
+"1228","Juvenile Crimes Against Persons","15","34","21","57","13","9",3,1,0,3,0,0,2,1,2,27,5,21,"0","Sixth District Court",2017
+"1229","Juvenile Delinquent Felony","0","7","6","12","1","1",0,0,0,0,0,0,0,0,1,4,2,5,"0","Sixth District Court",2017
+"1230","Juvenile Delinquent Non‐Felony","2","14","3","19","0","0",0,0,1,0,0,0,1,0,0,9,7,4,"0","Sixth District Court",2017
+"1231","Juvenile Drug Offenses","6","28","10","42","2","2",0,0,0,0,0,0,0,0,1,28,1,12,"0","Sixth District Court",2017
+"1232","Juvenile DWI Offenses","0","3","0","2","1","1",0,0,0,0,0,0,0,0,0,2,0,0,"0","Sixth District Court",2017
+"1233","Juvenile Sexual Offenses","1","3","0","3","1","1",0,0,0,0,0,0,0,0,1,2,0,0,"0","Sixth District Court",2017
+"1234","Youthful Offender Crimes Against Persons","2","0","0","2","0","0",0,0,1,0,1,0,0,0,0,0,0,1,"0","Sixth District Court",2017
+"1235","Youthful Offender Homicide","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Sixth District Court",2017
+"1236","Youthful Offender Sexual Offenses","1","0","0","1","0","0",0,0,1,0,0,1,0,0,0,0,0,0,"0","Sixth District Court",2017
+"1237","Total","32","124","57","183","30","24",4,2,3,4,1,1,4,1,7,91,20,61,"0","Sixth District Court",2017
+"1238","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"","Seventh District Court",2017
+"1239","Extradition","2","7","0","5","4","1",1,2,0,0,0,0,0,0,1,0,1,0,"3","Seventh District Court",2017
+"1240","Felony Crimes Against Property","113","125","43","147","134","65",44,25,0,0,0,0,0,0,1,83,25,47,"0","Seventh District Court",2017
+"1241","Felony Crimes Against Persons","124","104","37","130","134","72",49,13,5,0,1,3,1,0,8,65,31,32,"0","Seventh District Court",2017
+"1242","Felony Drug Offenses","155","183","61","209","190","93",63,34,0,0,0,0,0,0,7,113,44,64,"0","Seventh District Court",2017
+"1243","Felony DWI/DUI","18","13","8","26","13","6",2,5,0,0,0,0,0,0,0,12,3,12,"0","Seventh District Court",2017
+"1244","Felony Homicide","5","1","1","4","3","0",2,1,1,0,0,0,1,0,0,2,0,1,"0","Seventh District Court",2017
+"1245","Felony Miscellaneous","19","15","8","19","23","12",9,2,0,0,0,0,0,0,0,9,2,8,"0","Seventh District Court",2017
+"1246","Felony Public Safety Offenses","21","20","10","35","16","8",4,4,1,0,0,0,0,1,0,22,7,10,"0","Seventh District Court",2017
+"1247","Felony Sexual Offenses","18","16","6","22","18","6",10,2,2,0,2,0,0,0,0,11,6,7,"0","Seventh District Court",2017
+"1248","Felony Domestic Violence","3","2","1","4","3","3",0,0,0,0,0,0,0,0,0,2,2,0,"0","Seventh District Court",2017
+"1249","Felony Vehicular Homicide","5","0","0","2","3","0",3,0,0,0,0,0,0,0,0,1,1,0,"0","Seventh District Court",2017
+"1250","Lower Court Appeal ‐ Defendant Appellant","8","7","0","6","9","3",5,1,1,1,1,0,1,0,0,2,2,0,"0","Seventh District Court",2017
+"1251","Lower Court Appeal ‐ Plaintiff Appellant","0","1","0","1","0","0",0,0,0,0,0,0,0,0,0,0,1,0,"0","Seventh District Court",2017
+"1252","Lower Court DWI Appeal ‐ Defendant Appellant","5","0","1","5","1","1",0,0,0,1,0,0,1,0,0,3,0,1,"0","Seventh District Court",2017
+"1253","Lower Court DWI Appeal ‐ Plaintiff Appellant","1","0","0","1","0","0",0,0,0,0,0,0,0,0,1,0,0,0,"0","Seventh District Court",2017
+"1254","Misdemeanor (Dist.)","2","10","0","7","6","4",1,1,0,0,0,0,0,0,0,2,3,2,"0","Seventh District Court",2017
+"1255","Misdemeanor DWI/DUI","3","2","0","2","3","2",1,0,0,0,0,0,0,0,1,1,0,0,"0","Seventh District Court",2017
+"1256","Total","502","506","176","625","560","276",194,90,10,2,4,3,4,1,19,328,128,184,"3","Seventh District Court",2017
+"1257","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"","Seventh District Court",2017
+"1258","Juvenile Public Safety Offenses","1","6","1","4","4","1",2,1,0,0,0,0,0,0,0,3,0,1,"0","Seventh District Court",2017
+"1259","Juvenile Crimes Against Property","13","26","8","36","13","9",2,2,0,0,0,0,0,0,2,19,8,6,"0","Seventh District Court",2017
+"1260","Juvenile Crimes Against Persons","3","20","4","24","4","2",1,1,0,0,0,0,0,0,2,11,8,3,"0","Seventh District Court",2017
+"1261","Juvenile Delinquent Felony","2","1","0","1","2","1",1,0,0,0,0,0,0,0,0,0,0,0,"0","Seventh District Court",2017
+"1262","Juvenile Delinquent Non‐Felony","0","0","1","1","0","0",0,0,0,0,0,0,0,0,0,0,0,1,"0","Seventh District Court",2017
+"1263","Juvenile Drug Offenses","4","8","1","8","5","4",0,1,0,0,0,0,0,0,1,6,1,0,"0","Seventh District Court",2017
+"1264","Juvenile DWI Offenses","0","3","0","2","1","1",0,0,0,0,0,0,0,0,1,1,0,0,"0","Seventh District Court",2017
+"1265","Juvenile Motor Vehicle Offenses","0","2","0","2","0","0",0,0,0,0,0,0,0,0,1,0,1,0,"0","Seventh District Court",2017
+"1266","Juvenile Sexual Offenses","2","3","0","4","2","1",1,0,0,0,0,0,0,0,0,2,3,0,"0","Seventh District Court",2017
+"1267","Youthful Offender Homicide","1","2","0","1","2","2",0,0,1,0,0,1,0,0,0,0,0,0,"0","Seventh District Court",2017
+"1268","Youthful Offender Sexual Offenses","1","0","0","1","0","0",0,0,1,0,1,0,0,0,0,0,0,0,"0","Seventh District Court",2017
+"1269","Total","27","71","15","84","33","21",7,5,2,0,1,1,0,0,7,42,21,11,"0","Seventh District Court",2017
+"1270","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Eighth District Court",2017
+"1271","Contempt","0","1","0","0","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Eighth District Court",2017
+"1272","Extradition","0","1","0","0","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Eighth District Court",2017
+"1273","Felony Crimes Against Property","113","50","63","124","105","36",33,36,2,0,1,0,0,1,6,36,27,57,"0","Eighth District Court",2017
+"1274","Felony Crimes Against Persons","169","144","76","183","209","101",68,40,5,0,1,2,1,1,5,70,39,73,"0","Eighth District Court",2017
+"1275","Felony Drug Offenses","151","155","48","154","203","90",73,40,3,0,0,1,2,0,4,63,41,51,"1","Eighth District Court",2017
+"1276","Felony DWI/DUI","29","18","7","29","26","8",10,8,1,0,0,0,1,0,0,21,4,5,"0","Eighth District Court",2017
+"1277","Felony Homicide","5","9","1","6","9","5",4,0,1,0,1,0,0,0,0,1,3,2,"0","Eighth District Court",2017
+"1278","Felony Miscellaneous","21","24","6","13","38","17",14,7,2,0,1,1,0,0,1,3,3,5,"0","Eighth District Court",2017
+"1279","Felony Public Safety Offenses","19","39","8","32","35","24",7,4,2,0,1,0,0,1,1,17,3,9,"0","Eighth District Court",2017
+"1280","Felony Sexual Offenses","23","15","3","11","30","8",14,8,1,0,0,1,0,0,0,3,3,5,"0","Eighth District Court",2017
+"1281","Felony Domestic Violence","3","0","1","4","0","0",0,0,0,0,0,0,0,0,0,2,1,1,"0","Eighth District Court",2017
+"1282","Lower Court Appeal","3","0","0","2","1","1",0,0,0,0,0,0,0,0,0,0,2,0,"0","Eighth District Court",2017
+"1283","Lower Court Appeal ‐ Defendant Appellant","7","14","0","16","6","4",2,0,0,3,1,0,0,1,2,4,5,2,"0","Eighth District Court",2017
+"1284","Lower Court Appeal ‐ Plaintiff Appellant","0","4","0","4","0","0",0,0,0,1,1,0,0,0,1,1,1,0,"0","Eighth District Court",2017
+"1285","Lower Court DWI Appeal ‐ Defendant Appellant","3","2","0","3","2","2",0,0,0,0,0,0,0,0,0,3,0,0,"0","Eighth District Court",2017
+"1286","Lower Court DWI Appeal ‐ Plaintiff Appellant","0","1","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Eighth District Court",2017
+"1287","Misdemeanor (Dist.)","5","26","2","8","25","20",4,1,0,0,0,0,0,0,0,3,4,1,"0","Eighth District Court",2017
+"1288","Misdemeanor DWI/DUI","2","6","3","7","4","2",1,1,0,0,0,0,0,0,1,4,1,2,"0","Eighth District Court",2017
+"1289","Petition for Review of Bond/Conditions of Release","0","10","0","7","1","1",0,0,0,0,0,0,0,0,0,2,1,0,"4","Eighth District Court",2017
+"1290","Total","553","519","218","603","697","321",231,145,17,4,7,5,4,4,21,233,138,213,"5","Eighth District Court",2017
+"1291","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Eighth District Court",2017
+"1292","Juvenile Public Safety Offenses","2","3","6","8","3","0",3,0,0,0,0,0,0,0,0,1,1,6,"0","Eighth District Court",2017
+"1293","Juvenile Crimes Against Property","12","16","3","16","15","7",7,1,0,0,0,0,0,0,0,12,1,4,"0","Eighth District Court",2017
+"1294","Juvenile Crimes Against Persons","14","16","3","26","7","5",2,0,2,0,0,1,0,1,7,7,8,3,"0","Eighth District Court",2017
+"1295","Juvenile Delinquent Felony","2","14","1","13","4","2",1,1,0,0,0,0,0,0,1,7,4,1,"0","Eighth District Court",2017
+"1296","Juvenile Delinquent Non‐Felony","6","11","0","5","12","5",7,0,0,0,0,0,0,0,1,1,2,1,"0","Eighth District Court",2017
+"1297","Juvenile Drug Offenses","7","8","5","13","7","1",4,2,0,0,0,0,0,0,0,5,3,5,"0","Eighth District Court",2017
+"1298","Juvenile DWI Offenses","3","3","2","5","3","1",2,0,0,0,0,0,0,0,0,2,1,2,"0","Eighth District Court",2017
+"1299","Juvenile Extradition","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,0,1,0,"0","Eighth District Court",2017
+"1300","Juvenile Graffiti Offenses","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Eighth District Court",2017
+"1301","Juvenile Motor Vehicle Offenses","0","3","0","1","2","0",1,1,0,0,0,0,0,0,0,1,0,0,"0","Eighth District Court",2017
+"1302","Juvenile Sexual Offenses","3","1","0","1","3","0",2,1,0,0,0,0,0,0,0,0,1,0,"0","Eighth District Court",2017
+"1303","Youthful Offender Sexual Offenses","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,1,0,0,"0","Eighth District Court",2017
+"1304","Total","52","75","20","90","57","21",30,6,2,0,0,1,0,1,9,37,22,22,"0","Eighth District Court",2017
+"1305","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ninth District Court",2017
+"1306","Extradition","19","41","0","39","18","7",11,0,0,0,0,0,0,0,5,1,22,0,"11","Ninth District Court",2017
+"1307","Felony Crimes Against Property","301","211","98","343","271","118",73,80,9,0,8,1,0,0,7,153,45,132,"0","Ninth District Court",2017
+"1308","Felony Crimes Against Persons","254","262","74","333","261","129",91,41,18,0,11,5,2,0,4,168,58,90,"0","Ninth District Court",2017
+"1309","Felony Drug Offenses","411","300","143","479","382","160",113,109,15,0,10,0,0,5,16,232,58,160,"0","Ninth District Court",2017
+"1310","Felony DWI/DUI","25","17","5","15","32","6",14,12,3,0,2,0,0,1,0,5,0,7,"0","Ninth District Court",2017
+"1311","Felony Homicide","10","3","4","12","5","3",2,0,2,0,2,0,0,0,0,4,2,4,"0","Ninth District Court",2017
+"1312","Felony Miscellaneous","79","61","19","92","69","26",25,18,2,0,0,0,2,0,3,45,14,29,"0","Ninth District Court",2017
+"1313","Felony Public Safety Offenses","3","9","3","6","9","3",5,1,1,0,1,0,0,0,0,4,1,0,"0","Ninth District Court",2017
+"1314","Felony Sexual Offenses","54","28","12","49","47","18",20,9,5,0,3,2,0,0,3,23,6,13,"0","Ninth District Court",2017
+"1315","Felony First Degree","0","0","1","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Ninth District Court",2017
+"1316","Lower Court Appeal","6","0","0","2","4","0",4,0,0,0,0,0,0,0,0,0,2,0,"0","Ninth District Court",2017
+"1317","Lower Court Appeal ‐ Defendant Appellant","20","11","0","21","10","4",5,1,1,7,5,1,0,2,3,3,4,2,"1","Ninth District Court",2017
+"1318","Lower Court Appeal ‐ Plaintiff Appellant","0","1","0","0","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Ninth District Court",2017
+"1319","Lower Court DWI Appeal ‐ Defendant Appellant","2","1","0","2","1","1",0,0,0,0,0,0,0,0,0,1,1,0,"0","Ninth District Court",2017
+"1320","Misdemeanor (Dist.)","14","3","4","6","16","4",5,7,1,0,0,0,0,1,0,2,1,2,"0","Ninth District Court",2017
+"1321","Misdemeanor DWI/DUI","22","8","2","13","19","3",5,11,0,0,0,0,0,0,0,5,2,6,"0","Ninth District Court",2017
+"1322","Petition for Review of Bond/Conditions of Release","3","7","0","6","4","1",3,0,0,0,0,0,0,0,5,0,1,0,"0","Ninth District Court",2017
+"1323","Total","1223","963","365","1418","1150","484",377,289,57,7,42,9,4,9,46,646,217,445,"12","Ninth District Court",2017
+"1324","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ninth District Court",2017
+"1325","Juvenile Public Safety Offenses","4","11","0","4","11","11",0,0,0,1,0,0,0,1,2,0,0,1,"0","Ninth District Court",2017
+"1326","Juvenile Crimes Against Property","32","50","33","90","25","17",7,1,0,1,0,0,0,1,14,31,9,39,"0","Ninth District Court",2017
+"1327","Juvenile Crimes Against Persons","33","48","26","74","33","22",6,5,0,0,0,0,0,0,12,32,12,21,"0","Ninth District Court",2017
+"1328","Juvenile Delinquent Felony","3","3","0","3","3","0",3,0,0,0,0,0,0,0,1,1,1,0,"0","Ninth District Court",2017
+"1329","Juvenile Delinquent Non‐Felony","6","22","5","21","12","6",4,2,0,0,0,0,0,0,2,11,4,4,"0","Ninth District Court",2017
+"1330","Juvenile Drug Offenses","14","30","6","36","14","10",2,2,0,0,0,0,0,0,10,15,3,8,"0","Ninth District Court",2017
+"1331","Juvenile DWI Offenses","0","4","0","0","4","3",0,1,0,0,0,0,0,0,0,0,0,0,"0","Ninth District Court",2017
+"1332","Juvenile Extradition","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Ninth District Court",2017
+"1333","Juvenile Motor Vehicle Offenses","0","2","0","0","2","2",0,0,0,0,0,0,0,0,0,0,0,0,"0","Ninth District Court",2017
+"1334","Juvenile Sexual Offenses","3","7","0","4","6","4",2,0,0,0,0,0,0,0,1,2,1,0,"0","Ninth District Court",2017
+"1335","Youthful Offender Crimes Against Persons","1","0","0","0","1","0",0,1,0,0,0,0,0,0,0,0,0,0,"0","Ninth District Court",2017
+"1336","Youthful Offender Crimes Against Property","4","0","0","0","4","0",4,0,0,0,0,0,0,0,0,0,0,0,"0","Ninth District Court",2017
+"1337","Youthful Offender Sexual Offenses","2","0","1","0","3","1",2,0,0,0,0,0,0,0,0,0,0,0,"0","Ninth District Court",2017
+"1338","Total","103","177","71","232","119","76",31,12,0,2,0,0,0,2,42,92,30,73,"0","Ninth District Court",2017
+"1339","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Tenth District Court",2017
+"1340","Felony Crimes Against Property","30","21","20","44","27","18",3,6,1,0,0,0,1,0,3,17,11,17,"0","Tenth District Court",2017
+"1341","Felony Crimes Against Persons","47","32","24","61","41","22",13,6,1,0,0,0,1,0,5,24,17,24,"0","Tenth District Court",2017
+"1342","Felony Drug Offenses","58","54","22","63","71","28",25,18,1,0,0,0,1,0,4,33,11,23,"0","Tenth District Court",2017
+"1343","Felony DWI/DUI","4","2","2","6","2","1",0,1,0,0,0,0,0,0,0,4,0,2,"0","Tenth District Court",2017
+"1344","Felony Homicide","3","3","0","2","4","1",2,1,0,0,0,0,0,0,0,2,1,0,"0","Tenth District Court",2017
+"1345","Felony Miscellaneous","37","42","15","51","43","23",10,10,1,0,1,0,0,0,4,19,16,14,"0","Tenth District Court",2017
+"1346","Felony Sexual Offenses","3","0","0","1","2","0",2,0,0,0,0,0,0,0,0,0,0,1,"0","Tenth District Court",2017
+"1347","Felony Vehicular Homicide","1","1","0","1","1","0",1,0,0,0,0,0,0,0,0,1,0,0,"0","Tenth District Court",2017
+"1348","Lower Court Appeal ‐ Defendant Appellant","11","7","0","11","8","2",6,0,0,0,0,0,0,0,0,10,0,1,"0","Tenth District Court",2017
+"1349","Lower Court DWI Appeal ‐ Plaintiff Appellant","0","1","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Tenth District Court",2017
+"1350","Lower Court DWI Appeal ‐ Defendant Appellant","0","4","0","1","3","2",1,0,0,0,0,0,0,0,0,1,0,0,"0","Tenth District Court",2017
+"1351","Misdemeanor (Dist.)","4","2","0","5","1","0",1,0,0,0,0,0,0,0,2,2,0,1,"0","Tenth District Court",2017
+"1352","Misdemeanor DWI/DUI","0","1","0","0","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Tenth District Court",2017
+"1353","Total","198","170","83","246","205","98",65,42,4,0,1,0,3,0,18,113,56,83,"0","Tenth District Court",2017
+"1354","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Tenth District Court",2017
+"1355","Juvenile Crimes Against Property","2","3","1","4","2","2",0,0,0,0,0,0,0,0,0,0,1,3,"0","Tenth District Court",2017
+"1356","Juvenile Crimes Against Persons","4","9","2","8","7","5",2,0,1,0,0,1,0,0,1,3,1,2,"0","Tenth District Court",2017
+"1357","Juvenile Delinquent Felony","2","8","1","7","4","3",1,0,0,0,0,0,0,0,0,4,4,1,"0","Tenth District Court",2017
+"1358","Juvenile Delinquent Non‐Felony","5","1","4","5","5","1",4,0,0,0,0,0,0,0,0,1,0,4,"0","Tenth District Court",2017
+"1359","Juvenile Drug Offenses","3","1","3","6","1","0",1,0,0,0,0,0,0,0,0,1,2,4,"0","Tenth District Court",2017
+"1360","Juvenile Motor Vehicle Offenses","1","1","0","2","0","0",0,0,0,0,0,0,0,0,0,0,1,1,"0","Tenth District Court",2017
+"1361","Youthful Offender Crimes Against Property","0","0","1","0","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Tenth District Court",2017
+"1362","Total","17","23","12","32","20","12",8,0,1,0,0,1,0,0,1,9,9,15,"0","Tenth District Court",2017
+"1363","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Eleventh District Court",2017
+"1364","Adult Motor Vehicle Offenses","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,0,1,0,"0","Eleventh District Court",2017
+"1365","Extradition","10","41","0","40","11","6",1,4,0,0,0,0,0,0,2,0,9,0,"29","Eleventh District Court",2017
+"1366","Felony Crimes Against Property","277","266","150","347","346","164",64,118,0,0,0,0,0,0,12,154,51,143,"0","Eleventh District Court",2017
+"1367","Felony Crimes Against Persons","516","386","273","671","508","223",133,152,17,0,10,1,3,2,24,294,118,253,"0","Eleventh District Court",2017
+"1368","Felony Drug Offenses","343","324","244","533","381","200",81,100,1,0,1,0,0,0,12,198,80,248,"0","Eleventh District Court",2017
+"1369","Felony DWI/DUI","206","164","55","216","209","85",58,66,7,0,4,1,0,2,0,148,32,49,"0","Eleventh District Court",2017
+"1370","Felony Homicide","13","8","9","13","17","8",8,1,1,0,1,0,0,0,0,4,0,8,"0","Eleventh District Court",2017
+"1371","Felony Miscellaneous","77","15","41","86","47","10",17,20,0,0,0,0,0,0,4,30,12,41,"0","Eleventh District Court",2017
+"1372","Felony Public Safety Offenses","84","97","50","127","105","59",24,22,4,0,2,0,2,0,2,71,14,40,"0","Eleventh District Court",2017
+"1373","Felony Sexual Offenses","69","59","20","71","79","33",40,6,3,0,2,1,0,0,3,39,13,19,"0","Eleventh District Court",2017
+"1374","Felony First Degree","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Eleventh District Court",2017
+"1375","Felony Domestic Violence","25","14","10","33","16","7",7,2,1,0,1,0,0,0,0,10,11,11,"0","Eleventh District Court",2017
+"1376","Lower Court Appeal","3","0","0","1","2","0",0,2,0,0,0,0,0,0,0,1,0,0,"0","Eleventh District Court",2017
+"1377","Felony Vehicular Homicide","1","1","1","1","2","1",1,0,0,0,0,0,0,0,0,1,1,0,"0","Eleventh District Court",2017
+"1378","Lower Court Appeal ‐ Defendant Appellant","31","65","0","59","37","29",8,0,0,14,14,0,0,0,0,41,1,1,"2","Eleventh District Court",2017
+"1379","Lower Court Appeal ‐ Plaintiff Appellant","0","2","0","2","0","0",0,0,0,0,0,0,0,0,2,0,0,0,"0","Eleventh District Court",2017
+"1380","Lower Court DWI/DUI Appeals","1","0","0","1","0","0",0,0,0,0,0,0,0,0,0,1,0,0,"0","Eleventh District Court",2017
+"1381","Lower Court DWI Appeal ‐ Defendant Appellant","37","51","1","50","38","26",12,0,2,8,8,0,1,1,0,39,0,1,"0","Eleventh District Court",2017
+"1382","Lower Court DWI Appeal ‐ Plaintiff Appellant","2","1","0","3","0","0",0,0,0,1,1,0,0,0,0,2,0,0,"0","Eleventh District Court",2017
+"1383","Misdemeanor (Dist.)","28","31","2","25","36","22",3,11,0,3,3,0,0,0,0,18,3,2,"0","Eleventh District Court",2017
+"1384","Misdemeanor DWI/DUI","2","8","0","4","6","5",0,1,0,0,0,0,0,0,0,2,2,0,"0","Eleventh District Court",2017
+"1385","Petition for Review of Bond/Conditions of Release","1","6","0","5","2","0",2,0,0,0,0,0,0,0,0,2,0,0,"3","Eleventh District Court",2017
+"1386","Total","1728","1539","856","2289","1843","878",460,505,36,26,47,3,6,5,61,1055,348,816,"34","Eleventh District Court",2017
+"1387","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Eleventh District Court",2017
+"1388","Juvenile Public Safety Offenses","4","7","6","12","5","1",2,2,0,0,0,0,0,0,0,3,2,8,"0","Eleventh District Court",2017
+"1389","Juvenile Crimes Against Property","46","64","35","110","35","20",11,4,0,0,0,0,0,0,0,43,47,39,"0","Eleventh District Court",2017
+"1390","Juvenile Crimes Against Persons","36","78","26","107","33","28",3,2,1,0,0,1,0,0,0,52,49,26,"0","Eleventh District Court",2017
+"1391","Juvenile Delinquent Felony","3","4","0","5","2","2",0,0,0,0,0,0,0,0,0,2,3,2,"0","Eleventh District Court",2017
+"1392","Juvenile Delinquent Non‐Felony","7","13","3","17","6","5",1,0,0,0,0,0,0,0,0,8,9,2,"0","Eleventh District Court",2017
+"1393","Juvenile Drug Offenses","17","37","16","56","14","9",4,1,0,0,0,0,0,0,0,30,21,18,"0","Eleventh District Court",2017
+"1394","Juvenile DWI Offenses","8","10","3","16","4","4",0,0,0,0,0,0,0,0,0,10,8,3,"0","Eleventh District Court",2017
+"1395","Juvenile Graffiti Offenses","0","1","0","1","0","0",0,0,0,0,0,0,0,0,0,0,1,0,"0","Eleventh District Court",2017
+"1396","Juvenile Motor Vehicle Offenses","1","3","1","5","0","0",0,0,0,0,0,0,0,0,0,2,2,1,"0","Eleventh District Court",2017
+"1397","Juvenile Sexual Offenses","4","12","7","19","4","4",0,0,1,0,0,0,1,0,0,8,7,5,"0","Eleventh District Court",2017
+"1398","Youthful Offender Crimes Against Persons","2","1","1","3","1","0",1,0,0,0,0,0,0,0,0,2,2,1,"0","Eleventh District Court",2017
+"1399","Youthful Offender Crimes Against Property","0","3","1","3","1","1",0,0,0,0,0,0,0,0,0,2,1,1,"0","Eleventh District Court",2017
+"1400","Youthful Offender Sexual Offenses","6","2","1","4","5","1",3,1,0,0,0,0,0,0,0,2,2,1,"0","Eleventh District Court",2017
+"1401","Total","134","235","100","358","110","75",25,10,2,0,0,1,1,0,0,164,154,107,"0","Eleventh District Court",2017
+"1402","CRIMINAL","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Twelfth District Court",2017
+"1403","Extradition","5","9","0","4","10","3",6,1,0,0,0,0,0,0,1,0,2,0,"1","Twelfth District Court",2017
+"1404","Felony Crimes Against Property","240","175","114","255","275","131",104,40,8,1,6,2,0,1,8,75,23,142,"0","Twelfth District Court",2017
+"1405","Felony Crimes Against Persons","340","185","163","335","353","126",174,53,20,0,12,4,2,1,11,87,41,178,"0","Twelfth District Court",2017
+"1406","Felony Drug Offenses","564","275","251","489","604","224",229,151,21,1,16,0,1,4,22,149,58,258,"1","Twelfth District Court",2017
+"1407","Felony DWI/DUI","72","26","10","52","58","11",30,17,3,1,3,0,0,1,0,24,8,21,"0","Twelfth District Court",2017
+"1408","Felony Homicide","10","6","4","7","13","6",7,0,1,0,1,0,0,0,0,0,2,4,"0","Twelfth District Court",2017
+"1409","Felony Miscellaneous","189","61","80","156","178","64",75,39,5,2,5,1,0,1,8,47,22,84,"0","Twelfth District Court",2017
+"1410","Felony Public Safety Offenses","15","24","3","9","33","12",17,4,0,0,0,0,0,0,0,6,0,2,"0","Twelfth District Court",2017
+"1411","Felony Sexual Offenses","53","24","14","36","55","19",30,6,3,0,0,2,1,0,1,10,3,20,"0","Twelfth District Court",2017
+"1412","Felony Domestic Violence","9","3","3","6","9","2",4,3,0,0,0,0,0,0,0,2,2,3,"0","Twelfth District Court",2017
+"1413","Lower Court Appeal","4","0","1","2","3","0",2,1,0,0,0,0,0,0,0,0,0,2,"0","Twelfth District Court",2017
+"1414","Felony Vehicular Homicide","2","0","0","1","1","0",0,1,0,0,0,0,0,0,0,0,1,0,"0","Twelfth District Court",2017
+"1415","Lower Court Appeal ‐ Defendant Appellant","20","20","0","9","31","16",15,0,0,2,2,0,0,0,0,2,2,2,"0","Twelfth District Court",2017
+"1416","Lower Court Appeal ‐ Plaintiff Appellant","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Twelfth District Court",2017
+"1417","Lower Court DWI Appeal ‐ Defendant Appellant","3","7","0","4","6","4",2,0,2,0,1,0,0,1,0,0,0,0,"0","Twelfth District Court",2017
+"1418","Misdemeanor (Dist.)","38","20","8","24","42","14",19,9,2,1,2,0,0,1,0,11,5,5,"0","Twelfth District Court",2017
+"1419","Misdemeanor DWI/DUI","4","0","2","4","2","0",1,1,0,0,0,0,0,0,0,0,0,4,"0","Twelfth District Court",2017
+"1420","Petition for Review of Bond/Conditions of Release","0","3","0","1","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"1","Twelfth District Court",2017
+"1421","Total","1569","838","653","1394","1675","632",717,326,65,8,48,9,4,10,51,413,169,725,"3","Twelfth District Court",2017
+"1422","JUVENILE","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Twelfth District Court",2017
+"1423","Juvenile Public Safety Offenses","2","1","2","4","1","0",1,0,0,0,0,0,0,0,1,0,0,3,"0","Twelfth District Court",2017
+"1424","Juvenile Crimes Against Property","21","24","12","41","16","11",4,1,0,0,0,0,0,0,4,17,4,14,"1","Twelfth District Court",2017
+"1425","Juvenile Crimes Against Persons","31","23","15","50","19","11",5,3,0,0,0,0,0,0,2,20,6,21,"0","Twelfth District Court",2017
+"1426","Juvenile Delinquent Felony","11","5","6","17","5","1",4,0,0,0,0,0,0,0,1,5,1,10,"0","Twelfth District Court",2017
+"1427","Juvenile Delinquent Non‐Felony","11","15","11","31","6","1",2,3,0,0,0,0,0,0,2,14,1,14,"0","Twelfth District Court",2017
+"1428","Juvenile Drug Offenses","8","14","3","18","7","5",2,0,0,0,0,0,0,0,2,11,2,4,"0","Twelfth District Court",2017
+"1429","Juvenile DWI Offenses","2","2","0","3","1","0",1,0,0,0,0,0,0,0,0,2,0,1,"0","Twelfth District Court",2017
+"1430","Juvenile Graffiti Offenses","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Twelfth District Court",2017
+"1431","Juvenile Motor Vehicle Offenses","3","0","1","4","0","0",0,0,0,0,0,0,0,0,0,1,2,1,"0","Twelfth District Court",2017
+"1432","Juvenile Sexual Offenses","3","3","0","5","1","1",0,0,1,0,0,1,0,0,1,3,0,0,"0","Twelfth District Court",2017
+"1433","Youthful Offender Crimes Against Persons","1","1","0","0","2","2",0,0,0,0,0,0,0,0,0,0,0,0,"0","Twelfth District Court",2017
+"1434","Youthful Offender Crimes Against Property","2","1","0","2","1","0",1,0,0,0,0,0,0,0,0,1,0,1,"0","Twelfth District Court",2017
+"1435","Youthful Offender Homicide","0","1","0","0","1","1",0,0,0,0,0,0,0,0,0,0,0,0,"0","Twelfth District Court",2017
+"1436","Youthful Offender Miscellaneous","0","0","1","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Twelfth District Court",2017
+"1437","Youthful Offender Sexual Offenses","3","3","0","1","5","1",4,0,0,0,0,0,0,0,0,0,1,0,"0","Twelfth District Court",2017
+"1438","Total","99","93","51","176","67","34",26,7,1,0,0,1,0,0,13,74,17,69,"1","Twelfth District Court",2017
+"1439","CRIMINAL","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"","Thirteenth District Court",2017
+"1440","Domestic Violence Appeal ‐ Defendant Appellant","0","1","0","1","0","0",0,0,0,0,0,0,0,0,0,1,0,0,"0","Thirteenth District Court",2017
+"1441","Extradition","19","55","0","57","16","6",8,2,0,0,0,0,0,0,6,0,47,0,"4","Thirteenth District Court",2017
+"1442","Felony Crimes Against Property","737","311","312","698","667","216",180,271,6,0,3,1,0,2,44,241,110,310,"0","Thirteenth District Court",2017
+"1443","Felony Crimes Against Persons","851","405","274","735","798","261",260,277,14,0,7,3,3,1,41,292,158,248,"0","Thirteenth District Court",2017
+"1444","Felony Domestic Violence","0","3","0","0","3","2",1,0,0,0,0,0,0,0,0,0,0,0,"0","Thirteenth District Court",2017
+"1445","Felony Drug Offenses","590","318","212","564","555","188",156,211,1,0,0,0,1,0,41,231,95,205,"0","Thirteenth District Court",2017
+"1446","Felony DWI/DUI","140","54","47","118","123","24",33,66,3,0,1,0,2,0,7,62,10,39,"0","Thirteenth District Court",2017
+"1447","Felony Homicide","24","13","4","17","25","7",16,2,3,0,3,0,0,0,0,5,2,8,"0","Thirteenth District Court",2017
+"1448","Felony Miscellaneous","72","29","20","57","64","22",20,22,1,0,1,0,0,0,1,20,13,22,"0","Thirteenth District Court",2017
+"1449","Felony Public Safety Offenses","106","61","37","100","104","36",47,21,0,0,0,0,0,0,8,36,18,41,"0","Thirteenth District Court",2017
+"1450","Felony Sexual Offenses","61","32","11","46","58","18",26,14,4,0,3,1,0,0,5,15,14,10,"0","Thirteenth District Court",2017
+"1451","Felony Vehicular Homicide","3","0","0","1","2","0",1,1,0,0,0,0,0,0,0,0,0,1,"0","Thirteenth District Court",2017
+"1452","Lower Court Appeal","14","0","0","0","14","0",13,1,0,0,0,0,0,0,0,0,0,0,"0","Thirteenth District Court",2017
+"1453","Lower Court Appeal ‐ Defendant Appellant","57","50","0","53","54","18",36,0,0,16,14,0,0,1,8,25,3,0,"0","Thirteenth District Court",2017
+"1454","Lower Court Appeal ‐ Plaintiff Appellant","4","1","0","3","2","0",2,0,0,0,0,0,0,0,0,3,0,0,"0","Thirteenth District Court",2017
+"1455","Lower Court DWI Appeal ‐ Defendant Appellant","24","49","0","47","27","20",7,0,0,16,11,0,0,3,2,25,3,0,"0","Thirteenth District Court",2017
+"1456","Lower Court DWI Appeal ‐ Plaintiff Appellant","3","1","0","3","1","0",1,0,0,1,1,0,0,0,1,0,1,0,"0","Thirteenth District Court",2017
+"1457","Misdemeanor (Dist.)","7","6","1","5","9","3",6,0,0,0,0,0,0,0,0,3,1,2,"0","Thirteenth District Court",2017
+"1458","Misdemeanor DWI/DUI","9","4","2","11","4","3",0,1,0,1,0,0,1,0,0,7,2,1,"0","Thirteenth District Court",2017
+"1459","Petition for Review of Bond/Conditions of Release","1","4","0","4","1","0",1,0,0,0,0,0,0,0,0,1,0,0,"0","Thirteenth District Court",2017
+"1460","Total","2722","1396","920","2519","2527","824",814,889,32,34,44,5,7,7,164,966,477,887,"4","Thirteenth District Court",2017
+"1461","JUVENILE","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"","Thirteenth District Court",2017
+"1462","Juvenile Public Safety Offenses","7","8","2","12","6","3",3,0,0,0,0,0,0,0,3,3,3,2,"0","Thirteenth District Court",2017
+"1463","Juvenile Crimes Against Property","50","55","29","75","60","37",15,8,0,0,0,0,0,0,16,16,16,27,"0","Thirteenth District Court",2017
+"1464","Juvenile Crimes Against Persons","68","76","19","97","68","37",19,12,0,3,0,1,0,2,22,29,21,21,"0","Thirteenth District Court",2017
+"1465","Juvenile Delinquent Felony","3","3","0","4","2","2",0,0,0,0,0,0,0,0,0,1,1,1,"0","Thirteenth District Court",2017
+"1466","Juvenile Delinquent Non‐Felony","5","10","1","9","7","5",1,1,0,0,0,0,0,0,2,5,2,0,"0","Thirteenth District Court",2017
+"1467","Juvenile Drug Offenses","42","66","21","82","47","34",7,6,0,0,0,0,0,0,21,22,18,21,"0","Thirteenth District Court",2017
+"1468","Juvenile DWI Offenses","3","18","2","13","10","5",2,3,0,0,0,0,0,0,2,7,2,2,"0","Thirteenth District Court",2017
+"1469","Juvenile Graffiti Offenses","1","0","0","0","1","0",0,1,0,0,0,0,0,0,0,0,0,0,"0","Thirteenth District Court",2017
+"1470","Juvenile Motor Vehicle Offenses","2","2","2","5","1","1",0,0,0,0,0,0,0,0,0,1,3,1,"0","Thirteenth District Court",2017
+"1471","Juvenile Sexual Offenses","9","5","1","7","8","3",4,1,0,0,0,0,0,0,3,0,2,1,"1","Thirteenth District Court",2017
+"1472","Youthful Offender Crimes Against Persons","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Thirteenth District Court",2017
+"1473","Youthful Offender Crimes Against Property","1","1","0","0","2","0",2,0,0,0,0,0,0,0,0,0,0,0,"0","Thirteenth District Court",2017
+"1474","Youthful Offender Public Safety Offenses","0","0","1","1","0","0",0,0,0,0,0,0,0,0,0,0,0,1,"0","Thirteenth District Court",2017
+"1475","Youthful Offender Homicide","2","0","1","1","2","0",2,0,0,0,0,0,0,0,0,0,0,1,"0","Thirteenth District Court",2017
+"1476","Youthful Offender Sexual Offenses","2","1","1","2","1","0",1,0,0,0,0,0,0,0,1,1,0,0,"0","Thirteenth District Court",2017
+"1477","Total","196","245","80","308","216","127",57,32,0,3,0,1,0,2,70,85,68,78,"1","Thirteenth District Court",2017
+"1478","CRIMINAL (not juvenile)","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Statewide District Court",2017
+"1479","Adult Motor Vehicle Offenses","8","2","4","6","8","2",1,5,0,0,0,0,0,0,0,2,1,3,"0","Statewide District Court",2017
+"1480","Contempt","0","2","0","0","2","2",0,0,0,0,0,0,0,0,0,0,0,0,"0","Statewide District Court",2017
+"1481","Domestic Violence Appeal ‐ Defendant Appellant","3","1","0","3","1","0",1,0,0,0,0,0,0,0,0,2,0,0,"0","Statewide District Court",2017
+"1482","Domestic Violence Appeal ‐ Plaintiff Appellant","3","0","0","3","0","0",0,0,0,0,0,0,0,0,0,3,0,0,"0","Statewide District Court",2017
+"1483","Extradition","153","263","0","247","165","46",65,54,0,0,0,0,0,0,16,1,169,0,"58","Statewide District Court",2017
+"1484","Felony Crimes Against Property","5996","3919","3443","7351","6039","2348",1318,2373,91,7,36,20,18,24,396,2398,1068,3478,"4","Statewide District Court",2017
+"1485","Felony Crimes Against Persons","5574","4043","2692","6777","5567","2278",1696,1593,211,2,94,57,37,22,459,2408,1126,2714,"16","Statewide District Court",2017
+"1486","Felony Drug Offenses","5916","4369","3136","7417","6014","2355",1488,2171,106,7,59,11,25,17,416,2734,1170,3117,"6","Statewide District Court",2017
+"1487","Felony DWI/DUI","1213","689","371","1061","1220","369",387,464,36,4,26,2,8,4,27,549,136,359,"2","Statewide District Court",2017
+"1488","Felony Homicide","265","165","81","213","298","126",148,24,27,1,18,7,3,0,6,78,19,88,"0","Statewide District Court",2017
+"1489","Felony Miscellaneous","886","469","291","886","767","288",242,237,16,3,11,2,3,3,54,292,149,289,"0","Statewide District Court",2017
+"1490","Felony Public Safety Offenses","725","873","426","1126","900","424",247,229,26,1,17,2,4,4,71,481,154,420,"2","Statewide District Court",2017
+"1491","Felony Sexual Offenses","827","433","257","703","817","262",347,208,61,4,31,27,2,5,38,223,138,269,"0","Statewide District Court",2017
+"1492","Felony First Degree","30","0","21","23","27","5",16,6,0,0,0,0,0,0,0,0,0,23,"0","Statewide District Court",2017
+"1493","Felony Domestic Violence","185","236","137","345","215","92",42,81,4,0,1,0,0,3,41,91,73,142,"0","Statewide District Court",2017
+"1494","Felony Vehicular Homicide","26","27","3","17","39","12",21,6,0,0,0,0,0,0,0,9,3,6,"0","Statewide District Court",2017
+"1495","Lower Court Appeal","39","0","1","7","33","2",26,5,0,0,0,0,0,0,0,1,4,2,"0","Statewide District Court",2017
+"1496","Lower Court Appeal ‐ Defendant Appellant","292","324","9","344","280","140",137,3,4,69,57,5,2,4,28,175,34,19,"6","Statewide District Court",2017
+"1497","Lower Court Appeal ‐ Plaintiff Appellant","17","12","1","20","10","2",7,1,1,1,2,0,0,0,5,8,4,1,"0","Statewide District Court",2017
+"1498","Lower Court DWI/DUI Appeals","5","0","0","1","4","0",4,0,0,0,0,0,0,0,0,1,0,0,"0","Statewide District Court",2017
+"1499","Lower Court DWI Appeal ‐ Defendant Appellant","175","178","8","216","145","93",50,2,13,36,35,2,3,5,8,117,10,5,"0","Statewide District Court",2017
+"1500","Lower Court DWI Appeal ‐ Plaintiff Appellant","12","10","0","14","8","3",4,1,0,2,2,0,0,0,4,4,2,0,"0","Statewide District Court",2017
+"1501","Misdemeanor (Dist.)","262","410","226","641","260","101",72,87,9,6,9,2,1,3,41,265,83,239,"0","Statewide District Court",2017
+"1502","Misdemeanor DWI/DUI","179","155","55","235","156","63",42,51,4,19,11,3,7,2,3,129,30,51,"0","Statewide District Court",2017
+"1503","Petition for Review of Bond/Conditions of Release","8","233","2","85","149","138",11,0,0,0,0,0,0,0,5,6,3,1,"63","Statewide District Court",2017
+"1504","Total","22799","16813","11164","27741","23124","9151",6372,7601,609,162,409,140,113,96,1618,9977,4376,11226,"157","Statewide District Court",2017
+"1505","JUVENILE","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Statewide District Court",2017
+"1506","Juvenile Public Safety Offenses","116","201","63","261","120","71",35,14,1,11,2,2,5,3,43,101,41,66,"0","Statewide District Court",2017
+"1507","Juvenile Crimes Against Property","486","817","393","1201","492","295",115,82,2,18,2,0,15,3,119,466,237,399,"4","Statewide District Court",2017
+"1508","Juvenile Crimes Against Persons","636","1024","330","1404","589","358",148,83,7,22,1,5,13,10,212,550,305,344,"5","Statewide District Court",2017
+"1509","Juvenile Delinquent Felony","40","77","20","87","48","29",13,6,0,0,0,0,0,0,4,41,22,22,"0","Statewide District Court",2017
+"1510","Juvenile Delinquent Non‐Felony","81","143","57","201","80","43",22,15,1,0,0,0,1,0,11,80,50,63,"0","Statewide District Court",2017
+"1511","Juvenile Drug Offenses","211","393","150","545","208","141",33,34,0,9,0,0,7,2,66,219,104,164,"0","Statewide District Court",2017
+"1512","Juvenile DWI Offenses","33","84","16","87","45","28",10,7,0,0,0,0,0,0,3,54,18,19,"0","Statewide District Court",2017
+"1513","Juvenile Extradition","2","0","0","1","1","0",1,0,0,0,0,0,0,0,0,0,1,0,"0","Statewide District Court",2017
+"1514","Juvenile Graffiti Offenses","4","4","0","4","4","1",2,1,0,0,0,0,0,0,0,1,2,1,"0","Statewide District Court",2017
+"1515","Juvenile Truancy","7","27","0","30","4","4",0,0,0,7,2,0,4,1,0,12,11,0,"0","Statewide District Court",2017
+"1516","Juvenile Homicide","3","0","0","1","2","0",2,0,0,0,0,0,0,0,0,1,0,0,"0","Statewide District Court",2017
+"1517","Juvenile Motor Vehicle Offenses","30","53","26","81","28","17",6,5,0,0,0,0,0,0,8,27,25,22,"0","Statewide District Court",2017
+"1518","Juvenile Sexual Offenses","64","91","17","111","62","37",17,8,3,6,1,1,7,0,14,45,30,13,"2","Statewide District Court",2017
+"1519","Youthful Offender Crimes Against Persons","30","42","14","44","42","24",13,5,1,1,1,0,1,0,0,28,11,14,"0","Statewide District Court",2017
+"1520","Youthful Offender Crimes Against Property","18","17","7","20","22","9",12,1,0,0,0,0,0,0,2,12,3,5,"0","Statewide District Court",2017
+"1521","Youthful Offender Public Safety Offenses","6","6","3","10","5","2",1,2,0,0,0,0,0,0,0,6,2,4,"0","Statewide District Court",2017
+"1522","Youthful Offender Homicide","10","3","1","5","9","3",5,1,3,0,0,3,0,0,0,1,0,1,"0","Statewide District Court",2017
+"1523","Youthful Offender Miscellaneous","0","0","1","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Statewide District Court",2017
+"1524","Youthful Offender Sexual Offenses","25","9","5","18","20","5",13,2,4,0,2,2,0,0,2,7,4,3,"0","Statewide District Court",2017
+"1525","Youthful Offender Vehicular Homicide","1","0","0","0","1","0",1,0,0,0,0,0,0,0,0,0,0,0,"0","Statewide District Court",2017
+"1526","Total","1803","2991","1103","4111","1783","1067",450,266,22,74,11,13,53,19,484,1651,866,1140,"11","Statewide District Court",2017

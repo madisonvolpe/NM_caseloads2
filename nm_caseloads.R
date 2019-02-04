@@ -98,6 +98,36 @@ setwd("H:/Public/Justice Program/Reports and Pubs/Crim/Arnold Foundation Fees an
 write.csv(criminal_district, "CriminalDistrictCaseloads.csv")
 
 
+                          ## Metro Court ## 
+
+
+                        ## Magistrate Criminal ## 
+## 2017 
+
+mc_2017 <- list(NA) 
+
+for(i in 52:71){
+  mc_2017[[i]] <- extract_tables(pdfs[[3]], i)
+}
+
+## 2016
+
+mc_2016 <- list(NA)
+
+for(i in 50:69){
+  mc_2016[[i]] <- extract_tables(pdfs[[2]], i)
+}
+
+## 2015 
+mc_2015 <- list(NA)
+
+for(i in 49:68){
+  mc_2015[[i]] <- extract_tables(pdfs[[1]],i)
+}
+
+
+
+
 
 
 

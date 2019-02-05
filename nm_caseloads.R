@@ -100,6 +100,7 @@ write.csv(criminal_district, "CriminalDistrictCaseloads.csv")
 
                           ## Metro Court ## 
 
+# does not read the criminal court cases, will do manually 
 
                         ## Magistrate Criminal ## 
 ## 2017 
@@ -125,13 +126,77 @@ for(i in 49:68){
   mc_2015[[i]] <- extract_tables(pdfs[[1]],i)
 }
 
+setwd("H:/Public/Justice Program/Reports and Pubs/Crim/Arnold Foundation Fees and Fines (Phase II)/Data/Cost Data/New Mexico/Caseloads2")
+source("cleaning_functions.R")
 
+mc_2017_c <- clean_mc(mc_2017)
+mc_2016_c <- clean_mc(mc_2016)
+mc_2015_c <- clean_mc(mc_2015)
 
+## remove statewide states because they were messy - 
+mc_2017_c[[20]] <- NULL
+mc_2016_c[[20]] <- NULL
+mc_2015_c[[20]] <- NULL
 
+## change those other problematic ones ## 
+sapply(mc_2017_c, function(x) x[ncol(x)==20])
 
+  ##change 16 
+  mc_2017_c[[16]] <- arrange.cols(mc_2017_c[[16]])
 
+sapply(mc_2016_c, function(x) x[ncol(x)==20])
 
+  ##change 1
+  mc_2016_c[[1]] <- arrange.cols(mc_2016_c[[1]]) 
+  
+  ##change 16 
+  mc_2016_c[[16]] <- arrange.cols(mc_2016_c[[16]])
 
+sapply(mc_2015_c, function(x) x[ncol(x)==20])
 
+  ## change 1
+  mc_2015_c[[1]] <- arrange.cols(mc_2015_c[[1]])
+  
+  ## change 16
+  mc_2015_c[[16]] <- arrange.cols(mc_2015_c[[16]])
 
+## check 
+lapply(mc_2017_c, colnames)
+lapply(mc_2016_c, colnames)
+lapply(mc_2015_c, colnames)
 
+  mc_2015_c[[1]] <- mc_2015_c[[1]][,c(1,2,3,7,8,4,9,10,5,6,11,12,13,14,
+                                      15,16,17,18,19,20,21)]
+## statewide data
+sw_17 <- cleansw(mc_2017[[71]])
+sw_17 <- sw_17[[1]][-1]
+sw_17[11,] <- sw_17[2,]
+sw_17 <- sw_17[-2,]
+sw_16 <- cleansw(mc_2016[[69]])
+sw_16 <- sw_16[[1]][-1]
+sw_15 <- cleansw(mc_2015[[68]])
+sw_15 <- sw_15[[1]][-1]
+
+## make final df 
+mc_2017_c<-lapply(mc_2017_c, custom_names2)
+colnames(sw_17) <- c("Court","Crime","PendStart", "New", "Reopen", "Closed",
+           "PendatEnd", "Pending0.6", "Pending6plus", 
+           "PendingInact.BW", "JuryTrials", "NonJuryTrials",
+           "Convict", "Acquit", "PleaTrial", "DismTrial", 
+           "DismBrief", "PleaBef", "DismbyPros", "PostJActiv", "Other")
+
+mc_2016_c <- lapply(mc_2016_c, custom_names2)
+colnames(sw_16) <- c("Court","Crime","PendStart", "New", "Reopen", "Closed",
+                      "PendatEnd", "Pending0.6", "Pending6plus", 
+                      "PendingInact.BW", "JuryTrials", "NonJuryTrials",
+                      "Convict", "Acquit", "PleaTrial", "DismTrial", 
+                      "DismBrief", "PleaBef", "DismbyPros", "PostJActiv", "Other")
+
+mc_2015_c <- lapply(mc_2015_c, custom_names2)
+colnames(sw_15) <- c("Court","Crime","PendStart", "New", "Reopen", "Closed",
+                     "PendatEnd", "Pending0.6", "Pending6plus", 
+                     "PendingInact.BW", "JuryTrials", "NonJuryTrials",
+                     "Convict", "Acquit", "PleaTrial", "DismTrial", 
+                     "DismBrief", "PleaBef", "DismbyPros", "PostJActiv", "Other")
+
+rm(list=ls(pattern="\\d$"))

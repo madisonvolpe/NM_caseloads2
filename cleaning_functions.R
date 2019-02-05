@@ -33,10 +33,47 @@ df[1, 2:length(df)] <- str_replace_all(string = df[1,2:length(df)],
 return(df)
 }
 
-## set colnames 
+## clean cols2 
 
+clean_cols2 <- function(df){
+  col_match <- vector(mode = "character")
+  for(i in names(df)){
+    if(!names(df[i]) %in% c("X1", "court") & 
+       sum(str_detect(string = df[[i]], pattern = "\\s")) == (nrow(df))){
+      col_match[i] <- names(df[i]) 
+    }
+  }
+  j = cSplit(df, splitCols = col_match, sep = " ")
+  return(j)
+}
+
+## clean cols3 
+
+clean_cols3 <- function(df){
+  col_match <- vector(mode = "character")
+  for(i in names(df)){
+    if(!names(df[i]) %in% c("X1", "court") & 
+       sum(str_detect(string = df[[i]], pattern = "\\s")) >=1 ){
+      col_match[i] <- names(df[i]) 
+    }
+  }
+  j = cSplit(df, splitCols = col_match, sep = " ")
+  return(j)
+}
+
+
+## set colnames 
 custom_names <- function(df){
-  colnames(df) <- c("Court", "PendStart", "New", "Reopen", "Closed",
+  colnames(df) <- c("Court","PendStart", "New", "Reopen", "Closed",
+                    "PendatEnd", "Pending0.6", "Pending6plus", 
+                    "PendingInact.BW", "JuryTrials", "NonJuryTrials",
+                    "Convict", "Acquit", "PleaTrial", "DismTrial", 
+                    "DismBrief", "PleaBef", "DismbyPros", "PostJActiv", "Other")
+  return(df)
+}
+
+custom_names2 <- function(df){
+  colnames(df) <- c("Court","Crime","PendStart", "New", "Reopen", "Closed",
                     "PendatEnd", "Pending0.6", "Pending6plus", 
                     "PendingInact.BW", "JuryTrials", "NonJuryTrials",
                     "Convict", "Acquit", "PleaTrial", "DismTrial", 
@@ -111,13 +148,60 @@ clean_mc <- function(lis){
   lis <- lapply(lis, function (df) df %>%
                   tidyr::fill(court))
   lis <- lapply(lis, function(df) df[-c(1:3),])
-  lis <- lapply(lis, function(df) df[rowSums(df[,2:11] == "")!=10,])
-  lis <- lapply(lis, clean_cols)
+  lis <- lapply(lis, function(df) df[rowSums(df[,1:ncol(df)] == "")!=
+                                       ncol(df)-2,])
+  lis <- lapply(lis, function(df) mutate_all(df, as.character))
+  lis <- lapply(lis, function(df) df %>%
+                  select(court, starts_with("X")))
+  lis <- lapply(lis, function(df) na.omit(df))
+  lis <- lapply(lis, clean_cols2)
   lis <- lapply(lis, dropNAcols)
+  lis <- lapply(lis, function(x){
+     x[] <- x[lapply(x, function(y) sum(y == ""))!= nrow(x)]
+   }) #remove empty columns in each df in the list
   return(lis)
 }
 
+## arranging problematic columns ##
+arrange.cols <- function(df){
+  re <- "\\s[0-9]{1,5}"
+  cleaned <- cbind(df, with(df, data.frame(name=substr(X1, 1L, regexpr(re,X1)),
+                                           value=substr(X1, regexpr(re, X1) + 1L, 1000L))))
+  cleaned <- cleaned[,c(1,21,22,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20)]
+  cleaned <- cleaned[,-c(4)]
+  return(cleaned)
+}
 
+### cleaning statewide ## 
+cleansw <- function(lis){
+  lis <- lapply(lis, data.frame) # make each entry in a list a df
+  lis <- lapply(lis, function(df) df %>%
+                  mutate(court = "Statewide Magistrate Court"))
+  lis <- lapply(lis, function(df) df[-c(1:3),])
+  lis <- lapply(lis, function(df) df[rowSums(df[,1:ncol(df)] == "")!=
+                                       ncol(df)-2,])
+  lis <- lapply(lis, function(df) mutate_all(df, as.character))
+  lis <- lapply(lis, function(df) df %>%
+                  select(court, starts_with("X")))
+  lis <- lapply(lis, function(df) na.omit(df))
+  lis <- lapply(lis, function(x){
+    x[] <- x[lapply(x, function(y) sum(y == ""))!= nrow(x)]
+  }) #remove empty columns in each df in the list
+  lis <- lapply(lis, clean_cols3)
+  lis <- lapply(lis, dropNAcols)
+  lis <- lapply(lis, function(df) df %>%
+                  rownames_to_column() %>%
+                  gather(variable, value, -rowname) %>%
+                  filter(!is.na(value)) %>%
+                  group_by(rowname) %>%
+                  mutate(indx = row_number())%>%
+                  select(-variable) %>%
+                  spread(indx, value) %>%
+                  select("1", "2","4", "5", "3", "6", "7", "8", "9", "10", "11",
+                         "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", -rowname)
+  )
+  return(lis)
+}
 
 
 
